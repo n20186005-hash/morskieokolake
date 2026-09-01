@@ -21,6 +21,9 @@ export default function HoursSection() {
           <TimeCard title={t('park')} time={t('parkTime')} iconKey="park" />
           <TimeCard title={t('bestTime')} time={t('bestTimeSpring')} subtitle={t('bestTimeSummer')} iconKey="season" />
           <TimeCard title={t('bestTime')} time={t('bestTimeAutumn')} subtitle={t('bestTimeWinter')} iconKey="season" />
+          {t.has('dailyBest') && (
+            <TimeCard title={t('dailyBest')} time={t('dailyBestDesc')} iconKey="clock" />
+          )}
         </div>
 
         <div
@@ -58,6 +61,12 @@ function TimeCard({ title, time, subtitle, iconKey }: { title: string; time: str
         <line x1="21" y1="12" x2="23" y2="12"/>
         <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
         <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+      </svg>
+    ),
+    clock: (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <circle cx="12" cy="12" r="10"/>
+        <polyline points="12 6 12 12 16 14"/>
       </svg>
     ),
   };

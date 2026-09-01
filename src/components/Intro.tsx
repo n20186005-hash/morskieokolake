@@ -6,6 +6,7 @@ export default function Intro() {
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
+  const nearbyItems: string[] = messages?.intro?.nearbyLandmarks?.items || [];
 
   return (
     <section className="section-padding">
@@ -66,6 +67,28 @@ export default function Intro() {
             </ul>
           </div>
         </div>
+
+        {nearbyItems.length > 0 && t.has('nearbyLandmarks.title') && (
+          <div
+            className="mt-10 rounded-xl p-6 sm:p-8"
+            style={{ background: 'var(--bg-tertiary)', border: '1px dashed var(--border-color)' }}
+          >
+            <h3
+              className="font-display text-xl font-semibold mb-4"
+              style={{ color: 'var(--text-primary)' }}
+            >
+              {t('nearbyLandmarks.title')}
+            </h3>
+            <ul className="space-y-3">
+              {nearbyItems.map((keyword, i) => (
+                <li key={i} className="flex items-start gap-3">
+                  <span className="mt-1.5 flex-shrink-0 w-1.5 h-1.5 rounded-full" style={{ background: 'var(--accent)' }} />
+                  <span style={{ color: 'var(--text-secondary)' }}>{keyword}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
 
         <div className="mt-12 p-6 sm:p-8 rounded-xl border border-[var(--accent)]" style={{ background: 'var(--bg-tertiary)' }}>
           <h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>

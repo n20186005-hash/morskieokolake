@@ -62,6 +62,11 @@ export default function Footer() {
           style={{ borderTop: '1px solid var(--border-color)', color: 'var(--text-muted)' }}
         >
           <p>{t('rights')}</p>
+          {t.has('imageCopyright') && (
+            <p className="text-xs max-w-3xl mx-auto leading-relaxed italic" style={{ color: 'var(--text-muted)' }}>
+              {t('imageCopyright')}
+            </p>
+          )}
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
         </div>
       </div>

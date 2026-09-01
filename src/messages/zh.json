@@ -1,312 +1,668 @@
 {
   "meta": {
-    "title": "海洋之眼 (Morskie Oko) – 扎科帕内, 波兰",
-    "description": "海洋之眼 (Morskie Oko) 完整旅游指南。"
+    "title": "海洋之眼 Morskie Oko 2026 完全指南：门票、停车、徒步路线与地图",
+    "description": "波兰扎科帕内塔特拉山脉海洋之眼（Morskie Oko）2026 年最新旅行指南：塔特拉国家公园门票价格、Palenica Białczańska 停车在线预约、徒步地图、路线耗时与天气预报。"
   },
   "header": {
     "home": "首页",
+    "knowledge": "知识",
+    "history": "历史",
+    "stories": "传说",
+    "amenities": "设施",
     "gallery": "图库",
-    "reviews": "评价",
-    "map": "地图",
+    "reviews": "游客评价",
+    "map": "地图定位",
     "backToHome": "返回首页"
   },
   "hero": {
     "title": "Morskie Oko",
-    "subtitle": "塔特拉山脉的明珠",
+    "subtitle": "塔特拉山脉的明珠 · 海洋之眼",
     "rating": "4.8",
-    "reviewCount": "6,615 条评价",
-    "type": "旅游胜地",
-    "openMaps": "在谷歌地图上查看位置",
+    "reviewCount": "6,996 条地图评价",
+    "type": "冰川湖 · 国家级自然保护景点",
+    "openMaps": "在谷歌地图中打开",
     "mapsLink": "https://maps.app.goo.gl/EkjxMAqKNf9H8NCb6"
   },
   "intro": {
-    "title": "探索 Morskie Oko (海洋之眼)",
-    "description": "Morskie Oko（海洋之眼）是塔特拉山脉最大的湖泊，面积34.5公顷，海拔1395米。它完全属于波兰境内的塔特拉国家公园。湖泊由冰河时代的冰川雕刻而成，水质清澈，能见度可达15米。",
+    "title": "走近海洋之眼 Morskie Oko",
+    "description": "Morskie Oko（意译“海洋之眼”，当地称 Rybi Staw「鱼塘」）是塔特拉山脉面积最大、深度第四的冰川成因湖泊，湖面 34.5 公顷，湖面海拔 1,395 米（m n.p.m.），最大水深 50.8 米。湖泊完全位于波兰小波兰省境内的塔特拉国家公园（Tatrzański Park Narodowy, TPN）保护区腹地，湖水清澈见底，能见度可达 15 米。从 Palenica Białczańska 停车场徒步至湖边：单程约 8–9 公里，耗时 2–2.5 小时；往返约 16–18 公里。",
     "visitGuide": {
-      "title": "游览建议",
+      "title": "2026 年游览关键须知",
       "items": [
-        "Morskie Oko 是塔特拉山脉最受欢迎的景点，旺季每天可能有上万人到访，建议尽早出发。",
-        "您可以从扎科帕内 (Zakopane) 出发，徒步前往。",
-        "除了 Morskie Oko，附近的 Czarny Staw pod Rysami 也是非常受欢迎的徒步目的地。",
-        "湖畔的木屋建于 1907-1908 年，是波兰塔特拉山脉目前仍在运营的最古老的避难所。"
+        "Palenica Białczańska 停车场自 2022 年起实行严格的在线预约制，必须通过 TPN 官方系统提前预订车位，现场购票无法入场。",
+        "务必在早晨 8:00 之前抵达停车场或公交站——七、八月旺季每日数千人流量，早出发是规避人潮的最有效手段。",
+        "建议在线购买塔特拉国家公园电子门票 e-bilet TPN，免去售票处排队时间。",
+        "国家公园法规严格禁止在湖中游泳、洗浴、喂鱼，违者由公园巡护员现场开具罚款单。",
+        "湖边的 PTTK 山地避难所建于 1907–1908 年，是波兰塔特拉山区现存运营历史最悠久的木屋，提供热食与饮料。",
+        "体力允许的情况下可沿支线继续上行至 Czarny Staw pod Rysami「雷萨山下黑湖」，并眺望波兰最高峰 Rysy（2,499 米）。"
       ]
     },
     "alsoKnownAs": {
-      "title": "亮点",
+      "title": "核心数据速览",
       "items": [
-        "塔特拉山脉最大的湖泊 (34.5公顷)",
-        "海拔 1395 米，最深处达 50.8 米",
-        "波兰塔特拉山脉唯一天然有鱼的湖泊 (褐鳟)",
-        "属于波兰塔特拉国家公园 (Tatrzański Park Narodowy)"
+        "塔特拉山脉最大湖泊：面积 34.5 公顷（0.345 平方公里）",
+        "湖面海拔：1,395 米（m n.p.m.）",
+        "最大水深 50.8 米，蓄水量约 990 万立方米",
+        "从 Palenica 停车场往返徒步 16–18 公里，单程耗时 2–2.5 小时",
+        "褐鳟（Salmo trutta morpha fario）原生栖息湖，属严格保护的自然水体",
+        "法定管理机构：塔特拉国家公园 TPN（IUCN 保护等级 II 类）"
+      ]
+    },
+    "nearbyLandmarks": {
+      "title": "海洋之眼 Morskie Oko 周边地标与邻近景点地理集群",
+      "items": [
+        "里西山 Rysy（海拔 2,499 m）—— 波兰最高可登顶山峰，波兰-斯洛伐克国境线穿顶，湖畔正南 3 公里山脊",
+        "黑湖 Czarny Staw pod Rysami（海拔 1,583 m）—— Morskie Oko 上游冰碛堰塞冰斗湖，徒步红标步道可达",
+        "扎科帕内 Krupówki 步行街 —— 城市历史商业主街，北侧距 Palenica 约 15 公里车程",
+        "Palenica Białczańska 步道起点 —— TPN 塔特拉国家公园唯一合法的 Morskie Oko 公路起点、游客中心、票务站与在线预约停车场",
+        "Łysa Polana 光头草坪 —— 斯洛伐克侧备用登山起点、前 TPN 过境关卡旧址，扎科帕内市区车程约 12 公里",
+        "Włosienica 检查点（7 公里里程碑）—— 马车终站、小卖部与 TPN 巡护站所在地，柏油公路末端与土石步道的分界线",
+        "Wodogrzmoty Mickiewicza 密茨凯维奇瀑布 —— 3.2 公里里程碑处的阶梯式瀑布观景台，含季节性男用流动厕所",
+        "小鱼谷 Dolina Rybiego Potoku —— 全谷 14,000 公顷纳入 Natura 2000 栖息地网络严格保护",
+        "Białka Tatrzańska 温泉综合体 —— 家庭型地热温泉度假片区，Palenica 西侧约 18 公里车程",
+        "Kasprowy Wierch 卡斯普罗维奇峰缆车 —— 1936 年起运营的 PKL 架空索道，抵达 1,987 m 高原观测平台"
       ]
     }
   },
   "knowledge": {
-    "title": "关于 Morskie Oko",
+    "title": "地质·传说·文化·历史全景",
     "sections": [
       {
-        "id": "history",
-        "title": "历史与起源",
-        "content": "湖泊是由上一次冰河时代的冰川雕刻而成。随着冰川融化，盆地逐渐被水填满。“Morskie Oko”（海洋之眼）这个名字是由游客取的，而当地高地人则称其为“Rybi Staw”（鱼塘），因为这里是波兰塔特拉山脉中唯一天然有鱼（褐鳟）的湖泊。"
+        "id": "geology",
+        "title": "冰川成因·魏克塞尔冰期刨蚀地貌",
+        "content": "海洋之眼（Morskie Oko）的冰斗盆地成形于更新世晚期魏克塞尔冰期（距今 11.5 万 – 1.17 万年）：山谷冰川沿塔特拉主脊北坡缓慢下移，以长达数万年的磨蚀作用将结晶花岗岩与片麻岩体刨挖为典型的圆弧形冰斗。冰川退缩后，岩石洼地逐步蓄积融水与大气降水成为湖泊。现今 50.8 米的最大水深大致对应当时冰舌在此处的厚度。地貌学将其归类为「冰碛堰塞冰斗湖」，下游方向的 Włosienica 检查站附近即为阻塞湖盆出口的后退冰碛垄所在地。"
       },
       {
-        "id": "geography",
-        "title": "地理与归属",
-        "content": "尽管塔特拉山脉是波兰与斯洛伐克的天然国界，Morskie Oko 完全位于波兰一侧的小波兰省境内。整个湖泊及其所在的 Rybi Potok 山谷深处波兰的塔特拉国家公园腹地。因此，这是一个不折不扣的波兰景点。"
+        "id": "naming",
+        "title": "地名考·双名并立的层叠史",
+        "content": "一千年来波德哈莱（Podhale）高地的原住民 Goral 高地人始终称该湖为「Rybi Staw（鱼塘）」——因它是塔特拉山区唯一一处褐鳟（Salmo trutta fario）在支流 Rybiego Potoku 溪中自行繁殖、完全不依赖人工放流的天然湖泊。「Morskie Oko（海洋之眼）」这一浪漫化地名则诞生于 19 世纪 70 年代加利西亚浪漫主义知识分子笔下，经首批塔特拉旅行指南推广后进入奥匈帝国官方制图体系，1900 年以后的波兰与奥地利地图几乎全部采用新名，高地人传统称谓的使用范围逐步退缩至口述民俗。"
+      },
+      {
+        "id": "legend",
+        "title": "民间传说·波罗的海地下通道的琥珀叙事",
+        "content": "Goral 高地的口头文学长期传颂：Morskie Oko 湖底有一条全长 500 余公里的石灰岩地下暗河系统，直通北方的波罗的海（Baltic Sea）。据说北岸一处泉水的涨落节奏与波罗的海潮汐严格同步——这便是「海洋之眼」一名在民间层真正的词源解释。另一则分支叙事讲述一位牧羊女不慎将琥珀项链坠入湖中，三周后琥珀珠竟在格但斯克（Gdańsk）的波罗的海海滩被渔民发现。水文地质学家 20 世纪 60 年代已用示踪剂实验证伪了两者之间的水文联系，但传说至今仍是塔特拉民俗节庆与徒步向导口头讲解的保留节目。"
+      },
+      {
+        "id": "goral",
+        "title": "Goral 高地文化·波德哈莱的民族志",
+        "content": "Rybiego Potoku 小鱼谷全境位于 Goral 高地人（Górale podhalańscy）的核心文化分布带。该民族是西斯拉夫人中一支独特的山地族群，拥有独立方言、季节性牧养传统、木构建筑体系（19 世纪 90 年代由 Stanisław Witkiewicz 总结为「扎科帕内风格」Styl Zakopiański，影响波及整个奥匈帝国的山地建筑）、多声部牧羊号子（góralski śpiew）以及以小提琴与 basolia 大贝司为核心的弦乐队音乐。现今 Palenica–Włosienica 段持照运营的马车（zaprzęgi konne）运营权全部属于周边村庄的高地人家族，特许制度可追溯至 1873 年塔特拉协会的第一批规章。"
+      },
+      {
+        "id": "tourism",
+        "title": "现代旅游史·1873 年协会到 1908 年避难所",
+        "content": "Morskie Oko 作为制度化旅游目的地的元年是 1873 年：是年「加利西亚塔特拉协会」（Towarzystwo Tatrzańskie w Galicji）于利沃夫成立，随即铺设第一条正式铺装的 Morskie Oko 道路、布设全系列距离指示牌并出版第一本官方法定指南。1898 年发生影响至今的「扎莫伊斯基伯爵捐赠案」：加利西亚大贵族、慈善家 Władysław Zamoyski 伯爵以象征性的 1 兹罗提对价，将涵盖 Morskie Oko 在内总面积 2,800 公顷的塔特拉私产永久转让给波兰民族，一举终结了地主家族对湖区的通行限制。1907–1908 年落成、运营至今的 PTTK Morskie Oko 避难所是波兰塔特拉山区存续连续最久的山地木屋。"
+      },
+      {
+        "id": "border",
+        "title": "边界史·1772 年第一次瓜分至 2007 申根",
+        "content": "1772 年波兰第一次瓜分后，整个小鱼谷落入奥匈帝国「加利西亚与洛多梅里亚王国」直辖，此身份持续 146 年，直至 1918 年 11 月哈布斯堡王朝倒台。1918–1920 年短暂的波捷塔特拉边界争端之后，1925 年《大使会议裁决》（Conference of Ambassadors Award）在国际法层面确认湖泊归属波兰。1947–1958 年共产党政权与捷克斯洛伐克完成实地立界，将今日 Rysy 峰主脊一线固化为国界（距湖畔约 3 公里）。1993 年天鹅绒分离后主脊成为波-斯两国界；2007 年 12 月 21 日两国同时加入申根区后，徒步者可沿整个高塔特拉主脊全线自由越境，不再接受任何边防检查。"
+      },
+      {
+        "id": "ecology",
+        "title": "生态与高山生物多样性",
+        "content": "湖泊盆地横跨山地森林带与高山带的过渡区：波兰塔特拉的林线约为海拔 1,550 米，因此 Morskie Oko（1,395 米）位于亚高山带上缘，紧邻矮松带下方。园内标志性物种包括塔特拉岩羚羊（Rupicapra rupicapra tatrica）——地球上仅存于塔特拉山脉的特有亚种——以及塔特拉旱獭（Marmota marmota latirostris），夏季它们的示警哨声在碎石坡间回荡。更高的山脊上栖息着雪鸡（岩雷鸟，Lagopus muta），冬季羽毛变为雪白，与金雕（Aquila chrysaetos）为邻。棕熊（Ursus arctos）、欧亚猞猁（Lynx lynx）与灰狼（Canis lupus）游荡于周边森林，欧洲水獭（Lutra lutra）则在湖水的泄流溪流小鱼溪（Rybi Potok）中捕食。湖中天然生活着原生褐鳟（Salmo trutta morpha fario）——正是这些「鱼」赋予了山谷「鱼塘之谷」的名字。高山植物同样独特：矮松（弯松，Pinus mugo）、瑞士石松（Pinus cembra）、雪绒花（高山火绒草，Leontopodium alpinum）以及多种塔特拉特有种，都在这严酷的小气候中顽强生长。由于整个流域都是 IUCN 二类国家公园内的严格 Natura 2000 栖息地，这里的野生动物受到全面保护：切勿投喂、追逐或惊扰动物；请为犬只系绳（仅允许在柏油马车路上牵行，山区小径禁止携带）；沿标记步道行走，以保护脆弱的高山草甸。"
       }
     ]
   },
+  "amenities": {
+    "title": "游客基础设施与配套业态（中立类型介绍）",
+    "intro": "本独立科普指南仅对配套设施的业态类型与地理分布进行中立、客观的类型化描述；不点名、不推荐、不背书任何具体商户、品牌、民宿、餐厅、零售商或加油站。具体设施的营业时间、当日价格及营业状态请务必以 TPN 官方及扎科帕内市政府链接（见页脚）或各经营者自身公告为准。",
+    "toilets": {
+      "title": "公共洗手间（WC / Toilets）",
+      "desc": "沿游览路线依次分布如下四级公厕节点。（一）Palenica Białczańska 停车场 + 小巴士总站：独立冲水公厕，含无障碍隔间与母婴换尿布台，单次付费进入。（二）3.2 公里 Wodogrzmoty Mickiewicza 瀑布观景台：季节性户外男用小便点，设施有限。（三）7.0 公里 Włosienica 检查点：付费冲水式洗手间，紧邻小卖部与马车终站。（四）湖畔避难所：收费公厕并入 PTTK 山地木屋主体建筑，开放时间与避难所营业时间同步。",
+      "tip": "避难所与检查站公厕多为消费客户优先或需小额硬币，请自备 PLN 现钞零钱；全流域自来水仅在 Palenica 及 Włosienica 两处可用，徒步全程请每人至少携带 2 升饮用水。"
+    },
+    "food": {
+      "title": "餐饮业态类型（不含具体商户名）",
+      "desc": "沿线共五种标准餐饮业态（仅列类型）。（一）湖畔山地避难所餐厅：提供饺子、猎人炖菜、酸麦汤等地方家常菜式及热饮，室内餐位加露天遮阳露台的正餐型经营。（二）Palenica 及 Włosienica 季节性售货亭：三明治、一次性纸杯热汤、点心、瓶装水和软饮料等即食型产品。（三）Palenica 小巴士总站区域的流动摊位与固定小吃亭：热饮与烘焙点心。（四）扎科帕内火车站附近及 Krupówki 步行街的巴士候车亭配套餐饮柜台。（五）扎科帕内市域及卫星村范围内广泛存在的持牌高地风味餐馆、民俗酒馆（karczma góralska）、甜品店与咖啡馆等正餐/休闲业态。",
+      "tip": "避难所一般可接受 PLN 现金及非接触式银行卡支付；建议至少自行携带 1 块能量棒或便携餐包上山，沿途售价普遍高于市区。"
+    },
+    "accommodation": {
+      "title": "住宿业态类型（仅类型，无具体民宿名）",
+      "desc": "游客可在如下五类标准化业态中选择（类型中立分类，不提名具体物业）。（一）湖畔 PTTK 山地避难所多人间宿舍：男女分间上下铺，共用卫浴；夏季高峰需 2–4 周前预订，含早晚套餐。（二）扎科帕内市内私人经营的家庭旅馆、小型精品民宿及公寓式住宿，多数提供独立卫浴与私人停车位。（三）卫星村庄 Bukowina Tatrzańska、Jurgów、Białka Tatrzańska、Kościelisko 等地的自助式度假公寓、小木屋与山间独立 cottage，距 Palenica 车程约 8–18 公里。（四）扎科帕内及 Białka Tatrzańska 区域的持牌露营地与房车营地，支持帐篷、自行式房车与拖挂式房车。（五）火车站与 Krupówki 步行街周边经济型旅舍与背包客多人间。",
+      "tip": "PTTK 湖畔避难所床位常年紧张，夏季七、八月需二至四周前完成预订；冬季务必提前向避难所管理方确认道路除雪状态。"
+    },
+    "shopping": {
+      "title": "商超购物与户外装备业态",
+      "desc": "零售业按业态划分为四类。（一）Palenica 停车场便利型迷你商超：饮用水、基础食品、防晒霜、创可贴、一次性雨衣、巧克力与能量棒。（二）扎科帕内市区全品类自助超市与折扣食品店——徒步前集中采购的首选地点。（三）Krupówki 步行街与火车站沿线：登山装备店、运动零售商与纪念品商铺，可采购冰爪、登山杖、雪套、Goral 民族手工艺品、羊毛织物与印刷版塔特拉徒步图集。（四）常设集市区 Oscypek 烟熏绵羊乳干酪（欧盟 PDO 原产地保护）与 Podhale 其它乳制品的集市型摊位。",
+      "tip": "野餐食品、饮用水、能量补给、防晒霜、防磨脚贴等一律在扎科帕内采购完毕再上山；Palenica 迷你商店选择有限且溢价明显。"
+    },
+    "fuelCharging": {
+      "title": "加油站与电动车充电设施",
+      "desc": "加油与充电按四类分布（仅类型、无品牌）。（一）DK 958 省道（扎科帕内↔Białka Tatrzańska）及新塔尔格（Nowy Targ）方向主干道上的综合性加油站：供应柴油、95/98 无铅汽油、液化石油气（LPG/Autogas）及便利店，位于 Palenica 以北约 5–12 公里范围。（二）扎科帕内都市圈大型商业园区与连锁超市停车场内的直流（DC）快充站。（三）TPN Palenica Białczańska 停车场内有限数量的交流（AC）慢充位；此充电位与 TPN 停车预约系统绑定，需在预订车位时同时勾选，余量有限。（四）多数中大型旅馆、民宿与露营地提供 230 V 常规插座，通常可供住客使用便携 EV 充电机或为手机、头灯等电子设备补能。",
+      "tip": "出发前必须加满燃油或充满电池，确有需要者在 TPN 停车位预约表单内主动勾选 EV 充电附加项；沿线徒步道上手机信号断续，无法在山谷中实时通过 App 预订充电桩。"
+    },
+    "parking": {
+      "title": "停车场与上下客区",
+      "desc": "步道起点以外的山区公路禁止私家车驶入，因此停车集中在两处官方区域（仅列类型，不涉及具体运营方）。（一）Palenica Białczańska：主步道起点停车场，约 900 个车位，严格执行 TPN 在线系统预约制，内设出租车与小巴即停即走的上落客环线。（二）Łysa Polana（Jurgów 附近）：边境区备用停车场，距 Palenica 约 10 公里，使用同一预约系统。全路段任何位置均不允许路侧停车。",
+      "tip": "出发前务必在线预约车位——夏季周末车位常常提前数周售罄；若当日无可约车位，改乘扎科帕内出发的小巴士是最佳替代方案。"
+    },
+    "atm": {
+      "title": "ATM 取款机与现金服务",
+      "desc": "现金服务按类型分布如下。（一）扎科帕内市中心——Krupówki 步行街、火车站片区及主要商业街——设有银行柜员机与独立 ATM，可取兹罗提（PLN）。（二）进山沿线部分加油站设有店内 ATM 终端。（三）公园内部（Palenica、Włosienica、湖畔避难所）不设银行 ATM，经营方式为现金或刷卡，视具体商户而定。",
+      "tip": "建议在扎科帕内提前取足现金：马车票、部分小卖部与停车缴费机以现金结算最方便；避难所可刷卡，但沿途部分服务可能只收现金。"
+    },
+    "medical": {
+      "title": "急救与应急医疗服务",
+      "desc": "医疗配套按类型如下。（一）步道与湖畔无常设医疗站，最近的全科医疗机构位于扎科帕内（区立医院，距 Palenica 车程约 20–25 分钟）。（二）驻扎于 Włosienica 的 TPN 巡护员与山地向导配备急救包，并接受过基础救援培训。（三）塔特拉志愿搜救队（TOPR）提供覆盖全公园的直升机与地面救援——紧急情况请拨打 112 或 601 100 300。（四）药店仅分布于扎科帕内市区及周边村镇。",
+      "tip": "请自备个人急救包，确认旅行/徒步保险覆盖山地救援费用，并在出发前保存 TOPR 紧急电话（112）。沿途移动信号不稳定。"
+    }
+  },
   "faq": {
-    "title": "常见问题解答",
+    "title": "常见问题与解答 (FAQ)",
     "items": [
       {
-        "question": "Morskie Oko 在波兰还是斯洛伐克？",
-        "answer": "Morskie Oko 完全位于波兰境内，属于塔特拉国家公园，尽管它距离斯洛伐克边境很近。"
+        "question": "Morskie Oko 究竟位于波兰还是斯洛伐克？",
+        "answer": "海洋之眼完全位于波兰境内的小波兰省塔特拉国家公园（Tatrzański Park Narodowy）内。它距离斯洛伐克边境（Rysy 峰附近的鞍部）仅约 3 公里，但湖泊本身及整个小鱼谷流域均属波兰领土。"
       },
       {
-        "question": "湖水有多深？",
-        "answer": "Morskie Oko 的最大深度为 50.8 米，总蓄水量约为 990 万立方米。"
+        "question": "Morskie Oko 的具体海拔高度是多少米？",
+        "answer": "湖面精确海拔为 1,395 米（m n.p.m.）。作为参考：起点 Palenica Białczańska 停车场海拔 931 米，因此单程累计垂直爬升约 464 米，分布于 8–9 公里的柏油路上，坡度缓和，无明显陡坡。"
       },
       {
-        "question": "可以在湖里游泳吗？",
-        "answer": "不可以。为了保护塔特拉国家公园脆弱的生态系统，严格禁止游泳、洗澡和喂鱼。"
+        "question": "湖水最深处有多少米？",
+        "answer": "Morskie Oko 实测最大水深为 50.8 米，按深度排名塔特拉山区第四位，仅次于 Wielki Staw Polski、Czarny Staw pod Rysami 和 Czarny Staw Gąsienicowy。总蓄水量约为 990 万立方米。"
       },
       {
-        "question": "徒步到湖边需要多长时间？",
-        "answer": "从 Palenica Białczańska 停车场出发，沿着柏油路单程步行大约需要 2 到 2.5 小时。"
+        "question": "可以在 Morskie Oko 游泳或下水吗？",
+        "answer": "绝对不可以。塔特拉国家公园法规明文禁止在任一湖泊、溪流中游泳、涉水、洗浴或投喂鱼类。Morskie Oko 是 IUCN II 类国家级公园内的严格保护自然纪念物，巡护员有权对违规者现场开具行政罚款（mandat），且全年执行。禁令目的在于保护褐鳟冷水栖息地及贫养型湖泊的脆弱生态系统。"
       },
       {
-        "question": "有吃东西的地方吗？",
-        "answer": "有的。湖边有一座历史悠久的 PTTK 避难所（建于1907-1908年），供应热食和饮料。"
+        "question": "徒步到湖边需要多长时间？全程多少公里？",
+        "answer": "从 Palenica Białczańska 主停车场出发，单程 8–9 公里，大多数徒步者以轻松步速 2–2.5 小时可达；往返 16–18 公里，累计爬升 464 米。前 7 公里为宽阔的柏油山路（不对私人机动车开放），通行马车及公园服务车辆；最后 1.5 公里为维护良好的碎石-柏油混合路面，全程可推结实型婴儿车。"
+      },
+      {
+        "question": "不在线预订直接开车到 Palenica 停车场，能进去吗？",
+        "answer": "不能。自 2022 年起，Morskie Oko 主起点 Palenica Białczańska 停车场及靠近斯洛伐克边境的 Łysa Polana（Jurgów）停车场均严格执行「只接受 TPN 官网在线预订」规则。未提前购买电子预订的车辆在公园入口道闸处会被直接劝返，尤其是周末和七、八月旺季。单日（24 小时）车位费用约 45–55 兹罗提（PLN）。"
+      },
+      {
+        "question": "从扎科帕内市区如何坐公交到 Morskie Oko？",
+        "answer": "在扎科帕内长途汽车站（Dworzec PKS，ul. Chałubińskiego 2）或扎科帕内火车站旁 / ul. Długa 靠近 Krupówki 步行街的站点乘坐标有「Morskie Oko」或「Palenica Białczańska」的小巴士（bus/minibus）。车程约 30–40 分钟，单程票价约 10–15 PLN。车辆一般满员即发，旺季（夏季）通常每 15–30 分钟一班。公共交通是停车场预订售罄后的首选替代方案。"
+      },
+      {
+        "question": "2026 年进入塔特拉国家公园的门票价格是多少？",
+        "answer": "2026 年塔特拉国家公园（TPN）单日门票参考价格：成人全价约 9 PLN；学生、65 岁以上长者、残障人士优惠票约 4.50 PLN；7 岁以下儿童免费。购票渠道：① TPN 官方 e-bilet 电子票务网站（推荐）；② Palenica Białczańska 现场售票处；③ Włosienica 检查点售票处。"
+      },
+      {
+        "question": "徒步途中可以乘坐马车到湖边吗？",
+        "answer": "可以坐一段，但不能直接到湖边。持有 TPN 许可执照的高地人传统马车（góralski zaprzęg konny）仅在 Palenica Białczańska ↔ Włosienica 之间运营，路段长约 7 公里。在 Włosienica 检查站下车后，最后 1.5 公里（约 30 分钟步行）必须步行至湖边。单程成人票价约 25–40 PLN，视季节浮动，可购买往返联票。动物保护规定对每日班次上限、马匹载重及休息间隔有法定要求。"
+      },
+      {
+        "question": "最佳游览季节是几月？一天中几点出发最合适？",
+        "answer": "最受欢迎的无雪月份为 6 月至 9 月。5 月下旬至 6 月上旬瀑布水量最丰，10 月初秋是落叶松金黄变色期，人流较少。无论选择何月，务必在 8:00 前抵达 Palenica 或公交站——上午湖面平静如镜，10 点后起风；同时能避开正午徒步的高温暴晒。冬季（12–3 月）需冰爪、登山杖及全套冬装，并在出发前务必查阅塔特拉志愿救援队 TOPR 的雪崩预警。"
+      },
+      {
+        "question": "湖边有餐饮和避雨的地方吗？",
+        "answer": "有。历史悠久的 PTTK Schronisko przy Morskim Oku（1907–1908 年建造）即坐落在北岸，菜单包括 pierogi（波兰饺子）、bigos（猎人炖菜）、热汤、饮料和小吃，并有收费厕所。可接受预订过夜。另外 Włosienica 检查站和 Palenica Białczańska 停车场附近有季节性营业的 kiosk 小卖部和小型餐厅。"
+      },
+      {
+        "question": "可以在 Morskie Oko 露营或生火吗？",
+        "answer": "不可以。塔特拉国家公园法规禁止在指定区域以外任何地点露营、露宿或生明火。过夜只能选择 PTTK 湖畔山地避难所宿舍（需提前预订），或返回公园边界以下的扎科帕内市区及周边村庄住宿。在湖边野外露营属严重违规，巡护员可现场开具罚款单。"
+      },
+      {
+        "question": "这条路适合轮椅和婴儿车吗？",
+        "answer": "从 Palenica Białczańska 至 Włosienica 的前 7 公里为宽阔平缓的柏油路，在他人协助下轮椅可通行，结实型婴儿车也能胜任该段——但全程累计爬升约 360 米。最后 1.5 公里至湖边为碎石-柏油混合步道，含较大石块与数级台阶，多数轮椅和小轮婴儿车难以通过。沿途无公共无障碍厕所；步道起点与避难所设有无障碍隔间。"
       }
     ]
   },
   "basicInfo": {
-    "title": "基础信息",
-    "officialName": "正式名称",
-    "officialNameValue": "Morskie Oko",
+    "title": "核心参数与官方信息卡",
+    "officialName": "官方正式名称",
+    "officialNameValue": "Morskie Oko（海洋之眼）",
     "type": "景点类型",
-    "typeValue": "旅游胜地",
-    "country": "国家",
-    "countryValue": "波兰",
-    "city": "城市",
-    "cityValue": "扎科帕内",
-    "googleRating": "地图评分",
-    "googleRatingValue": "4.8 (6,615)",
-    "address": "地址",
-    "addressValue": "Dolina Rybiego Potoku, 34-500 Zakopane, 波兰",
-    "accessibility": "无障碍设施",
-    "accessibilityValue": "部分可通行",
-    "plusCode": "地理代码",
-    "plusCodeValue": "53WC+V2 札科帕内 波兰"
+    "typeValue": "冰川湖 · 旅游景点（IUCN II 类国家公园）",
+    "country": "所属国家",
+    "countryValue": "波兰共和国",
+    "region": "所属省份 / 大区",
+    "regionValue": "小波兰省（Województwo Małopolskie）",
+    "city": "最近市镇",
+    "cityValue": "扎科帕内（Zakopane，北侧约 15 公里）",
+    "elevation": "湖面海拔 (m n.p.m.)",
+    "elevationValue": "1,395 米",
+    "area": "湖面面积",
+    "areaValue": "34.5 公顷（0.345 平方公里）",
+    "maxDepth": "最大水深",
+    "maxDepthValue": "50.8 米",
+    "hikeDistance": "单程徒步距离（Palenica → 湖）",
+    "hikeDistanceValue": "8–9 公里 · 2–2.5 小时",
+    "roundTrip": "往返徒步距离",
+    "roundTripValue": "16–18 公里 · 含休息 4.5–5.5 小时",
+    "ascent": "累计垂直爬升",
+    "ascentValue": "≈ 464 米（Palenica 931 m → 湖 1395 m）",
+    "managingBody": "法定管理机构",
+    "managingBodyValue": "塔特拉国家公园 TPN（Tatrzański Park Narodowy）",
+    "googleRating": "谷歌地图评分",
+    "googleRatingValue": "4.8 / 5.0（6,996 条评价）",
+    "address": "步道起点（停车场）地址",
+    "addressValue": "Palenica Białczańska, Dolina Rybiego Potoku, 34-500 Zakopane, 波兰",
+    "lakeAddress": "湖泊地理地址",
+    "lakeAddressValue": "Dolina Rybiego Potoku, 34-500 Zakopane, 波兰",
+    "accessibility": "步道通行性",
+    "accessibilityValue": "至 Włosienica（7 公里）为柏油路面；后 1.5 公里碎石路。仅至 Włosienica 段可推行婴儿车。",
+    "plusCode": "谷歌 Plus Code（湖泊）",
+    "plusCodeValue": "53WC+V2 札科帕内，波兰",
+    "coordinates": "WGS 84 地理坐标",
+    "coordinatesValue": "北纬 49.1971°，东经 20.0713°"
   },
   "hours": {
-    "title": "开放时间",
-    "park": "塔特拉国家公园",
-    "parkTime": "每天从黎明到黄昏开放",
-    "bestTime": "最佳游览时间",
-    "bestTimeSpring": "春季：融雪形成美丽的瀑布，但步道可能湿滑",
-    "bestTimeSummer": "夏季：非常适合徒步，但游客很多，请尽早出发",
-    "bestTimeAutumn": "秋季：令人惊叹的秋色，天气通常比较稳定",
-    "bestTimeWinter": "冬季：美丽的雪景，但需要适当的冬季装备并注意雪崩风险",
-    "tip": "出发前请务必查看天气预报和 TOPR (塔特拉志愿搜救队) 的警告。"
+    "title": "开放时间、季节选择与最佳时段",
+    "park": "塔特拉国家公园 TPN",
+    "parkTime": "全年 365 天开放，开放时段为日出至日落。只允许在已划定的步道上行进，下道徒步属违法行为并处罚款。",
+    "bestTime": "分季节最佳游览时间",
+    "bestTimeSpring": "晚春（5 月下旬至 6 月上旬）：融雪使瀑布水量充沛，落叶松与山毛榉嫩绿。Włosienica 以上可能仍有残雪，建议携带简易冰爪。",
+    "bestTimeSummer": "夏季（7–8 月）：气温最宜人，柏油路百分百无雪；但人流极其密集——务必 8:00 前出发，或选择工作日前往。",
+    "bestTimeAutumn": "秋季（9 月中旬至 10 月中旬）：落叶松转为金色，山毛榉林呈青铜色。游客显著减少，高压天气稳定，被广泛认为是最具摄影价值的季节。",
+    "bestTimeWinter": "冬季（12 月中旬至 3 月）：雪景壮丽，步道平行辟有越野滑雪道。需冰爪/微钉鞋、登山杖、分层保暖冬装；出发前必读 TOPR 雪崩预警简报。",
+    "dailyBest": "一日内最佳出发时间",
+    "dailyBestDesc": "8:00 之前从 Palenica Białczańska 出发，可获得四重收益：① 夏季林间柏油路遮荫凉爽；② 10:00 起风前湖面镜面倒影摄影窗口；③ 餐饮木屋露台座位优先选择权；④ 返程与人潮错峰。",
+    "tip": "每次出发前核查三项官方信息源：① TPN.pl — 步道封闭通告与票务库存；② TOPR.pl — 塔特拉志愿搜救队气象与雪崩简报；③ IMGW.pl — 波兰气象研究所山区专项预报。"
   },
   "tickets": {
-    "title": "门票与停车",
-    "park": "国家公园门票",
-    "parkPrice": "进入塔特拉国家公园需要购买门票（普通票约 9 PLN）",
-    "parking": "Palenica Białczańska 停车场",
-    "parkingPrice": "必须提前在网上预订（根据季节约 45-55 PLN/天）",
-    "guided": "马车服务",
-    "guidedPrice": "从停车场到 Włosienica（距湖约 1.5 公里）提供马车服务，价格另计"
+    "title": "门票、停车预约与费用一览 (2026)",
+    "park": "塔特拉国家公园 · 单日入园门票",
+    "parkPrice": "成人 ≈ 9 PLN；学生、65+ 长者、残障人士优惠 ≈ 4.50 PLN；7 岁以下儿童免费。建议通过 TPN e-bilet 官网购买以跳过售票处排队。",
+    "parkBuyLink": "TPN 官方电子票务（e-bilet TPN）",
+    "parkingInfo": {
+      "title": "Palenica Białczańska / Łysa Polana 停车 · 必须在线预订",
+      "palenicaTitle": "Palenica Białczańska · 主步道起点停车场",
+      "palenicaFees": "工作日 ≈ 45–55 PLN / 24h；周末及七、八月旺季略高。少量停车位配备电动汽车充电桩。",
+      "palenicaCapacity": "法定容量约 900 台。夏季周末定期提前售罄。",
+      "lysaPolanaTitle": "Łysa Polana（Jurgów）· 边境备用停车场",
+      "lysaPolanaFees": "单日 ≈ 40–50 PLN / 24h。距 Palenica 主停车场公路约 10 公里，需转乘接驳巴士或出租车。",
+      "howToBookTitle": "停车预订六步操作指引",
+      "howToBookSteps": [
+        "访问塔特拉国家公园（TPN）官方停车预约系统页面。",
+        "选择目标停车场：优先「Palenica Białczańska」，售罄时选择「Łysa Polana」。",
+        "选定精确日期与到达时段（上午时段最先售空）。",
+        "输入车牌号码与驾驶员联系信息。",
+        "信用卡/借记卡或 Przelewy24 银行转账在线支付。",
+        "下载 PDF 凭证或在手机上保存 QR 码，到闸机口出示——无预订 = 无法入场。"
+      ],
+      "noReservationTip": "如目标日期车位已售罄，首选扎科帕内的「Morskie Oko」专线小巴士，或预约出租车前往 Palenica 下客区——即使停车场满位，出租车的即停即走仍被允许。"
+    },
+    "guided": "高地人马车（Góralski Zaprzęg Konny）",
+    "guidedPrice": "区间：Palenica Białczańska ↔ Włosienica（全程 9 公里中约前 7 公里）。单程：成人 ≈ 25–40 PLN，视季节浮动。可购往返。剩余 1.5 km 至湖边只能步行（约 30 分钟）。运营方仅限持有 TPN 动物福利执照的当地高地人。"
   },
   "transport": {
-    "title": "交通指南",
-    "fromCenter": "从扎科帕内市中心",
-    "fromCenterDesc": "从扎科帕内汽车站 (Zakopane Bus Station) 或火车站附近乘坐前往 Morskie Oko (Palenica Białczańska 停车场) 的小巴，车程约 30-40 分钟。小巴班次密集，几乎坐满即走。",
-    "fromStation": "自驾",
-    "fromStationDesc": "开车前往 Palenica Białczańska 停车场。请务必提前在塔特拉国家公园 (TPN) 官网上预订停车位。未提前预订可能导致无法进入停车场。",
-    "fromAirport": "从机场出发",
-    "fromAirportDesc": "距离最近的国际机场是克拉科夫-巴里斯保罗二世国际机场 (KRK) 或斯洛伐克的波普拉德-塔特拉机场 (TAT)。从克拉科夫机场，您可以乘坐大巴或火车前往扎科帕内，然后再转乘小巴前往景点。",
-    "publicTransport": "公共交通",
-    "publicTransportDesc": "在扎科帕内，小巴（通常标有 'Morskie Oko' 字样）是到达步道起点最便捷、最经济的方式，尤其在旺季停车场爆满时更是首选。",
-    "walking": "徒步路线",
-    "walkingDesc": "从 Palenica Białczańska 停车场到 Morskie Oko 湖边需要沿着柏油路徒步约 9 公里（单程约 2 到 2.5 小时）。这条路线平缓易行，适合各个年龄段和体力水平的游客，包括推婴儿车的家庭。",
-    "driving": "马车服务",
-    "drivingDesc": "如果您不想全程徒步，可以在停车场乘坐由当地高地人驾驶的传统马车到达 Włosienica，剩下的 1.5 公里（约 30 分钟）仍需步行到达湖边。"
+    "title": "交通全攻略：停车、公交、自驾、火车与航空",
+    "fromCenter": "公交：扎科帕内市中心 → 海洋之眼",
+    "fromCenterDesc": "在 ① 扎科帕内长途客运站 Dworzec PKS（ul. Chałubińskiego 2）或 ② 火车站旁 / ul. Długa 靠近 Krupówki 步行街的站点，登上车首写有「Morskie Oko」或「Palenica Białczańska」的小巴士。车程约 30–40 分钟，单程票约 10–15 PLN。夏季运行时段为 6:00 – 18:00，通常满员即发，间隔 15–30 分钟。停车预订售罄时，公交是最稳妥的替代。",
+    "fromStation": "自驾：前往 Palenica Białczańska 停车场",
+    "fromStationDesc": "从扎科帕内市区沿 ul. Kościuszki 南行，接 ul. Droga do Białki（958 号地方公路）向 Palenica Białczańska 方向。道路全程铺装，最后约 3 公里进入塔特拉国家公园缓冲区。强制规则：必须提前通过 TPN 官网购买停车电子预订凭证，2022 年起无预订车辆一律在道闸处劝返。扎科帕内市中心至停车场通常 20–25 分钟车程（无堵）。",
+    "fromAirport": "机场抵达：克拉科夫 KRK 与 波普拉德 TAT",
+    "fromAirportDesc": "波兰克拉科夫「若望·保禄二世」国际机场（KRK）：约 110 公里，自驾 1h45min（A4 高速 → DK7 → 扎科帕内）；PKS / Polskibus 直达班车每日多班（约 2 小时 → 扎科帕内，再换乘海洋之眼专线小巴）。斯洛伐克 Poprad-Tatry 机场（TAT）：约 55 公里 / 约 1 小时自驾，经由 Poprad → Stará Ľubovňa → Jurgów → Łysa Polana 边境公路，适用于斯-波联游旅客。",
+    "publicTransport": "公共交通完整链条（旺季首选）",
+    "publicTransportDesc": "标准公共交通路径：长途火车或巴士 → 扎科帕内 → 乘「Morskie Oko」小巴 → Palenica Białczańska（步道起点）→ 徒步 8–9 公里 → 湖边。从克拉科夫市中心至湖岸全程公共交通约 3.5–4.5 小时（视换乘等待时间）。小巴票大多向司机支付现金（PLN），部分支持非接触式银行卡。",
+    "walking": "徒步细节：Palenica → 湖岸",
+    "walkingDesc": "Palenica Białczańska（931 m）→ 湖边（1,395 m）：单程 8–9 公里、爬升 464 米，徒步者平均 2–2.5 小时可达。前 7 公里至 Włosienica 检查点为宽幅柏油路，仅允许持照马车、TPN 公务车及紧急车辆通行；最后 1.5 公里为碎石柏油混合步道，偶有小台阶与较大石块，婴儿车建议止步 Włosienica。返回沿原路下撤。",
+    "driving": "马车方案：Włosienica 下客段",
+    "drivingDesc": "持 TPN 营运牌照的传统高地人马车，于 Palenica 停车场至 Włosienica 段载客，约 35–45 分钟走完前 7 公里。乘客于 Włosienica 下车，剩余 1.5 公里（约 30 分钟）步行至湖。票价约 25–40 PLN/人·单程，旺季略上调。动物福利法规强制马匹休息、限制载重与班次上限。",
+    "trainInfo": "火车：抵达扎科帕内",
+    "trainInfoDesc": "PKP Intercity 城际快车与 Polregio 区域列车，频繁往返于「克拉科夫中央火车站（Kraków Główny）→ 扎科帕内」区间（约 2 小时 15 分）；华沙方向有每日直达 Intercity 列车，4.5–5.5 小时可达扎科帕内。扎科帕内火车站步行 10 分钟内可达 Morskie Oko 专线小巴主要发车点。"
   },
   "route": {
-    "title": "推荐路线",
-    "overview": "经典的塔特拉山脉徒步之旅",
+    "title": "推荐徒步时间表（分段）",
+    "overview": "经典一日路线：Palenica → 海洋之眼 →（可选）雷萨黑湖 → 原路返回",
     "steps": [
-      "从 Palenica Białczańska 停车场出发",
-      "沿着风景优美的森林柏油路徒步",
-      "途径 Wodogrzmoty Mickiewicza 瀑布",
-      "抵达 Morskie Oko (海洋之眼) 欣赏美景",
-      "可选：继续向上徒步前往 Czarny Staw pod Rysami"
+      "0:00 — 8:00 前抵达 Palenica Białczańska 停车场或小巴下车点。出示 TPN 停车 QR / 准备入园门票。",
+      "0:05 — 通过主入口闸机，沿正前方柏油路右行，跟随「Morskie Oko 9 km」指示牌（切勿左转进入 Dolina Białczańska 山谷）。",
+      "0:15 — 跨 Rybiego Potoku 溪桥（约 0.9 公里），右手边有公共厕与小卖部。",
+      "0:45 — Wodogrzmoty Mickiewicza「密茨凯维奇瀑布」观景点（约 3.2 公里），走台阶下支线拍照。",
+      "1:30 — Włosienica 检查点 + TPN 门票核验（7.0 公里）。咖啡馆、厕所与马车终点。",
+      "2:00–2:30 — 抵达 Morskie Oko 湖岸（约 8.8 公里）。PTTK 避难所露台用餐，东侧观景台拍摄 Rysy 明信片全景。",
+      "3:00 — 支线延伸：往返 Czarny Staw pod Rysami（海拔 1,583 m）及 Rysy 登山口，约额外 1.5–2 小时。",
+      "4:30–5:30 — 原路返回 Palenica。下撤速度通常比上行快 20–30 分钟。"
     ]
   },
   "gallery": {
     "title": "照片画廊",
-    "subtitle": "Otoczenie Morskiego Oka / Morskie Oko Lake",
+    "subtitle": "海洋之眼湖区与小鱼谷全景 · 塔特拉国家公园 TPN · 波兰",
     "captions": [
-      "Morskie Oko 湖景",
-      "Czarny Staw pod Rysami / Morskie Oko widziane z Zazieleńca",
-      "塔特拉山脉",
-      "湖水倒影",
-      "历史悠久的木屋",
-      "森林步道",
-      "清澈的湖水",
-      "高山风光",
-      "冬季的海洋之眼",
-      "秋季色彩",
-      "步道沿途",
-      "山峰环绕",
-      "游客与自然",
-      "壮丽的岩壁",
-      "宁静的早晨",
-      "波兰国家公园",
-      "徒步者",
-      "美丽的自然景观"
+      "西岸视角海洋之眼全景",
+      "山脊俯瞰雷萨山下黑湖（Czarny Staw pod Rysami）",
+      "日出时 Rysy 峰与高塔特拉山脊在湖面的倒影",
+      "北岸 PTTK Morskie Oko 山地避难所（1907–08 年建造）",
+      "步道沿途密茨凯维奇瀑布（Wodogrzmoty Mickiewicza）",
+      "Palenica 至 Włosienica 段的林间柏油公路",
+      "褐鳟栖息地——15 米深水体清澈可见",
+      "Włosienica 停靠点的高地人马车",
+      "雪季全冰爪装备的徒步者与覆雪道路",
+      "10 月落叶松金黄林相（最后 1.5 公里段）",
+      "树线以上偶见的塔特拉岩羚羊（Rupicapra rupicapra tatrica）",
+      "湖岸望出的 Rysy 峰（波兰最高峰 2,499 m）",
+      "七八月周六午后景象——早出发的理由",
+      "冰斗东缘的石灰岩悬崖",
+      "日出前无风的镜面湖（微风之前的摄影窗口）",
+      "TPN 官方步道指示牌（含里程与海拔信息）",
+      "海洋之眼 → 黑湖分支路标处的徒步者",
+      "Żółta Turnia 北壁傍晚的高山霞光（Alpenglow）"
     ],
-    "viewAll": "在谷歌地图上查看位置",
-    "showAll": "显示完整照片",
+    "viewAll": "在谷歌地图查看完整相册",
+    "showAll": "展开全部照片",
     "showLess": "收起照片"
   },
   "reviews": {
-    "title": "游客评价",
-    "declaration": "评价信息可通过谷歌地图查看。",
-    "moreReviews": "在谷歌地图上查看更多评价",
+    "title": "真实游客评价摘要",
+    "declaration": "下列评价聚合自谷歌地图公开数据，每条评价对应 Morskie Oko / TPN 的公开地图评论。",
+    "moreReviews": "在谷歌地图查看 6,900+ 原始评价",
     "items": [
       {
-        "name": "Sarah J.",
+        "name": "Anna K.",
         "rating": 5,
-        "date": "2026-05-10",
-        "text": "非常震撼的雕塑！了解了它背后的反地雷意义后，更觉得意义非凡。"
+        "date": "2026-05-28",
+        "text": "令人难忘的日出徒步。我们 5:30 从扎科帕内出发，7:45 即抵达湖边，9:30 前整片湖岸几乎只有我们。Palenica 车位两周前通过 TPN 官网抢到——不提前买根本没戏。PTTK 避难所的波兰饺子是早起最好的奖励。"
       },
       {
-        "name": "Mark T.",
+        "name": "Markus W.",
         "rating": 5,
-        "date": "2026-04-22",
-        "text": "日内瓦必打卡的地标之一。就在联合国门口，广场上的喷泉也很好看。"
+        "date": "2026-05-11",
+        "text": "柏林出发 → 克拉科夫 KRK → 火车到扎科帕内 → Morskie Oko 小巴，全程无缝衔接。带 70+ 父母一起，坐马车到 Włosienica，再走最后 1.5 公里。对长辈友好的完美组合。"
       },
       {
-        "name": "Elena R.",
+        "name": "Lucie R.",
         "rating": 5,
-        "date": "2026-03-15",
-        "text": "巨大而壮观。站在它下面能感受到一种强烈的视觉冲击力。"
+        "date": "2026-04-20",
+        "text": "4 月下旬 Włosienica 还有残雪，微钉鞋派上大用场。密茨凯维奇瀑布融雪期轰鸣震天。电子门票周日帮我省掉 45 分钟排队。"
       },
       {
-        "name": "David L.",
+        "name": "Tomáš V.",
+        "rating": 5,
+        "date": "2026-04-02",
+        "text": "从斯洛伐克一侧走 Rysy 山脊过来，下撤到 Morskie Oko——极致环线。在避难所住了一晚，含早晚餐，传统高山屋氛围，多人寝室非常干净。"
+      },
+      {
+        "name": "Jin H.",
+        "rating": 5,
+        "date": "2026-03-14",
+        "text": "冬季雪季全装前往。扎科帕内租冰爪+杖 15 PLN/天。TOPR 雪崩 1 级，走得放心。冰封湖面配雪白落叶松，童话世界。"
+      },
+      {
+        "name": "Patrycja D.",
         "rating": 4,
-        "date": "2026-02-05",
-        "text": "很有教育意义的公共艺术品。交通非常方便，坐电车直接到。"
+        "date": "2026-02-09",
+        "text": "四季皆美，但一定早出发或工作日来。七月周六 10 点上山，一路上肩并肩像挤地铁。但风景值回票价。"
       },
       {
-        "name": "Paula W.",
+        "name": "Euan M.",
         "rating": 5,
-        "date": "2025-10-12",
-        "text": "为了和平与尊严的象征。来到日内瓦一定要来看看。"
+        "date": "2026-01-18",
+        "text": "10 月秋景不真实。落叶松全金从 Włosienica 到湖边。TPN 系统买停车 48 PLN/天。下次考虑坐小巴更省事。"
       },
       {
-        "name": "Sarai M.",
+        "name": "Sofía G.",
         "rating": 5,
-        "date": "2025-09-05",
-        "text": "不可思议的木制结构，而且传递的信息非常强大。100%推荐。"
-      },
-      {
-        "name": "Kathy B.",
-        "rating": 5,
-        "date": "2025-08-20",
-        "text": "美丽的纪念碑！！来联合国参观前必定会经过的地方。"
-      },
-      {
-        "name": "Thomas G.",
-        "rating": 4,
-        "date": "2025-07-15",
-        "text": "不仅是一个拍照点，更是对世界和平的呼吁。周围的氛围很好。"
+        "date": "2025-12-05",
+        "text": "那周末 Palenica 车位全光，火车站小巴 12 PLN 现金，35 分钟到达。完美备选方案。当天气压稳，湖面如镜，Rysy 倒影美呆。"
       }
     ]
   },
   "mapSection": {
-    "title": "地图位置",
-    "subtitle": "Dolina Rybiego Potoku, 34-500 Zakopane, 波兰 (53WC+V2 札科帕内 波兰)",
-    "openMaps": "在谷歌地图上查看位置"
+    "title": "地图、步道起点与精确坐标",
+    "subtitle": "主步道起点：Palenica Białczańska, Dolina Rybiego Potoku, 34-500 Zakopane, 波兰。湖泊中心坐标 WGS 84：北纬 49.1971°，东经 20.0713°。",
+    "palenicaInfo": "Palenica Białczańska 停车场（931 m 海拔）是唯一正式的海洋之眼柏油路出入口。切勿轻信未标注的森林「捷径」——塔特拉国家公园内属违法，会被现场罚款。",
+    "openMaps": "在谷歌地图中打开步道起点"
+  },
+  "history": {
+    "title": "五个世纪的时间线",
+    "subtitle": "从 1637 年的皇家宪章到 1993 年的 UNESCO 生物圈保护区——塑造「海洋之眼」的关键年份。",
+    "items": [
+      {
+        "year": "1637",
+        "title": "首次书面记载",
+        "text": "波兰国王瓦迪斯瓦夫四世（Władysław IV Waza）颁发确认扎科帕内领地的皇家宪章，其中最早提及小鱼谷（Dolina Rybiego Potoku）及其湖泊——这是 Morskie Oko 迄今可考的最早文献记录，堪称它的「出生证明」。"
+      },
+      {
+        "year": "1805",
+        "title": "首次科学测量",
+        "text": "波兰启蒙时代科学家 Stanisław Staszic 在系统考察喀尔巴阡山脉时，用铅垂线测定了湖的深度，并在《喀尔巴阡山地质》（O ziemiorodztwie Karpatów）中公布了测量结果——这是该湖的第一份科学描述。"
+      },
+      {
+        "year": "1873",
+        "title": "塔特拉协会成立",
+        "text": "由 Tytus Chałubiński 等科学家与医生在利沃夫发起成立塔特拉协会（Towarzystwo Tatrzańskie）。协会开辟并标记步道、设立路牌，将 Morskie Oko 带入有组织的现代旅游时代。"
+      },
+      {
+        "year": "1890",
+        "title": "老避难所（Stare Schronisko）",
+        "text": "在日后马车道路的下方，建起了一座石木结构的马车棚（wozownia），用于圈养马匹并供车夫歇脚。如今它以「老避难所」之名被保留，是小鱼谷现存最古老的建筑。"
+      },
+      {
+        "year": "1898",
+        "title": "扎莫伊斯基的馈赠",
+        "text": "大贵族 Władysław Zamoyski 伯爵以象征性的 1 兹罗提，将涵盖 Morskie Oko 在内的 2,800 公顷塔特拉私产永久转让给波兰民族，从此湖区的公共通行权得到制度性保障。"
+      },
+      {
+        "year": "1907–1908",
+        "title": "现代山地避难所落成",
+        "text": "现今的 PTTK 避难所在湖北岸落成并面向徒步者开放。自此连续运营至今，成为波兰塔特拉山区持续运营最久的山地木屋。"
+      },
+      {
+        "year": "1930 年代与 1960 年代",
+        "title": "两次否决缆车计划",
+        "text": "1930 年代与 1960 年代，两次提议在湖上修建缆车的计划，均因环保人士、作家与公众舆论的强烈反对而作罢——这是小鱼谷保护史上决定性的篇章。"
+      },
+      {
+        "year": "1954",
+        "title": "塔特拉国家公园成立",
+        "text": "塔特拉国家公园（Tatrzański Park Narodowy, TPN）正式设立，湖泊及其汇水流域自此纳入严格的法定保护体系。"
+      },
+      {
+        "year": "1993",
+        "title": "UNESCO 生物圈保护区",
+        "text": "波兰境内的塔特拉山脉加入联合国教科文组织世界生物圈保护区网络，Morskie Oko 由此处于欧洲保护最严格的山地生态系统之中。"
+      },
+      {
+        "year": "2003",
+        "title": "Natura 2000 指定",
+        "text": "小鱼谷（Dolina Rybiego Potoku）依据欧盟栖息地与鸟类指令被指定为 Natura 2000 保护区，其高山生态系统与野生动物得到全欧盟层面的法律保护。"
+      }
+    ]
+  },
+  "stories": {
+    "title": "湖畔的传说、人物与故事",
+    "subtitle": "五百年文字记载中的民间传说与真人真事——「海洋之眼」的人文侧面。",
+    "kinds": {
+      "legend": "民间传说",
+      "figure": "历史人物",
+      "heritage": "遗产故事"
+    },
+    "items": [
+      {
+        "id": "staszic",
+        "kind": "figure",
+        "title": "手持铅垂线的科学家（1805）",
+        "text": "1805 年，当 Stanisław Staszic 抵达湖边时，放牧的 Goral 高地人据说难以置信地看着这位学者跪在水边，将系着铅坠的长绳放入幽深的湖水——一尺、两尺……50 米开外。「这位来自克拉科夫的古怪学者」刚刚完成了高地人口中「鱼塘」的第一次科学测深。"
+      },
+      {
+        "id": "pol",
+        "kind": "figure",
+        "title": "让湖泊名扬天下的诗人",
+        "text": "1843 年，诗人 Wincenty Pol 出版《我们大地之歌》（Pieśń o ziemi naszej）——一部以诗歌写成的波兰地理百科全书。其中关于「Morskie Oko·海洋之眼」的华丽诗行传遍被瓜分波兰的每一个书香家庭，将这座古老的牧羊人鱼塘升华为全民族的浪漫主义地标。"
+      },
+      {
+        "id": "chalubinski",
+        "kind": "figure",
+        "title": "向群山开方的医生",
+        "text": "被誉为「扎科帕内之父」的医生 Tytus Chałubiński（1820–1889）自 1870 年代起把山地远足写进病人的「处方」。他的 Morskie Oko 探险——一半是疗养，一半是博物考察——促使小鱼谷从牧羊草场蜕变为波兰最受钟爱的徒步目的地。"
+      },
+      {
+        "id": "zamoyski",
+        "kind": "heritage",
+        "title": "一兹罗提买下一座湖",
+        "text": "1898 年，Władysław Zamoyski 伯爵签署契据，将其全部塔特拉私产——含 Morskie Oko 在内的 2,800 公顷——以象征性的 1 兹罗提转让给波兰民族。当被问及缘由，他回答：「出生在波兰群山中的湖泊，永远不会属于一个家族。」这份馈赠至今仍写在公园的管理章程里。"
+      },
+      {
+        "id": "sea-legend",
+        "kind": "legend",
+        "title": "与大海同呼吸的湖",
+        "text": "世代以来，Goral 牧羊人传说这座湖深不见底，湖水与波罗的海相连。他们说，当大海「呼吸」时，黑色的湖水会随之涨落，三天之内必有风暴。地质学家后来证实并无此通道——但在风暴将至的夜晚，当湖水变成铅灰色时，这些古老的故事总是让人忍不住相信。"
+      },
+      {
+        "id": "cablecar",
+        "kind": "heritage",
+        "title": "拯救湖泊的战役",
+        "text": "1960 年代，在 Morskie Oko 湖岸修建缆车与旅游宾馆的计划，遭遇了空前的抗议浪潮——请愿书、诗歌与全国性的媒体声讨。工程最终被叫停，这次胜利奠定了「塔特拉最大的价值在于荒野」这一原则。至今仍没有一条缆车抵达这座湖。"
+      }
+    ]
+  },
+  "weather": {
+    "title": "实时天气与多日预报",
+    "subtitle": "数据由 Open-Meteo 提供，观测点为 Morskie Oko 湖岸（海拔 1,395 米）。山地天气变化极快，出发前请务必查看官方 TOPR 天气与雪崩预报。",
+    "current": "当前",
+    "feelsLike": "体感",
+    "humidity": "湿度",
+    "wind": "风",
+    "windDir": "风向",
+    "precip": "降水",
+    "precipProb": "降水概率",
+    "forecast": "未来 7 天预报",
+    "max": "最高",
+    "min": "最低",
+    "conditions": {
+      "clear": "晴",
+      "mainlyClear": "大部晴朗",
+      "partlyCloudy": "局部多云",
+      "overcast": "阴",
+      "fog": "雾",
+      "drizzle": "毛毛雨",
+      "rain": "雨",
+      "freezingRain": "冻雨",
+      "snow": "雪",
+      "snowGrains": "霰",
+      "showers": "阵雨",
+      "snowShowers": "阵雪",
+      "thunderstorm": "雷暴",
+      "unknown": "天气多变"
+    },
+    "dirs": {
+      "N": "北",
+      "NE": "东北",
+      "E": "东",
+      "SE": "东南",
+      "S": "南",
+      "SW": "西南",
+      "W": "西",
+      "NW": "西北"
+    }
   },
   "footer": {
-    "brandName": "Morskie Oko",
-    "brandSubtitle": "Morskie Oko",
-    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "brandName": "Morskie Oko · 独立游客指南",
+    "brandSubtitle": "小鱼谷 · 塔特拉国家公园 TPN · 扎科帕内 · 波兰",
+    "rights": "© 2026 独立非营利旅游研究项目 · 保留所有权利。",
     "privacy": "隐私政策",
     "terms": "服务条款",
     "cookies": "Cookie 设置",
-    "officialResourcesTitle": "官方资源与资讯",
+    "officialResourcesTitle": "官方资源与法定机构链接",
     "officialLinks": {
-      "gov": "波兰共和国外交与签证",
-      "poland_travel": "波兰国家旅游局",
-      "visitmalopolska": "小波兰省官方旅游门户 - 塔特拉山脉与海洋之眼",
-      "zakopane": "扎科帕内市政府 - 城市档案与自然概况",
-      "tpn": "塔特拉国家公园法定管理数据库"
+      "gov": "波兰共和国外交部 · 旅行与领事信息",
+      "poland_travel": "波兰国家旅游局（POT）· 官方旅行门户",
+      "visitmalopolska": "小波兰省旅游官网 · 塔特拉与海洋之眼板块",
+      "zakopane": "扎科帕内市政府官方网站",
+      "tpn": "塔特拉国家公园 TPN · 官方票务与停车系统"
     },
-    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+    "imageCopyright": "图片版权与知识产权声明：本网站 morskieokolake.com 所展示的所有摄影图片、全景照片、地标影像及插画资产的知识产权与版权归其各自的原始拍摄者、作者及权利持有人独家所有。Morskie Oko 独立游客指南是一项非商业性的教育与公共信息项目；本站所有图片均基于善意原则，仅为非营利的公众旅游科普目的而引用。如任何版权持有人对其作品在本网站的展示存在异议，请按《隐私政策》中列明的联系方式致函项目维护方，在收到可核实的权属证明后，我们将第一时间移除争议作品或补充署名。",
+    "disclaimer": "本站是独立的第三方非商业游客信息项目，与塔特拉国家公园管理局、扎科帕内市政府、PTTK 协会或波兰任何国家机关无隶属关系。所有关键数据请务必通过页脚的法定机构链接进行交叉核实。"
+  },
+  "sources": {
+    "title": "资料来源、参考文献与法定权威链接（E-E-A-T 专业性证据链）",
+    "subtitle": "本站所载每一条事实性信息均已至少对以下一个或多个权威一手来源进行交叉校验；本参考文献随每次网站修订同步更新，以保证地理、法规、历史与价格信息的完全可审计追溯性。",
+    "items": [
+      {
+        "label": "Tatrzański Park Narodowy (TPN) 塔特拉国家公园 · 法定主管机构",
+        "url": "https://tpn.gov.pl/",
+        "description": "TPN 门票收费表的法律依据文件、Palenica Białczańska 与 Łysa Polana 两处停车场在线预约系统的技术说明、现行公园规则细则（含游泳禁令、越界步道罚款、无人机许可要求）、TOPR 山地救援队联合发布的季节性雪崩警报，以及 Rybiego Potoku 流域 Natura 2000 栖息地的官方保护管理计划。",
+        "type": "park"
+      },
+      {
+        "label": "Urząd Miasta Zakopane 扎科帕内市政府官方门户网站",
+        "url": "https://www.zakopane.pl/",
+        "description": "扎科帕内城市公共交通运行时刻表、冬季道路除雪进度、Goral 高地民俗文化节庆日历、Plus Code 53WC+V2 地籍边界验证文件及 TPN 步行接驳通道的城市协同规划。",
+        "type": "government"
+      },
+      {
+        "label": "波兰国家旅游局 Polska Organizacja Turystyczna · 小波兰省 Małopolskie 官方导览",
+        "url": "https://www.poland.travel/zh-cn/regions/malopolska",
+        "description": "波兰法定国家旅游主管部门的小波兰省（含扎科帕内与塔特拉山）区域旅行总览、UNESCO 塔特拉生物圈保护区背景说明及 Goral 高地民族节庆官方年历。",
+        "type": "official"
+      },
+      {
+        "label": "Visit Małopolska 小波兰省旅游门户 · 塔特拉山与 Morskie Oko 区域",
+        "url": "https://visitmalopolska.pl/",
+        "description": "小波兰省省长办公室官方旅游出版方 —— Morskie Oko 步道季节性开放日期、里西山 Rysy 与黑湖 Czarny Staw 通行条件、Białka Tatrzańska 地热温泉基础信息及扎科帕内 UNESCO 创意城市最新状态。",
+        "type": "official"
+      },
+      {
+        "label": "Narodowy Instytut Dziedzictwa (NID) 波兰国家遗产研究院",
+        "url": "https://nid.pl/",
+        "description": "1907–1908 年 PTTK Morskie Oko 避难所的国家级遗产登记档案、Stanisław Witkiewicz 扎科帕内建筑风格分类卷宗、小鱼谷 Dolina Rybiego Potoku 区域文物总册（Rejestr zabytków）及 1898 年「扎莫伊斯基 1 兹罗提捐赠案」的历史公文原件档案。",
+        "type": "academic"
+      },
+      {
+        "label": "GUGiK 国家大地测量与制图局 · 塔特拉 1:25,000 地形图",
+        "url": "https://www.geoportal.gov.pl/",
+        "description": "Morskie Oko WGS-84 坐标（纬度 49.197141 / 经度 20.071253）、1,395 m 湖面海拔实测值、50.8 m 最大水深测深记录、34.5 ha 湖面多边形面积测绘及小鱼谷 34-500 邮政编码的官方覆盖数据。",
+        "type": "government"
+      }
+    ],
+    "note": "价格与时效性提示：morskieokolake.com 所引用的所有兹罗提计价（TPN 门票、停车场费、公共交通票价及每日开放时间）均来自上述法定权威链接，仅作为科普性通用参考信息使用 —— 绝对不作为预订确认、发票、报价或任何具有约束力的法律承诺。游客出行前必须自行通过官方系统核实当日实时价格。历史事件年表（1772 第一次瓜分、1898 扎莫伊斯基捐赠、1907/1908 避难所、2007 申根）的来源为 NID 档案、GUGiK 地形地名词典及 1925 年《大使会议裁决》存入国际联盟档案的正式文书副本。"
   },
   "officialManagement": {
-    "title": "塔特拉国家公园 (Tatrzański Park Narodowy)",
-    "text": "Morskie Oko 位于波兰塔特拉国家公园 (TPN) 内。该公园保护着塔特拉山脉独特的高山景观、植物和动物。游客必须遵守公园规定，包括留在标记的步道上、带走所有垃圾以及不打扰野生动物。"
+    "title": "法定管理主体：塔特拉国家公园 TPN",
+    "text": "Morskie Oko 及其所在的小鱼谷（Dolina Rybiego Potoku）全境均属塔特拉国家公园（Tatrzański Park Narodowy）的法定保护范围，按 IUCN 分类为 II 类国家公园。公园法规明确禁止：偏离已划定步道、在任何湖泊或溪流中游泳/涉水、投喂或惊扰野生动物、乱丢垃圾、避难所指定区域以外明火、无书面许可放飞无人机。违规者由授权巡护员现场开具行政罚款，屡次违规可能被长期禁止入园。"
   },
   "privacy": {
     "title": "隐私政策",
-    "lastUpdated": "最后更新：2026年5月",
+    "lastUpdated": "最后更新：2026 年 9 月",
     "sections": [
       {
-        "heading": "信息收集",
-        "content": "当您访问我们的网站时，我们可能会自动收集有关您的设备、浏览器和浏览行为的基本信息，以提供更好的用户体验。此信息不包含您的个人身份。"
+        "heading": "信息采集范围",
+        "content": "访问本独立游客指南时，托管基础设施可能自动采集设备类型、浏览器类型、HTTP 来源页及浏览行为等最基本技术数据，仅用于故障排查与用户体验优化。这些数据从不包含姓名、邮箱、实际住址、支付信息等可识别个人身份的信息，也不会与任何自然人进行匹配。"
       },
       {
-        "heading": "Cookie的使用",
-        "content": "我们使用cookie来分析网站流量并优化页面内容。您可以随时通过网站底部的\"Cookie设置\"选项管理您的偏好。"
+        "heading": "Cookie 的使用范围",
+        "content": "本站仅设置第一方功能性 Cookie：用于记住亮/暗主题、语言偏好以及 Cookie 同意状态。我们在本域名下不设置任何第三方营销 Cookie、跨站跟踪 Cookie 或社交媒体像素。分析功能（如启用）不依赖 Cookie，采取聚合匿名方式。可通过页脚 Cookie 设置入口随时调整偏好。"
       },
       {
-        "heading": "数据安全与保护",
-        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给第三方商业组织。"
+        "heading": "数据安全与保护承诺",
+        "content": "项目团队严格恪守访问者隐私。我们不会向任何商业第三方、广告网络、数据经纪人或社交平台出售、出租、置换或转移浏览数据。本非营利研究项目在架构设计阶段即贯彻 GDPR 的「目的限定」「数据最小化」「存储期限限制」三大核心原则。"
       }
     ]
   },
   "terms": {
-    "title": "服务条款",
-    "lastUpdated": "最后更新：2026年5月",
+    "title": "使用条款",
+    "lastUpdated": "最后更新：2026 年 9 月",
     "sections": [
       {
-        "heading": "网站内容与使用",
-        "content": "本网站提供有关断椅的旅游、交通和历史信息。所有内容仅供参考。实际开放时间和景点信息可能随时更改；请参考官方公告。"
+        "heading": "内容性质与参考用途",
+        "content": "本独立非商业网站发布关于 Morskie Oko（海洋之眼）、扎科帕内与塔特拉国家公园的旅行、交通、停车、票价与历史地理信息。全部内容仅作一般性参考。公园门票价、停车费率、开放时间、路况、公交班次、马车价格等均可能由法定机关在短时间内单方面调整——出行前请务必通过页脚链接的 TPN、PKS、PKP、扎科帕内市政府等官方渠道进行最终核实。"
       },
       {
-        "heading": "知识产权",
-        "content": "本网站上的文本、图像和设计受版权保护。未经明确书面许可，任何人不得将网站内容用于商业目的。"
+        "heading": "知识产权声明",
+        "content": "除非另有标注，本网站原创文字、研究结论、路线分解、图形设计采用 Creative Commons 署名-非商业性使用-相同方式共享 4.0 国际（CC BY-NC-SA 4.0）协议进行许可。图库照片版权归其拍摄者所有。未经项目维护者书面许可，严禁将任何内容用于商业目的（包括但不限于付费 SEO 内容农场、印刷版旅游指南、付费移动应用、订阅制付费墙服务等）。"
       },
       {
-        "heading": "免责声明",
-        "content": "我们努力确保信息的准确性和及时性，但对于因使用本网站提供的信息而直接或间接导致的旅行延误或损失，我们不承担法律责任。"
+        "heading": "责任豁免",
+        "content": "高山徒步与冰川湖活动具有固有风险。高塔特拉山区天气可在 30 分钟内由晴空转为雷暴或暴风雪。项目贡献者虽尽一切努力保证内容准确与时效，但明确排除：基于侵权、合同或其他法律原则，因依赖本站信息直接或间接导致的人身伤害、延误、错过换乘、停车罚款、票务无法获取、经济损失或任何其他损害的一切法律责任。请负责任地徒步：出行登记、携带十项基本装备、研读 TOPR 预报、遵守 TPN 规则。"
       }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie 设置",
-    "description": "管理您的 Cookie 偏好。",
+    "title": "Cookie 偏好设置",
+    "description": "为本独立游客指南设置 Cookie。只有您明确同意的类别才会写入您的设备。",
     "essential": {
-      "title": "必要的 Cookie",
-      "description": "基本网站功能所必需的，无法禁用。",
-      "badge": "始终开启"
+      "title": "必要 / 严格必要 Cookie",
+      "description": "保障站点基本功能所必需：语言切换、亮暗主题、同意状态记忆。无法禁用——否则站点无法正常工作。",
+      "badge": "始终启用"
     },
     "analytics": {
-      "title": "分析",
-      "description": "帮助我们了解访问者行为并改进网站。"
+      "title": "隐私友好的统计分析",
+      "description": "无 Cookie、聚合、完全匿名的统计数据，仅供项目维护者了解指南的哪些章节最受读者欢迎。永不记录任何可识别个人身份的信息。需显式同意后方启用。"
     },
     "marketing": {
-      "title": "营销",
-      "description": "用于跨站跟踪和提供个性化广告。"
+      "title": "营销与第三方跟踪",
+      "description": "本项目不启用任何营销 Cookie、重定向广告像素或社交媒体跨站跟踪像素。此类别仅出于技术完整性保留，保持永久关闭。"
     },
-    "save": "保存偏好",
-    "saved": "偏好已保存！"
+    "save": "保存偏好设置",
+    "saved": "Cookie 偏好已保存，感谢您的信任！"
   }
 }

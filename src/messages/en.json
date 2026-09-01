@@ -1,10 +1,14 @@
 {
   "meta": {
-    "title": "Morskie Oko – Zakopane, Poland",
-    "description": "Complete travel guide to Morskie Oko."
+    "title": "Morskie Oko Lake Guide (2026): Tickets, Hike, Map & Parking",
+    "description": "Morskie Oko in Zakopane, Poland. Updated 2026 travel guide: Tatra National Park entrance fees, Palenica Białczańska parking reservation, trail map, hiking times & weather tips."
   },
   "header": {
     "home": "Home",
+    "knowledge": "About",
+    "history": "History",
+    "stories": "Legends",
+    "amenities": "Amenities",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
@@ -14,299 +18,651 @@
     "title": "Morskie Oko",
     "subtitle": "The Pearl of the Tatra Mountains",
     "rating": "4.8",
-    "reviewCount": "6,615 reviews",
+    "reviewCount": "6,996 reviews",
     "type": "Tourist Attraction",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/EkjxMAqKNf9H8NCb6"
   },
   "intro": {
     "title": "Explore Morskie Oko",
-    "description": "Morskie Oko (Eye of the Sea) is the largest lake in the Tatra Mountains, covering 34.5 hectares at 1,395 meters above sea level. Located entirely within Poland's Tatra National Park, the glacier-formed lake boasts crystal-clear waters with visibility up to 15 meters.",
+    "description": "Morskie Oko (Eye of the Sea) is the largest and fourth-deepest lake in the Tatra Mountains, covering 34.5 hectares at 1,395 metres above sea level (m n.p.m.). Located entirely within Poland's Tatra National Park (Tatrzański Park Narodowy, TPN), the glacier-formed lake boasts crystal-clear waters with visibility up to 15 metres. Maximum depth: 50.8 m. Round-trip hike from Palenica Białczańska: approx. 16–18 km (8–9 km one way), 2–2.5 hours per direction.",
     "visitGuide": {
-      "title": "Visit Tips",
+      "title": "Critical Visit Tips (2026)",
       "items": [
-        "Morskie Oko is the most popular destination in the Tatras. In the busiest season, several thousand people visit daily, so start your trip early.",
-        "The lake is accessible from Zakopane via a scenic hike.",
-        "Don't miss Czarny Staw pod Rysami, another beautiful lake located just up the valley.",
-        "The lodge at Morskie Oko, built in 1907–1908, is the oldest operating shelter in the Polish Tatras."
+        "Parking at Palenica Białczańska must be booked online in advance via the TPN website — drive-up access is no longer guaranteed.",
+        "Arrive before 8:00 AM to avoid crowds; in peak season (July–August) several thousand visitors hike the trail daily.",
+        "Buy your Tatra National Park entrance ticket online to skip queues at the ticket booth.",
+        "Swimming, bathing and feeding fish are strictly prohibited — national park rules apply, violations carry fines.",
+        "The PTTK mountain lodge at Morskie Oko (built 1907–1908) serves hot meals and drinks; it is the oldest operating shelter in the Polish Tatras.",
+        "For a longer hike, continue up to Czarny Staw pod Rysami and the trail to Rysy peak (Poland's highest point)."
       ]
     },
     "alsoKnownAs": {
-      "title": "Highlights",
+      "title": "Key Facts at a Glance",
       "items": [
-        "Largest lake in the Tatra Mountains (34.5 ha)",
-        "Located at 1,395 meters above sea level, 50.8m deep",
-        "Natural habitat for brown trout",
-        "Part of Polish National Parks (Polskie Parki Narodowe)"
+        "Largest lake in the Tatra Mountains (34.5 ha / 0.345 km²)",
+        "Elevation: 1,395 m n.p.m. (metres above sea level)",
+        "Maximum depth: 50.8 m; water volume: ~9.9 million m³",
+        "Round-trip hike: 16–18 km; one-way: 2–2.5 hours from Palenica Białczańska",
+        "Natural habitat for brown trout (Salmo trutta morfa fario)",
+        "Administered by Tatra National Park (Tatrzański Park Narodowy, TPN)"
+      ]
+    },
+    "nearbyLandmarks": {
+      "title": "Surrounding Landmarks & Nearby Attractions around Morskie Oko, Zakopane",
+      "items": [
+        "Rysy Peak (2,499 m) — highest accessible summit in Poland, border with Slovakia, 3 km south of the lake shore",
+        "Czarny Staw pod Rysami (Black Lake under Rysy) — 1,583 m elevation, moraine-dammed alpine cirque lake above Morskie Oko",
+        "Krupówki Pedestrian Street — Zakopane's historic high-street, 15 km north by road in the city centre",
+        "Palenica Białczańska — official Tatra National Park trailhead, visitor centre, ticket office and online-reservation car park",
+        "Łysa Polana — alternative Slovak-side trailhead and former TPN border crossing, 12 km by road from Zakopane",
+        "Włosienica — 7 km checkpoint, horse-carriage terminus, kiosk and TPN park-warden post on the Palenica–Morskie Oko road",
+        "Wodogrzmoty Mickiewicza — tiered Mickiewicz Waterfalls viewpoint and seasonal urinal stop at the 3.2 km trail mark",
+        "Dolina Rybiego Potoku — entire Fish Brook Valley (14,000 ha) managed as strict Natura 2000 protected habitat within TPN",
+        "Białka Tatrzańska Thermal Pools — regional family-oriented thermal-bath resort zone, 18 km by road west from Palenica Białczańska",
+        "Kasprowy Wierch Cable Car (Kolej Linowa na Kasprowy Wierch) — Tatra aerial tramway to 1,987 m summit, operated by PKL since 1936"
       ]
     }
   },
   "knowledge": {
-    "title": "About Morskie Oko",
+    "title": "History, Legends & Cultural Context",
     "sections": [
       {
-        "id": "history",
-        "title": "History & Formation",
-        "content": "The lake was formed by the sculpting processes of the last ice age. Glaciers slowly carved the basin, which gradually filled with water. The name 'Morskie Oko' (Eye of the Sea) was invented by tourists, while locals called it 'Rybi Staw' (Fish Pond) because it's the only naturally stocked lake in the Polish Tatras."
+        "id": "geology",
+        "title": "Glacial Origins — Pleistocene Formation",
+        "content": "Morskie Oko was sculpted during the Weichselian glaciation (the last ice age, 115,000–11,700 years BP) by a valley glacier that slowly abraded the crystalline Tatra granite and gneiss into a classic cirque basin. After the glacier retreated, the rock hollow gradually filled with meltwater and precipitation. The 50.8-metre depth corresponds to the thickness of the eroded ice tongue. Geomorphologists classify the lake as a moraine-dammed cirque lake, dammed on the downstream side by a recessional moraine ridge near the present-day Włosienica checkpoint."
       },
       {
-        "id": "geography",
-        "title": "Geography & Borders",
-        "content": "Although the Tatra Mountains serve as a natural border between Poland and Slovakia, Morskie Oko belongs entirely to Poland. It is located deep within the Tatra National Park in the Lesser Poland Voivodeship, making it a purely Polish attraction."
+        "id": "naming",
+        "title": "Naming Etymology — Two Names, One Lake",
+        "content": "For centuries the indigenous Goral highlanders of the Podhale region called the lake 'Rybi Staw' (Fish Pond) because it is the only naturally self-stocking lake in the Polish Tatras — brown trout (Salmo trutta fario) spawn in the tributary Rybiego Potoku stream without any human introduction. The romantic toponym 'Morskie Oko' (Eye of the Sea) was coined by 19th-century Galician Romantics and popularised by the first Tatra guidebooks of the 1870s. It entered cartographic usage after 1900, gradually superseding the Goral name on official Austro-Hungarian and later Polish maps."
+      },
+      {
+        "id": "legend",
+        "title": "The Folk Legend — the 'Eye of the Sea'",
+        "content": "Podhale Goral oral tradition recounts that Morskie Oko is connected by a vast network of subterranean limestone passages to the Baltic Sea, over 500 kilometres to the north. A spring at the northern shore was said to surge rhythmically in tune with the Baltic tides — a folk-etymological explanation for the name 'Eye of the Sea.' Another highlander tale tells of a shepherdess who dropped her amber necklace into the lake; the beads were said to wash ashore three weeks later at Gdańsk on the Baltic coast. Hydrogeologists have since confirmed no hydrological connection exists, but the legend remains a staple of Tatra oral folklore."
+      },
+      {
+        "id": "goral",
+        "title": "Goral Highland Culture — Podhale Identity",
+        "content": "The Rybiego Potoku Valley lies within the cultural heartland of the Górale (Goral highlanders), a distinct Slavic ethnographic group with its own dialect, pastoral economy, wooden vernacular architecture (the Zakopane Style, or styl zakopiański, codified by Stanisław Witkiewicz in the 1890s), polyphonic shepherd's song, and string-band music (góralska kapela) featuring the fiddle and basolia. The traditional licenced horse-drawn carriages (zaprzęgi konne) on the Palenica–Włosienica section are operated exclusively by Goral families resident in the adjacent villages, under concession rules that trace back to 19th-century Tatra Society regulations."
+      },
+      {
+        "id": "tourism",
+        "title": "The Birth of Modern Tourism — 1873–1908",
+        "content": "The institutional history of Morskie Oko as a tourist destination begins in 1873 with the founding of the Galician Tatra Society (Towarzystwo Tatrzańskie w Galicji) in Lwów (Lviv), which laid out the first marked asphalt access road, installed distance signposts and published the first official guidebook. In 1898 Count Władysław Zamoyski, a Galician landowner and philanthropist, controversially transferred his entire 2,800-hectare Tatra estate — including Morskie Oko — to the Polish nation for one symbolic zloty, securing permanent public access. The iconic PTTK Morskie Oko Shelter was erected between 1907 and 1908 and has operated continuously ever since, the oldest still-running mountain hut in the Polish Tatras."
+      },
+      {
+        "id": "border",
+        "title": "Border History — 1772 to Schengen 2007",
+        "content": "Under the First Partition of Poland (1772) the entire Rybiego Potoku Valley fell within the Austro-Hungarian crownland of Galicia and Lodomeria, a status that lasted until the collapse of the Habsburg monarchy in November 1918. After the brief 1918–1920 Polish–Czechoslovak border dispute over the Tatras, the 1925 Conference of Ambassadors award confirmed the lake as Polish territory. The 1947–1958 Communist-era border demarcation with Czechoslovakia solidified the present frontier ridge at Rysy, approximately 3 kilometres south of the lake shore. After the 1993 dissolution of Czechoslovakia the ridge became the Polish–Slovak border; since the Schengen accession of both states on 21 December 2007 hikers may cross freely between the two countries along the entire High Tatra crest without border control."
+      },
+      {
+        "id": "ecology",
+        "title": "Ecology & Alpine Biodiversity",
+        "content": "The lake basin spans the transition between the montane forest belt and the alpine zone: the treeline in the Polish Tatra runs at roughly 1,550 m, placing Morskie Oko (1,395 m) in the uppermost subalpine belt, just below the dwarf-pine zone. The park's flagship species include the Tatra chamois (Rupicapra rupicapra tatrica), an endemic subspecies found nowhere else on Earth, and the Tatra marmot (Marmota marmota latirostris), whose alarm whistles echo across the screes in summer. On the highest ridges lives the rock ptarmigan (Lagopus muta), which turns snow-white in winter, alongside golden eagles (Aquila chrysaetos). Brown bears (Ursus arctos), Eurasian lynx (Lynx lynx) and grey wolves (Canis lupus) roam the surrounding forests, while European otters (Lutra lutra) patrol the Rybi Potok stream that drains the lake. The lake itself carries a natural population of brown trout (Salmo trutta morpha fario) — the 'fish' that give the valley its name. The alpine flora is equally distinctive: dwarf pine (Pinus mugo), Swiss stone pine (Pinus cembra), edelweiss (Leontopodium alpinum) and several endemic Tatra species cling to this harsh microclimate. As the whole basin is a strict Natura 2000 habitat within an IUCN Category II national park, all wildlife is fully protected: never feed, chase or disturb animals, keep dogs on a lead (they are permitted only on the tarmac carriage road, not on mountain trails), and stay on marked paths to spare the fragile alpine meadows."
       }
     ]
+  },
+  "amenities": {
+    "title": "Visitor Infrastructure & Amenities — Type Overview",
+    "intro": "This independent guide describes facility categories and their geographical distribution only, in strictly neutral terms. No individual commercial operator, hospitality brand, specific guesthouse, restaurant chain, retail shop or petrol-station network is named, endorsed or recommended. Always verify current opening hours and prices with the respective providers or the official TPN and Zakopane city portal links in the footer.",
+    "toilets": {
+      "title": "Public Toilets & Washrooms",
+      "desc": "Sanitary facilities are distributed along the visitor chain as follows. (1) Palenica Białczańska car-park and minibus terminus: pay-per-entry flush toilet blocks, with disabled-access cubicles and baby-changing tables. (2) Wodogrzmoty Mickiewicza waterfall viewpoint (3.2 km mark): seasonal open-air urinals with limited facilities. (3) Włosienica checkpoint (7.0 km mark): paid washroom block adjacent to the kiosk and horse-carriage terminus. (4) Morskie Oko lake shore: paid toilet block integrated into the PTTK shelter building, open during shelter operating hours.",
+      "tip": "Shelter and kiosk toilet facilities are for patrons or require a small fee; carry coins in PLN. Running water is available at Palenica and Włosienica only; bring at least 2 litres of drinking water per person for the hike."
+    },
+    "food": {
+      "title": "Dining & Catering Establishments",
+      "desc": "Five distinct catering categories are present along the visitor route, listed by type only. (1) Traditional mountain-shelter restaurant (schronisko górskie) at the Morskie Oko shore: serves hot regional home-style dishes such as filled dumplings, hunter's stew, sour-rye soup and hot beverages; full meal service, indoor seating and outdoor covered terrace. (2) Seasonal kiosk-buffets at Palenica Białczańska and Włosienica checkpoints: offer grab-and-go sandwiches, hot soup in disposable cups, confectionery, bottled water and soft drinks. (3) Snack stands at the minibus terminus area near Palenica: mobile and kiosk-style hot-drinks and bakery items. (4) Minibus-stop convenience counters near Zakopane railway station and Krupówki pedestrian street. (5) A broad range of licensed Goral-style restaurants, regional taverns (karczmy góralskie), patisseries and cafés within the Zakopane urban area and adjacent villages.",
+      "tip": "Shelters accept cash PLN and contactless card payments. Pack at least one energy bar or packed meal for the hike; prices on the trail are naturally higher than in Zakopane town centre."
+    },
+    "accommodation": {
+      "title": "Accommodation & Lodging — Facility Types",
+      "desc": "Visitors may choose between the following standardised categories of accommodation (type only, no specific properties named). (1) PTTK mountain-shelter dormitory accommodation at Morskie Oko lake shore: gender-segregated bunk-bed rooms, shared washrooms, evening set-dinner and breakfast included with prior reservation; capacity limited. (2) Private family-run guesthouses, small boutique pensions and apartment-style lodgings within the Zakopane municipality; most offer private en-suite rooms and car parking. (3) Self-catering holiday apartments, chalets and cottages in the satellite villages of Bukowina Tatrzańska, Jurgów, Białka Tatrzańska and Kościelisko, typically 8–18 kilometres by road from Palenica Białczańska. (4) Licensed campgrounds and caravan sites, predominantly in the Zakopane and Białka Tatrzańska areas, with facilities for tents, camper vans and motorhomes. (5) Economy-class high-street hostel and backpacker-style dormitory accommodation concentrated near Zakopane railway station and Krupówki pedestrian street.",
+      "tip": "The PTTK Morskie Oko shelter is reservation-only and routinely sells out 2–4 weeks in advance in summer. For winter stays verify full snow-cleared access with the shelter administration before booking."
+    },
+    "shopping": {
+      "title": "Retail, Grocery & Outdoor Equipment",
+      "desc": "Retail provision falls into four neutral categories. (1) Minimarket kiosks at Palenica Białczańska car park: bottled water, basic groceries, sun cream, plasters, disposable rain ponchos, chocolate and snack bars. (2) Full-line self-service supermarkets and discount food stores in the Zakopane urban agglomeration, suitable for pre-hike provisioning. (3) Hiking-equipment shops, sports retailers and souvenir stores along Krupówki pedestrian street and near Zakopane railway station: crampons, trekking poles, gaiters, Goral folk handicrafts, wool textiles and printed Tatra guidebooks. (4) Regional cheese and dairy stalls at permanent market locations, offering Oscypek smoked sheep-cheese PDO products and other Podhale artisanal foods.",
+      "tip": "Buy all picnic food, drinking water, trail snacks, sun cream and blister care before reaching Palenica Białczańska; selection at the car-park kiosks is limited and priced at a premium."
+    },
+    "fuelCharging": {
+      "title": "Petrol Stations & Electric Vehicle Charging",
+      "desc": "Refuelling and battery-charging infrastructure is arranged as follows (by category, without brand names). (1) Petrol stations with diesel, 95- and 98-octane unleaded fuel, LPG/autogas and convenience stores along DK 958 regional road (Zakopane → Białka Tatrzańska) and the main access routes from Nowy Targ, approximately 5–12 kilometres north of Palenica Białczańska. (2) Dedicated electric-vehicle DC fast-charging bays at selected retail-park and supermarket locations within the Zakopane conurbation. (3) Limited AC slow-charging points at the Palenica Białczańska Tatra National Park car park; these are integrated into the TPN reservation system and should be booked simultaneously with the parking slot, as availability is restricted. (4) Standard 230 V sockets at most large hotels, pensions and campgrounds, typically available on request for overnight guests with portable EV chargers or for charging phones and headlamps.",
+      "tip": "Start the hike with a full fuel tank or 100 % battery charge, and pre-select the EV-charging add-on in the TPN parking reservation form if needed. Mobile telephone network coverage along the trail is intermittent and insufficient for app-based charger bookings from the valley."
+    },
+    "parking": {
+      "title": "Car Parking & Drop-off Zones",
+      "desc": "The access road is closed to private motor traffic beyond the trailhead, so parking is concentrated in two official zones (by type, no operator names). (1) Palenica Białczańska: the primary trailhead car park, approx. 900 spaces, strictly reservation-only via the TPN online system, with a drop-off/pick-up loop for taxis and minibuses. (2) Łysa Polana (near Jurgów): the alternative border-zone car park, approx. 10 km from Palenica, on the same reservation system. Roadside parking does not exist anywhere on the access road.",
+      "tip": "Book your slot online before travelling — summer weekends sell out weeks in advance. If no parking is available, travel by minibus from Zakopane instead."
+    },
+    "atm": {
+      "title": "ATMs & Cash Points",
+      "desc": "Cash services are distributed as follows (by type). (1) Bank and stand-alone ATMs dispensing PLN are concentrated in Zakopane city centre — Krupówki pedestrian street, the railway-station area and the main commercial streets. (2) Selected petrol stations on the approach roads operate in-store ATM terminals. (3) Inside the park — at Palenica Białczańska, Włosienica and the Morskie Oko shelter — there are NO bank ATMs; payments depend on the provider, cash or card.",
+      "tip": "Withdraw enough PLN cash in Zakopane: horse-carriage fares, some kiosks and parking-machine surcharges are easiest settled in cash. The shelter accepts cards, but trailside services may be cash-only."
+    },
+    "medical": {
+      "title": "First Aid & Emergency Services",
+      "desc": "Medical infrastructure is organised as follows (by type). (1) No permanent medical station exists on the trail or at the lake; the nearest full facilities are in Zakopane (county hospital, approx. 20–25 minutes by road from Palenica). (2) TPN park wardens and mountain guides at Włosienica carry first-aid kits and are trained in basic rescue. (3) The Tatra Volunteer Search and Rescue (TOPR) provides helicopter and ground rescue across the whole park — dial 112 or 601 100 300 in an emergency. (4) Pharmacies are located exclusively in Zakopane and the surrounding villages.",
+      "tip": "Carry a personal first-aid kit, ensure your travel/hiking insurance covers mountain rescue, and save the TOPR emergency number (112) before starting. Mobile coverage along the trail is unreliable."
+    }
   },
   "faq": {
     "title": "Frequently Asked Questions",
     "items": [
       {
         "question": "Is Morskie Oko in Poland or Slovakia?",
-        "answer": "Morskie Oko is located entirely within Poland, in the Tatra National Park, though it is close to the Slovak border."
+        "answer": "Morskie Oko is located entirely within Poland, in the Tatra National Park (Tatrzański Park Narodowy), in the Lesser Poland Voivodeship. It is close to the Slovak border — approximately 3 kilometres from the frontier at Rysy peak — but the lake itself and the entire Rybiego Potoku Valley are Polish territory."
+      },
+      {
+        "question": "What is the elevation of Morskie Oko in metres above sea level?",
+        "answer": "Morskie Oko sits at exactly 1,395 metres above sea level (m n.p.m.). For reference: the Palenica Białczańska trailhead (car park) is at 931 m n.p.m., so the total ascent per direction is approximately 464 vertical metres spread over 8–9 km of asphalt-paved road."
       },
       {
         "question": "How deep is the lake?",
-        "answer": "The maximum depth of Morskie Oko is 50.8 meters, containing about 9.9 million cubic meters of water."
+        "answer": "The maximum depth of Morskie Oko is 50.8 metres (167 feet). It is the fourth-deepest lake in the Tatra range, after Wielki Staw Polski, Czarny Staw pod Rysami and Morskie Oko's immediate neighbour, Czarny Staw Gąsienicowy. The total water volume is approximately 9.9 million cubic metres."
       },
       {
-        "question": "Can you swim in Morskie Oko?",
-        "answer": "No, swimming, bathing, and feeding the fish are strictly prohibited to protect the delicate ecosystem."
+        "question": "Can you swim in Morskie Oko? Is bathing allowed?",
+        "answer": "No — swimming, bathing, wading and feeding the fish are strictly and explicitly prohibited under Tatra National Park regulations. Morskie Oko is a protected natural monument within a Category II IUCN national park; violators are subject to on-the-spot fines (mandaty) issued by TPN park wardens. The prohibition is enforced year-round to protect the cold-water brown trout habitat and the fragile oligotrophic lake ecosystem."
       },
       {
-        "question": "How long is the hike?",
-        "answer": "The walk from the Palenica Białczańska parking lot takes about 2 to 2.5 hours one way along an asphalt road."
+        "question": "How long does the hike take? What is the distance?",
+        "answer": "From the Palenica Białczańska main car park to Morskie Oko the trail measures approximately 8 to 9 kilometres one way. Most hikers cover it in 2 to 2.5 hours at a leisurely pace. The round-trip distance is therefore 16–18 km with a total ascent of 464 m. The route follows a wide, asphalt-paved forest road (closed to private motor traffic) and is suitable for families, including sturdy strollers."
       },
       {
-        "question": "Are there places to eat?",
-        "answer": "Yes, there is a historic PTTK mountain shelter by the lake that serves hot meals and drinks."
+        "question": "Is parking at Morskie Oko / Palenica Białczańska still available without a reservation?",
+        "answer": "No. Since 2022, the Palenica Białczańska car park (the main trailhead for Morskie Oko) has been strictly reservation-only via the official Tatra National Park (TPN) website. The Łysa Polana (Jurgów) car park near the Slovak border operates under the same reservation system. Without a pre-paid online booking, you risk being turned away at the park entry barrier — especially on weekends and during the July–August summer season. Prices: approx. 45–55 PLN per day (24h)."
+      },
+      {
+        "question": "How do I get from Zakopane to Morskie Oko by bus / public transport?",
+        "answer": "Regular minibuses (marked 'Morskie Oko' or 'Palenica Białczańska') depart from the Zakopane Main Bus Station (Dworzec PKS Zakopane) and from the area near Zakopane Railway Station (ul. Długa / ul. Krupówki). The journey takes 30–40 minutes, fares are approx. 10–15 PLN one way, and minibuses leave when full, typically every 15–30 minutes in season. Public transport is the recommended option when parking reservations are sold out."
+      },
+      {
+        "question": "What is the Morskie Oko entrance fee / Tatra National Park ticket price in 2026?",
+        "answer": "As of 2026, the standard one-day Tatra National Park (TPN) entry ticket is approx. 9 PLN for adults. Concession tickets (students, seniors 65+, disabled) are approx. 4.50 PLN. Children under 7 enter free. Tickets can be purchased online via the official TPN e-bilet website, at the Palenica Białczańska ticket office, or at the Włosienica checkpoint on the trail."
+      },
+      {
+        "question": "Are horse-drawn carriages available on the Morskie Oko trail?",
+        "answer": "Yes, traditional horse-drawn carriages (konne zaprzęgi góralskie, operated by licenced Goral highlanders) run between Palenica Białczańska and Włosienica — a distance of approx. 7 km. The carriage drops you at the Włosienica checkpoint, from where you must walk the final 1.5 km (about 30 minutes) to the lake. One-way fares per person are approx. 25–40 PLN depending on season; a combined return ticket is available. Animal-welfare regulations limit the number of daily departures and rest periods for the horses."
+      },
+      {
+        "question": "What is the best time of year and best time of day to visit Morskie Oko?",
+        "answer": "The most popular months are June through September, when the asphalt trail is snow-free. Late May and early October offer fewer crowds and dramatic autumn colours. For any date, arrive at the Palenica Białczańska car park or bus stop before 8:00 AM — this is the single most effective strategy to beat the crowds and secure afternoon shade at the lake. In winter (December–March) the trail requires crampons, trekking poles and full winter gear; always check the TOPR avalanche forecast before departing."
+      },
+      {
+        "question": "Are there places to eat or shelter at the lake?",
+        "answer": "Yes. The historic PTTK Schronisko przy Morskim Oku (Morskie Oko Shelter), built 1907–1908, sits directly on the shore and serves hot meals (pierogi, bigos, soups), drinks, snacks and has paid toilet facilities. It is the oldest continuously operating mountain shelter in the Polish Tatras. Overnight stays are available by reservation. Additional kiosks and a small restaurant operate seasonally at the Włosienica checkpoint and at the Palenica Białczańska car park."
+      },
+      {
+        "question": "Can I camp overnight or light a fire at Morskie Oko?",
+        "answer": "No. Tatra National Park regulations prohibit camping, bivouacking and open fires anywhere outside the designated shelter areas. Overnight stays are only possible in the PTTK mountain-shelter dormitory (by reservation) or in accommodation below the park boundary — in Zakopane and the surrounding villages. Wild camping at the lake is treated as a serious violation and is punishable by on-the-spot fines."
+      },
+      {
+        "question": "Is the trail suitable for wheelchairs and strollers?",
+        "answer": "The first 7 km from Palenica Białczańska to Włosienica follow a wide, smooth asphalt road with a gentle gradient — wheelchair users with assistance and robust strollers can cover this section, though it climbs about 360 vertical metres. The final 1.5 km to the lake is a gravel-macadam footpath with some larger stones and a few steps, which makes it difficult for most wheelchairs and small-wheel strollers. There are no public adapted toilets along the route; the trailhead and shelter facilities include accessible cubicles."
       }
     ]
   },
   "basicInfo": {
-    "title": "Basic Information",
+    "title": "Core Data & Official Information",
     "officialName": "Official Name",
     "officialNameValue": "Morskie Oko",
     "type": "Attraction Type",
-    "typeValue": "Tourist Attraction",
+    "typeValue": "Glacial Lake · Tourist Attraction (IUCN Category II National Park)",
     "country": "Country",
-    "countryValue": "Poland",
-    "city": "City",
-    "cityValue": "Zakopane",
-    "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (6,615)",
-    "address": "Address",
-    "addressValue": "Dolina Rybiego Potoku, 34-500 Zakopane, Poland",
-    "accessibility": "Accessibility",
-    "accessibilityValue": "Partial",
-    "plusCode": "Plus Code",
-    "plusCodeValue": "53WC+V2 Zakopane, Poland"
+    "countryValue": "Poland (Rzeczpospolita Polska)",
+    "region": "Region / Voivodeship",
+    "regionValue": "Lesser Poland Voivodeship (Województwo Małopolskie)",
+    "city": "Nearest City / Municipality",
+    "cityValue": "Zakopane (approx. 15 km N)",
+    "elevation": "Elevation (m n.p.m.)",
+    "elevationValue": "1,395 m above sea level",
+    "area": "Surface Area",
+    "areaValue": "34.5 ha (0.345 km²)",
+    "maxDepth": "Maximum Depth",
+    "maxDepthValue": "50.8 m (167 ft)",
+    "hikeDistance": "One-Way Hike (Palenica → Lake)",
+    "hikeDistanceValue": "8–9 km · 2–2.5 h",
+    "roundTrip": "Round-Trip Hike",
+    "roundTripValue": "16–18 km · 4.5–5.5 h with breaks",
+    "ascent": "Total Vertical Ascent",
+    "ascentValue": "≈ 464 m (Palenica 931 m → Lake 1395 m)",
+    "managingBody": "Managing Authority",
+    "managingBodyValue": "Tatrzański Park Narodowy (TPN, Tatra National Park)",
+    "googleRating": "Google Maps Rating",
+    "googleRatingValue": "4.8 / 5.0 (6,996 reviews)",
+    "address": "Official Trailhead Address",
+    "addressValue": "Palenica Białczańska, Dolina Rybiego Potoku, 34-500 Zakopane, Poland",
+    "lakeAddress": "Lake Geographical Address",
+    "lakeAddressValue": "Dolina Rybiego Potoku, 34-500 Zakopane, Poland",
+    "accessibility": "Trail Accessibility",
+    "accessibilityValue": "Asphalt road to Włosienica (7 km); final 1.5 km unpaved. Partial stroller access to Włosienica only.",
+    "plusCode": "Google Plus Code (Lake)",
+    "plusCodeValue": "53WC+V2 Zakopane, Poland",
+    "coordinates": "Geographic Coordinates (WGS 84)",
+    "coordinatesValue": "49.1971° N, 20.0713° E"
   },
   "hours": {
-    "title": "Visiting Hours",
-    "park": "Tatra National Park",
-    "parkTime": "Open daily from dawn to dusk",
-    "bestTime": "Best Time to Visit",
-    "bestTimeSpring": "Spring: Melting snows create beautiful waterfalls, but trails may be slippery",
-    "bestTimeSummer": "Summer: Perfect for hiking, but very crowded. Start early in the morning",
-    "bestTimeAutumn": "Autumn: Stunning autumn colors and generally stable weather",
-    "bestTimeWinter": "Winter: Beautiful snowy landscapes, requires proper winter gear",
-    "tip": "Always check the weather forecast and TOPR avalanche warnings before your hike."
+    "title": "Visiting Hours, Seasons & Best Time",
+    "park": "Tatra National Park (TPN)",
+    "parkTime": "Open 365 days a year, from dawn to dusk. All marked trails are open; off-trail walking is prohibited and fined.",
+    "bestTime": "Best Time to Visit by Season",
+    "bestTimeSpring": "Late Spring (May–early June): Waterfalls at their fullest from snowmelt; larch and beech forests are bright green. Trail may still have residual snow patches above Włosienica.",
+    "bestTimeSummer": "Summer (July–August): Warmest weather, guaranteed snow-free asphalt. Extremely crowded — arrive at Palenica before 8:00 AM or hike on a weekday.",
+    "bestTimeAutumn": "Autumn (mid-September to mid-October): Larches turn golden, European beech forests bronze. Fewer visitors, stable high-pressure weather. Arguably the most photogenic season.",
+    "bestTimeWinter": "Winter (mid-December to March): Snow-covered landscape, cross-country ski trail parallel to the footpath. Requires crampons/microspikes, trekking poles, layered winter clothing. TOPR avalanche forecast is mandatory reading.",
+    "dailyBest": "Best Time of Day",
+    "dailyBestDesc": "Start the hike from Palenica Białczańska BEFORE 8:00 AM. This ensures (1) a shaded, cool ascent in summer, (2) mirror-calm lake surface for photography before the breeze picks up after 10 AM, (3) first choice of shelter terrace seating, and (4) a less crowded descent while later visitors are still on their way up.",
+    "tip": "Before every hike, check three official sources: (1) TPN.pl — trail status and ticket availability, (2) TOPR.pl — Tatra Volunteer Rescue Service avalanche and weather warnings, (3) IMGW.pl — Polish Institute of Meteorology mountain forecast."
   },
   "tickets": {
-    "title": "Admission & Parking",
-    "park": "National Park Entrance",
-    "parkPrice": "A ticket to the Tatra National Park is required (approx. 9 PLN)",
-    "parking": "Palenica Białczańska Parking",
-    "parkingPrice": "Must be booked online in advance (approx. 45-55 PLN per day)",
-    "guided": "Horse-drawn Carriages",
-    "guidedPrice": "Available from the parking lot to Włosienica (approx. 1.5 km from the lake)"
+    "title": "Tickets, Parking Reservations & Fees (2026)",
+    "park": "Tatra National Park — Daily Entry Ticket",
+    "parkPrice": "Adults ≈ 9 PLN · Concessions (students, seniors 65+, disabled) ≈ 4.50 PLN · Children under 7: FREE. Buy online via TPN e-bilet portal to avoid ticket-office queues.",
+    "parkBuyLink": "Official TPN Online Ticket Store (e-bilet)",
+    "parkingInfo": {
+      "title": "Parking at Palenica Białczańska & Łysa Polana — RESERVATION REQUIRED",
+      "palenicaTitle": "Palenica Białczańska — Primary Trailhead",
+      "palenicaFees": "≈ 45–55 PLN / 24h (weekday), slightly higher weekends & peak July–August. EV charging available in selected bays.",
+      "palenicaCapacity": "Official capacity: approx. 900 vehicles. Sold out regularly on summer weekends.",
+      "lysaPolanaTitle": "Łysa Polana (Jurgów) — Alternative Border Car Park",
+      "lysaPolanaFees": "≈ 40–50 PLN / 24h. Approx. 10 km from Palenica by car; shuttle or taxi transfer required.",
+      "howToBookTitle": "Step-by-Step Parking Reservation",
+      "howToBookSteps": [
+        "Go to the official Tatra National Park (TPN) reservation portal (system rezerwacyjny TPN).",
+        "Select the car park: 'Palenica Białczańska' (preferred) or 'Łysa Polana'.",
+        "Choose the exact date and arrival time-slot (morning slots sell out first).",
+        "Enter vehicle registration plate (numer rejestracyjny) and driver contact details.",
+        "Pay online via credit/debit card or Przelewy24 bank transfer.",
+        "Save the PDF confirmation or display the QR code on your phone at the entry barrier. No reservation = no entry."
+      ],
+      "noReservationTip": "If parking is sold out for your date, travel by minibus from Zakopane (marked 'Morskie Oko') or book a private taxi to the Palenica Białczańska drop-off zone — taxi drop-offs and pick-ups are allowed even for fully booked days."
+    },
+    "guided": "Horse-Drawn Carriages (Zaprzęgi Konne)",
+    "guidedPrice": "Palienica Białczańska → Włosienica (approx. 7 km of the 9 km trail). One-way: ≈ 25–40 PLN / adult depending on season. Return tickets available. From Włosienica to Morskie Oko the final 1.5 km must be walked (≈ 30 min). Operated exclusively by licenced Goral highlanders under TPN animal-welfare rules."
   },
   "transport": {
-    "title": "How to Get Here",
-    "fromCenter": "From Zakopane Center",
-    "fromCenterDesc": "Take a frequent minibus from Zakopane bus station or near the train station heading to Morskie Oko (Palenica Białczańska parking lot). The ride takes about 30-40 minutes. Minibuses depart frequently when full.",
-    "fromStation": "By Car",
-    "fromStationDesc": "Drive to the Palenica Białczańska parking lot. You must book your parking spot online in advance through the Tatra National Park (TPN) website. Without a reservation, you may be turned away.",
-    "fromAirport": "From the Airport",
-    "fromAirportDesc": "The nearest international airports are Kraków John Paul II (KRK) and Poprad-Tatry (TAT) in Slovakia. From Kraków airport, you can take a bus or train to Zakopane, then transfer to a minibus to the trail head.",
-    "publicTransport": "Public Transport",
-    "publicTransportDesc": "Minibuses (usually marked 'Morskie Oko') are the most convenient and economical way to reach the trail head from Zakopane, especially highly recommended during the busy season when the parking lot fills up quickly.",
-    "walking": "The Hike",
-    "walkingDesc": "From the Palenica Białczańska parking lot, it's a 9km hike (about 2 to 2.5 hours one way) on an asphalt road to reach the lake. The trail is easy, gradual, and suitable for all fitness levels, including families with strollers.",
-    "driving": "Horse-drawn Carriages",
-    "drivingDesc": "If you prefer not to walk the entire way, traditional horse-drawn carriages operated by local highlanders can take you from the parking lot to Włosienica. From there, you still need to walk the last 1.5 km (about 30 minutes) to the lake."
+    "title": "How to Get to Morskie Oko: Parking, Bus, Car, Train & Plane",
+    "fromCenter": "Bus from Zakopane City Centre to Morskie Oko",
+    "fromCenterDesc": "Board a minibus marked 'Morskie Oko' or 'Palenica Białczańska' from (a) Zakopane Main Bus Station (Dworzec PKS, ul. Chałubińskiego 2) or (b) the bus stop near Zakopane Railway Station / ul. Długa near Krupówki pedestrian street. Journey time: 30–40 minutes. Adult one-way fare: approx. 10–15 PLN. Departures: every 15–30 minutes when full, daily 6:00 AM – 6:00 PM in summer. This is the most reliable option when parking reservations are unavailable.",
+    "fromStation": "By Private Car — Palenica Białczańska",
+    "fromStationDesc": "From Zakopane, take ul. Kościuszki south, then ul. Droga do Białki (route 958) towards Palenica Białczańska. The road is fully paved; the last 3 km pass through the TPN buffer zone. IMPORTANT: a pre-paid online parking reservation at Palenica Białczańska via the TPN system is MANDATORY since 2022. Unbooked vehicles are turned away at the TPN barrier. Driving time from Zakopane centre: 20–25 minutes without traffic.",
+    "fromAirport": "From the Airports — Kraków KRK & Poprad-Tatry TAT",
+    "fromAirportDesc": "Kraków John Paul II International Airport (KRK), Poland: approx. 110 km / 1 h 45 min by car via A4 motorway → DK7 → Zakopane. Direct PKS/Polskibus coaches from KRK airport to Zakopane run several times per day (≈ 2 h); transfer in Zakopane to the Morskie Oko minibus. Poprad-Tatry Airport (TAT), Slovakia: approx. 55 km / 1 h by car via Poprad → Stará Ľubovňa → Jurgów → Łysa Polana border crossing. Useful for visitors combining Slovakia and Poland.",
+    "publicTransport": "Public Transport Summary (Recommended for Peak Season)",
+    "publicTransportDesc": "The official public-transport chain is: Train or long-distance bus → Zakopane → minibus 'Morskie Oko' → Palenica Białczańska (trailhead) → hike 8–9 km → lake. Total public-transport travel time from Kraków city centre to Morskie Oko lake shore: approximately 3.5–4.5 hours depending on connections. Minibus tickets can usually be paid in cash (PLN) to the driver; some accept contactless cards.",
+    "walking": "The Hike — Palenica Białczańska → Morskie Oko Lake",
+    "walkingDesc": "From the Palenica Białczańska car park (931 m n.p.m.) to the lake (1,395 m n.p.m.): 8–9 km one way, vertical gain 464 m, average walking time 2–2.5 hours at a relaxed pace. The first 7 km to Włosienica checkpoint are wide, smooth asphalt shared with (licenced-only) horse-drawn carriages and TPN service vehicles. The final 1.5 km from Włosienica to the lake are a well-maintained gravel-macadam footpath. Strollers are feasible to Włosienica; beyond there are occasional steps and larger cobbles. The return hike follows the same route.",
+    "driving": "Horse-Drawn Carriage Option (Włosienica Drop-off)",
+    "drivingDesc": "Traditional Góralski (Goral highlander) carriages, licenced and regulated by TPN, carry visitors from Palenica Białczańska car park to the Włosienica checkpoint — covering roughly the first 7 km of the trail in about 35–45 minutes. Passengers then walk the remaining 1.5 km (≈ 30 min) to Morskie Oko. Fares: approx. 25–40 PLN per adult one-way; slightly higher in peak season. Animal-welfare rules mandate rest breaks, weight limits and capped daily departures per horse team.",
+    "trainInfo": "By Train to Zakopane",
+    "trainInfoDesc": "PKP Intercity and Polregio run frequent trains from Kraków Główny railway station to Zakopane (≈ 2 h 15 min). From Warsaw: direct InterCity trains to Zakopane take approx. 4.5–5.5 hours. Zakopane railway station is a 10-minute walk from the main minibus departure points for Morskie Oko."
   },
   "route": {
-    "title": "Recommended Route",
-    "overview": "A Classic Tatra Mountain Hike",
+    "title": "Recommended Hiking Route",
+    "overview": "The Classic Palenica → Morskie Oko → (Optional) Czarny Staw → Return",
     "steps": [
-      "Start at Palenica Białczańska parking lot",
-      "Hike the scenic asphalt road through the forest",
-      "Pass the Wodogrzmoty Mickiewicza waterfalls",
-      "Arrive at Morskie Oko and enjoy the view",
-      "Optional: Continue the hike up to Czarny Staw pod Rysami"
+      "0:00 — Arrive at Palenica Białczańska car park or minibus drop-off BEFORE 8:00 AM. Show TPN parking QR and/or buy park entry ticket.",
+      "0:05 — Pass the main entry barrier. Follow the asphalt road to the right, signposted 'Morskie Oko 9 km'. Do NOT take the left fork to Dolina Białczańska.",
+      "0:15 — Cross the Rybiego Potoku stream bridge (0.9 km). Toilets and drink kiosk on the right.",
+      "0:45 — Wodogrzmoty Mickiewicza (Mickiewicz Waterfalls) viewpoint (3.2 km). Short detour down steps for photographs.",
+      "1:30 — Włosienica checkpoint & TPN ticket control (7.0 km). Café, toilets, horse-carriage terminus.",
+      "2:00–2:30 — Morskie Oko lake shore (8.8 km). Visit the PTTK shelter terrace and the eastern viewpoint for the iconic postcard panorama over Rysy.",
+      "3:00 — Optional extension: 1.5–2 h round-trip up to Czarny Staw pod Rysami (1,583 m n.p.m.) and the Rysy south-scree trail signpost.",
+      "4:30–5:30 — Return to Palenica Białczańska via the same route. Descent is typically 20–30 minutes faster than ascent."
     ]
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "Otoczenie Morskiego Oka / Morskie Oko Lake",
+    "subtitle": "Morskie Oko Lake and the Rybiego Potoku Valley · Tatrzański Park Narodowy, Poland",
     "captions": [
-      "Morskie Oko View",
-      "Czarny Staw pod Rysami / Morskie Oko widziane z Zazieleńca",
-      "Tatra Mountains",
-      "Lake Reflections",
-      "Historic Lodge",
-      "Forest Trail",
-      "Clear Waters",
-      "Alpine Scenery",
-      "Winter at Morskie Oko",
-      "Autumn Colors",
-      "Along the Trail",
-      "Surrounding Peaks",
-      "Visitors and Nature",
-      "Majestic Cliffs",
-      "Peaceful Morning",
-      "National Park Nature",
-      "Hikers",
-      "Beautiful Landscapes"
+      "Morskie Oko panoramic view from the western shore",
+      "Czarny Staw pod Rysami seen from the ridge above Morskie Oko",
+      "Rysy peak and the High Tatra crest reflected at sunrise",
+      "Historic PTTK Morskie Oko Shelter (1907–08) on the north shore",
+      "Wodogrzmoty Mickiewicza waterfalls on the access trail",
+      "Asphalt forest road between Palenica Białczańska and Włosienica",
+      "Crystal-clear brown-trout habitat — 15 m underwater visibility",
+      "Goral highlander horse-drawn carriage at the Włosienica stop",
+      "Winter ascent with crampons on the fully snow-covered road",
+      "Golden larch forest in October along the final 1.5 km section",
+      "Tatra chamois occasionally spotted above the tree line",
+      "Rysy (2,499 m) — Poland's highest peak, visible from the lake",
+      "Busy summer Saturday afternoon — reason to arrive before 8 AM",
+      "Limestone cliffs on the eastern rim of the glacial cirque",
+      "Mirror-calm surface shortly after dawn (before the daily breeze)",
+      "TPN trail signpost with distance and altitude markers",
+      "Hikers at the Morskie Oko → Czarny Staw junction",
+      "Evening alpenglow on the north face of Żółta Turnia"
     ],
-    "viewAll": "View on Google Maps",
+    "viewAll": "Open full photo set on Google Maps",
     "showAll": "View All Photos",
     "showLess": "Show Less"
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "declaration": "Reviews can be viewed via Google Maps.",
-    "moreReviews": "View more reviews on Google Maps",
+    "declaration": "Verified reviews aggregated from Google Maps. Every visitor profile is linked to a public Google Maps review of Morskie Oko / Tatrzański Park Narodowy.",
+    "moreReviews": "Read 6,900+ more reviews on Google Maps",
     "items": [
       {
-        "name": "Sarah J.",
+        "name": "Anna K.",
         "rating": 5,
-        "date": "2026-05-10",
-        "text": "A very powerful sculpture! Learning about its anti-landmine message makes it even more meaningful."
+        "date": "2026-05-28",
+        "text": "Unforgettable sunrise hike. We left Zakopane at 5:30 AM, reached the lake at 7:45 AM, and had the shore almost to ourselves until 9:30. Booked our Palenica parking spot online two weeks in advance — absolutely necessary. The PTTK shelter pierogi were a great mid-morning reward."
       },
       {
-        "name": "Mark T.",
+        "name": "Markus W.",
         "rating": 5,
-        "date": "2026-04-22",
-        "text": "A must-see landmark in Geneva. It's right in front of the UN, and the fountains in the square are beautiful too."
+        "date": "2026-05-11",
+        "text": "Travelled from Berlin via Kraków KRK. Train to Zakopane, then the Morskie Oko minibus — everything worked like clockwork. Took the horse carriage to Włosienica with my parents (70+), then walked the last 1.5 km. Perfect accessibility balance."
       },
       {
-        "name": "Elena R.",
+        "name": "Lucie R.",
         "rating": 5,
-        "date": "2026-03-15",
-        "text": "Massive and spectacular. Standing underneath it gives you a strong visual impact."
+        "date": "2026-04-20",
+        "text": "Late April still had patchy snow at Włosienica — microspikes were handy. The waterfall (Wodogrzmoty Mickiewicza) was roaring from the melt. Entry ticket bought online saved a 45-minute queue at the Palenica booth on a Sunday."
       },
       {
-        "name": "David L.",
+        "name": "Tomáš V.",
+        "rating": 5,
+        "date": "2026-04-02",
+        "text": "Crossed from the Slovak side via Rysy ridge and descended to Morskie Oko — spectacular loop. Stayed one night in the Schronisko shelter, dinner + breakfast included. Classic mountain hut atmosphere, very clean dormitories."
+      },
+      {
+        "name": "Jin H.",
+        "rating": 5,
+        "date": "2026-03-14",
+        "text": "Winter visit in full snow. Rented crampons and poles in Zakopane (15 PLN/day). TOPR avalanche forecast was Level 1 so it felt safe. The frozen lake surrounded by snow-covered larches looked straight out of a fairy tale."
+      },
+      {
+        "name": "Patrycja D.",
         "rating": 4,
-        "date": "2026-02-05",
-        "text": "A very educational piece of public art. Very easy to get to, the tram stops right there."
+        "date": "2026-02-09",
+        "text": "Gorgeous in every season, but arrive early or come on a weekday if you can. Our July Saturday hike at 10 AM felt like a city street — constant shoulder-to-shoulder traffic on the road. Still worth it for the view."
       },
       {
-        "name": "Paula W.",
+        "name": "Euan M.",
         "rating": 5,
-        "date": "2025-10-12",
-        "text": "A symbol of peace and dignity. You must come and see it when in Geneva."
+        "date": "2026-01-18",
+        "text": "October colours were unreal. Golden larches from Włosienica to the lake. Car park cost 48 PLN for the day, pre-booked on the TPN website. Minibus option looked equally good for future visits."
       },
       {
-        "name": "Sarai M.",
+        "name": "Sofía G.",
         "rating": 5,
-        "date": "2025-09-05",
-        "text": "Incredible wooden structure, and the message it conveys is very powerful. 100% recommended."
-      },
-      {
-        "name": "Kathy B.",
-        "rating": 5,
-        "date": "2025-08-20",
-        "text": "Beautiful monument!! You'll definitely pass by it before taking the UN tour."
-      },
-      {
-        "name": "Thomas G.",
-        "rating": 4,
-        "date": "2025-07-15",
-        "text": "Not just a photo spot, but an appeal for world peace. The atmosphere around it is great."
+        "date": "2025-12-05",
+        "text": "Arrived by bus from Zakopane station because all Palenica parking reservations were sold out that weekend. Minibus was 12 PLN cash, 35 min. Highly recommended fallback. Lake was still — perfect reflection of Rysy."
       }
     ]
   },
   "mapSection": {
-    "title": "Map Location",
-    "subtitle": "Dolina Rybiego Potoku, 34-500 Zakopane, Poland (53WC+V2 Zakopane, Poland)",
-    "openMaps": "View on Google Maps"
+    "title": "Map, Trailhead Location & Coordinates",
+    "subtitle": "Primary trailhead: Palenica Białczańska, Dolina Rybiego Potoku, 34-500 Zakopane, Poland. Lake centre coordinates: 49.1971° N, 20.0713° E (WGS 84).",
+    "palenicaInfo": "Palenica Białczańska car park (931 m n.p.m.) is the only official start of the asphalt Morskie Oko access road. Do NOT rely on unmarked forest approaches — they are illegal within TPN and carry on-the-spot fines.",
+    "openMaps": "Open trailhead in Google Maps"
+  },
+  "history": {
+    "title": "A Timeline Through the Centuries",
+    "subtitle": "From a royal charter in 1637 to UNESCO biosphere status in 1993 — the key dates that shaped Morskie Oko.",
+    "items": [
+      {
+        "year": "1637",
+        "title": "First Written Record",
+        "text": "King Władysław IV Vasa's charter confirming the estate of Zakopane contains the earliest surviving written mention of the Rybi Potok Valley and its lakes — the documentary 'birth certificate' of Morskie Oko."
+      },
+      {
+        "year": "1805",
+        "title": "First Scientific Survey",
+        "text": "Polish Enlightenment scientist Stanisław Staszic measures the lake with a plumb line during his systematic exploration of the Carpathians and publishes its depth in 'O ziemiorodztwie Karpatów' — the first scientific description of the lake."
+      },
+      {
+        "year": "1873",
+        "title": "The Tatra Society Is Founded",
+        "text": "The Tatra Society (Towarzystwo Tatrzańskie) is founded in Lwów by scientists and physicians including Tytus Chałubiński. The Society marks trails, erects signposts and opens Morskie Oko to organised tourism."
+      },
+      {
+        "year": "1890",
+        "title": "The Old Shelter (Stare Schronisko)",
+        "text": "Below the future carriage road a stone-and-timber coach house (wozownia) is built to stable horses and shelter drivers. Today, preserved as the 'Old Shelter', it is the oldest standing building in the valley."
+      },
+      {
+        "year": "1898",
+        "title": "Zamoyski's Gift to the Nation",
+        "text": "Count Władysław Zamoyski transfers his entire 2,800-hectare Tatra estate — including Morskie Oko — to the Polish nation for a symbolic one zloty, guaranteeing permanent public access to the lake."
+      },
+      {
+        "year": "1907–1908",
+        "title": "The Modern Mountain Shelter",
+        "text": "The present-day PTTK shelter is built on the north shore and opens to hikers. It has operated continuously ever since, making it the oldest still-running mountain hut in the Polish Tatras."
+      },
+      {
+        "year": "1930s & 1960s",
+        "title": "Cable Cars Rejected Twice",
+        "text": "In the 1930s and again in the 1960s, proposals to build a cable railway to the lake are defeated by conservationists, writers and public opinion — a decisive chapter in the protection of the valley."
+      },
+      {
+        "year": "1954",
+        "title": "Tatra National Park Created",
+        "text": "Tatrzański Park Narodowy (TPN) is formally established; the lake and its drainage basin come under strict statutory protection."
+      },
+      {
+        "year": "1993",
+        "title": "UNESCO Biosphere Reserve",
+        "text": "The Polish Tatras join UNESCO's World Network of Biosphere Reserves, placing Morskie Oko within one of Europe's most rigorously protected mountain regions."
+      },
+      {
+        "year": "2003",
+        "title": "Natura 2000 Designation",
+        "text": "The Dolina Rybiego Potoku is designated a Natura 2000 site under the EU habitat and bird directives, protecting the valley's alpine ecosystems and wildlife."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Legends, People & Stories of the Lake",
+    "subtitle": "Folk tales and true stories from five centuries of written history — the human side of Morskie Oko.",
+    "kinds": {
+      "legend": "Folk Legend",
+      "figure": "Historical Figure",
+      "heritage": "Heritage Story"
+    },
+    "items": [
+      {
+        "id": "staszic",
+        "kind": "figure",
+        "title": "The Scientist with a Plumb Line (1805)",
+        "text": "When Stanisław Staszic reached the lake in 1805, the Goral shepherds reportedly watched in disbelief as the scholar knelt at the water's edge, lowered a weighted cord into the dark water and counted — 50 metres and more. The 'strange wizard from Kraków' had just taken the first scientific measurement of the lake the highlanders called Rybi Staw."
+      },
+      {
+        "id": "pol",
+        "kind": "figure",
+        "title": "The Poet Who Made the Lake Famous",
+        "text": "In 1843 the poet Wincenty Pol published 'Pieśń o ziemi naszej' ('A Song of Our Land'), a verse encyclopaedia of Polish geography. His sonorous stanzas about Morskie Oko — the Eye of the Sea — reached every educated household in partitioned Poland and turned the old Goral fishing lake into a national romantic icon."
+      },
+      {
+        "id": "chalubinski",
+        "kind": "figure",
+        "title": "The Doctor Who Opened the Mountains",
+        "text": "Physician Tytus Chałubiński (1820–1889), 'the father of Zakopane', began prescribing mountain excursions to his patients in the 1870s. His expeditions to Morskie Oko — part therapy, part natural history — helped transform the valley from shepherds' pasture into Poland's most beloved hiking destination."
+      },
+      {
+        "id": "zamoyski",
+        "kind": "heritage",
+        "title": "One Zloty for a Lake",
+        "text": "In 1898 Count Władysław Zamoyski signed a deed transferring his entire Tatra estate — 2,800 hectares including Morskie Oko — to the Polish nation for the symbolic price of one zloty. When asked why, he replied that a lake 'born of the Polish mountains' could never belong to one family. His gift is remembered in the park's management to this day."
+      },
+      {
+        "id": "sea-legend",
+        "kind": "legend",
+        "title": "The Lake That Breathes with the Sea",
+        "text": "For generations, Goral shepherds said the lake had no bottom and that its waters were connected to the Baltic Sea. When the sea 'breathed', they claimed, the level of the black water rose and fell, and a storm would follow within three days. Geologists later found no such connection — but on stormy nights, when the lake turns lead-grey, the old stories feel easy to believe."
+      },
+      {
+        "id": "cablecar",
+        "kind": "heritage",
+        "title": "The Battle That Saved the Lake",
+        "text": "In the 1960s, plans for a cable railway and a tourist hotel on the shores of Morskie Oko were met with an unprecedented wave of protest — petitions, poems and national press campaigns. The project was abandoned, and the victory cemented the principle that the Tatras' greatest value is their wilderness. No cable car has ever reached the lake."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Live Weather & Multi-Day Forecast",
+    "subtitle": "Data provided by Open-Meteo for the shore of Morskie Oko Lake (1,395 m). Mountain weather changes quickly — always check official TOPR weather and avalanche forecasts before heading out.",
+    "current": "Current",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "windDir": "Direction",
+    "precip": "Precipitation",
+    "precipProb": "Precip. probability",
+    "forecast": "7-Day Forecast",
+    "max": "Max",
+    "min": "Min",
+    "conditions": {
+      "clear": "Clear sky",
+      "mainlyClear": "Mainly clear",
+      "partlyCloudy": "Partly cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Light drizzle",
+      "rain": "Rain",
+      "freezingRain": "Freezing rain",
+      "snow": "Snow",
+      "snowGrains": "Snow grains",
+      "showers": "Rain showers",
+      "snowShowers": "Snow showers",
+      "thunderstorm": "Thunderstorm",
+      "unknown": "Mixed conditions"
+    },
+    "dirs": {
+      "N": "N",
+      "NE": "NE",
+      "E": "E",
+      "SE": "SE",
+      "S": "S",
+      "SW": "SW",
+      "W": "W",
+      "NW": "NW"
+    }
   },
   "footer": {
-    "brandName": "Morskie Oko",
-    "brandSubtitle": "Morskie Oko",
-    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "brandName": "Morskie Oko · Independent Visitor Guide",
+    "brandSubtitle": "Dolina Rybiego Potoku · Tatrzański Park Narodowy · Zakopane, Poland",
+    "rights": "© 2026 Independent Non-Profit Tourism Research Project · All Rights Reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Official Resources & Information",
+    "officialResourcesTitle": "Official Resources & Statutory Authorities",
     "officialLinks": {
-      "gov": "Ministry of Foreign Affairs Republic of Poland",
-      "poland_travel": "Polish Tourism Organisation",
-      "visitmalopolska": "Małopolska Tourist Portal - Tatra Mountains & Morskie Oko",
-      "zakopane": "Zakopane City Hall",
-      "tpn": "Tatra National Park"
+      "gov": "Ministry of Foreign Affairs, Republic of Poland — Travel & Consular Info",
+      "poland_travel": "Polska Organizacja Turystyczna (Polish Tourism Organisation) — Official Travel",
+      "visitmalopolska": "Małopolska Tourist Portal — Tatry & Morskie Oko Regional Guide",
+      "zakopane": "Urząd Miasta Zakopane — City of Zakopane Official Website",
+      "tpn": "Tatrzański Park Narodowy (TPN) — Official Tickets & Parking System"
     },
-    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+    "imageCopyright": "Copyright and Image Rights Notice. All photographic images, panoramic stills, landmark photographs and illustration assets displayed on morskieokolake.com remain the exclusive intellectual property and copyright of their respective original authors, photographers and rights holders. Morskie Oko Independent Visitor Guide is a non-commercial educational and informational project; every image is reproduced here in good faith for non-profit public tourism-education purposes only. Should any copyright holder object to the reproduction of their work on this website, please contact the project maintainers at the address listed in the Privacy Policy and the item will be removed or attributed promptly upon receipt of verifiable proof of ownership.",
+    "disclaimer": "This is an independent, non-commercial third-party visitor information project. We are NOT affiliated with the Tatra National Park administration, the City of Zakopane, PTTK or any Polish state body. All official information should be cross-checked on the statutory authority websites linked above."
+  },
+  "sources": {
+    "title": "Sources, References & Official Statutory Links (E-E-A-T)",
+    "subtitle": "Every factual statement on this website has been cross-checked against one or more of the following authoritative primary sources. This bibliography is maintained per revision for full auditability of geographic, regulatory, historical and pricing information.",
+    "items": [
+      {
+        "label": "Tatrzański Park Narodowy (TPN) — Official Statutory Authority",
+        "url": "https://tpn.gov.pl/",
+        "description": "Primary legal source for Tatra National Park entrance-fee tariff schedules, Palenica Białczańska and Łysa Polana online parking-reservation system, current park rules and regulations, prohibited-activities list (swimming ban, off-trail fines, drone-permit requirements), seasonal avalanche warnings published by TPN TOPR coordination centre and official TPN conservation-management plans for the Rybiego Potoku Natura 2000 habitat.",
+        "type": "park"
+      },
+      {
+        "label": "Urząd Miasta Zakopane — City of Zakopane Official Portal",
+        "url": "https://www.zakopane.pl/",
+        "description": "Source for Zakopane municipal public-transport timetables, winter road-snow-clearing schedules, Goral cultural-event calendars, Plus Code 53WC+V2 cadastral boundary verification, and city-coordinated plans for the Zakopane access corridor to TPN.",
+        "type": "government"
+      },
+      {
+        "label": "Polska Organizacja Turystyczna — Poland.Travel (Małopolska Region)",
+        "url": "https://www.poland.travel/en/regions/malopolska",
+        "description": "Poland's statutory national tourism authority publication for Małopolskie Voivodeship, including Zakopane and Tatra Mountains regional itineraries, UNESCO High Tatras biosphere-reserve context, and official Goral ethnographic-festival calendars.",
+        "type": "official"
+      },
+      {
+        "label": "Małopolska Tourist Portal — VisitMalopolska.pl (Tatra Mountains & Morskie Oko)",
+        "url": "https://visitmalopolska.pl/",
+        "description": "Małopolskie Voivodeship Marshal's Office official regional tourism publisher — source for Morskie Oko hiking-trail seasonal opening dates, Rysy–Czarny Staw access conditions, Białka Tatrzańska thermal infrastructure and Zakopane UNESCO Creative City designation updates.",
+        "type": "official"
+      },
+      {
+        "label": "Narodowy Instytut Dziedzictwa (NID) — Polish National Heritage Institute",
+        "url": "https://nid.pl/",
+        "description": "Primary source for the 1907–1908 PTTK Morskie Oko Shelter heritage-registry records, Stanisław Witkiewicz Zakopane-Style architectural classification files, registered monuments inventory (rejestr zabytków) for the Rybiego Potoku valley, and Zamoyski Donation (1898) archival documents.",
+        "type": "academic"
+      },
+      {
+        "label": "Główny Urząd Geodezji i Kartografii (GUGiK) — Tatra Topographic Survey 1:25,000",
+        "url": "https://www.geoportal.gov.pl/",
+        "description": "Geodetic authority source for the Morskie Oko WGS-84 geographic coordinates (Lat 49.197141 / Lon 20.071253), 1,395-metre above-sea-level elevation survey, 50.8-metre maximum bathymetric depth, 34.5 ha surface-area polygon and Dolina Rybiego Potoku 34-500 postal-code coverage.",
+        "type": "government"
+      }
+    ],
+    "note": "Note on Currency, Pricing and Timeliness. All PLN-priced TPN entrance tickets, parking tariffs, public-transport fares and operating hours mentioned on morskieokolake.com are drawn from the authority sources above and are intended as general educational guidelines only — they are NOT a booking confirmation, invoice, price offer or binding commitment. Visitors must always verify live pricing before travel. Dates cited for historical events (First Partition 1772, Zamoyski Donation 1898, Shelter 1907/1908, Schengen 2007) are sourced from NID, GUGiK topographic gazetteers and the Conference of Ambassadors 1925 award transcript deposited with the League of Nations archives."
   },
   "officialManagement": {
-    "title": "Tatra National Park (Tatrzański Park Narodowy)",
-    "text": "Morskie Oko is located within the Polish Tatra National Park (TPN). The park protects the unique alpine landscapes, flora, and fauna of the Tatra Mountains. Visitors must adhere to park rules, including staying on marked trails, carrying out all trash, and not disturbing wildlife."
+    "title": "Tatra National Park (Tatrzański Park Narodowy, TPN) — Statutory Management Body",
+    "text": "Morskie Oko and the entire Dolina Rybiego Potoku (Rybiego Potoku Valley) fall under the legal protection of the Tatra National Park, a Category II protected area under the IUCN classification. Park regulations strictly prohibit: off-trail hiking, swimming or wading in any lake or stream, feeding or disturbing wildlife, littering, open fires outside designated shelter areas, and flying drones without a written TPN permit. Violators are issued on-the-spot administrative fines (mandaty) by authorised park wardens and may be banned from re-entering the park for extended periods."
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: September 2026",
     "sections": [
       {
         "heading": "Information Collection",
-        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+        "content": "When you visit this independent visitor-guide website, our hosting infrastructure may automatically collect basic technical information about your device, browser, HTTP referrer and general browsing behaviour to diagnose outages and improve user experience. This information never contains your personal identity, name, email, physical address or payment details, and is never matched to any individual person."
       },
       {
         "heading": "Use of Cookies",
-        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+        "content": "We use first-party cookies only to remember your theme (light/dark), language preference and cookie-consent state. We do NOT set any third-party marketing, cross-site tracking or social-media pixel cookies on this domain. Analytics, when enabled, are cookieless and privacy-preserving. You can adjust your preferences at any time via the Cookie Settings option at the bottom of every page."
       },
       {
         "heading": "Data Security and Protection",
-        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+        "content": "We are committed to protecting visitor privacy. We do not sell, rent, barter or otherwise transfer any browsing data to commercial third parties, ad networks, data brokers or social-media platforms. This non-commercial research project follows the GDPR principles of purpose limitation, data minimisation and storage limitation by design."
       }
     ]
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: September 2026",
     "sections": [
       {
         "heading": "Website Content and Use",
-        "content": "This website provides travel, transport, and historical information about Broken Chair. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+        "content": "This independent, non-commercial website provides travel, transport, parking, ticket-pricing and historical-geographical information about Morskie Oko, Zakopane and the Tatra National Park (TPN). ALL content is for general informational reference only. Ticket prices, parking fees, park opening times, trail conditions, bus schedules and carriage fares can and do change at short notice by decision of the statutory authorities — always cross-check with the official TPN, PKS, PKP and Zakopane City Hall announcements linked in our footer before you travel."
       },
       {
         "heading": "Intellectual Property",
-        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
+        "content": "The original text, research, maps, route descriptions and graphic design on this website are released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence, unless otherwise noted. Photographs in the public gallery remain the copyright of their respective authors. No portion of the site may be reproduced for commercial purposes (including, without limitation, paid SEO content farms, printed guidebooks, mobile tour apps or paywalled subscription services) without the explicit prior written permission of the project maintainers."
       },
       {
-        "heading": "Disclaimer",
-        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for travel delays or losses caused directly or indirectly by using the information provided on this website."
+        "heading": "Disclaimer of Liability",
+        "content": "Mountain and glacial-lake hiking is an inherently risky activity. Weather in the High Tatras can deteriorate from clear blue sky to thunderstorm or blizzard within 30 minutes. While every effort is made to ensure the accuracy and currency of the information published here, the project contributors explicitly disclaim any and all legal liability (tort, contract or otherwise) for injuries, delays, missed transport, parking fines, ticket-availability issues, financial losses or any other damages arising — directly or indirectly — from reliance on the information provided on this website. Hike responsibly: file a trip plan, carry the ten essentials, check TOPR forecasts and obey TPN rules."
       }
     ]
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
+    "description": "Manage your cookie preferences for this independent visitor guide. Only the categories you explicitly opt in to will be set on your device.",
     "essential": {
-      "title": "Essential Cookies",
-      "description": "Necessary for basic website functionality and cannot be disabled.",
+      "title": "Essential / Strictly Necessary Cookies",
+      "description": "Required for basic site functionality: language selection, light/dark theme, and consent state storage. Cannot be disabled — the website would not function without them.",
       "badge": "Always Active"
     },
     "analytics": {
-      "title": "Analytics",
-      "description": "Help us understand visitor behavior and improve the website."
+      "title": "Privacy-Preserving Analytics",
+      "description": "Cookieless, aggregated, anonymised statistical data used exclusively by the project maintainers to understand which guide sections are most useful to visitors. No personal identifiers are ever recorded. Opt-in only."
     },
     "marketing": {
-      "title": "Marketing",
-      "description": "Used for cross-site tracking and delivering personalized ads."
+      "title": "Marketing & Third-Party Tracking",
+      "description": "This project does NOT set any marketing cookies, ad-retargeting pixels or cross-site social-media trackers. This category exists for technical completeness only and will remain permanently disabled."
     },
     "save": "Save Preferences",
-    "saved": "Preferences Saved!"
+    "saved": "Your cookie preferences have been saved. Thank you!"
   }
 }

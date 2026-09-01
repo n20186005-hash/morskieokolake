@@ -11,7 +11,8 @@ export async function generateMetadata({
   const baseUrl = 'https://morskieokolake.com';
   const zhUrl = `${baseUrl}/zh/cookie-settings`;
   const enUrl = `${baseUrl}/en/cookie-settings`;
-  const hrUrl = `${baseUrl}/hr/cookie-settings`;
+  const plUrl = `${baseUrl}/pl/cookie-settings`;
+  const ruUrl = `${baseUrl}/ru/cookie-settings`;
   const deUrl = `${baseUrl}/de/cookie-settings`;
   const selfUrl = `${baseUrl}/${locale}/cookie-settings`;
 
@@ -21,7 +22,8 @@ export async function generateMetadata({
       languages: {
         'zh': zhUrl,
         'en': enUrl,
-        'hr': hrUrl,
+        'pl': plUrl,
+        'ru': ruUrl,
         'de': deUrl,
         'x-default': enUrl,
       },

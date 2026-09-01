@@ -1,12 +1,13 @@
 {
-  "name": "trg-kralja-tomislava",
+  "name": "morskie-oko",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "check:i18n": "node scripts/check-i18n.mjs"
   },
   "dependencies": {
     "next": "^15.1.0",

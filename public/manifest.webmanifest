@@ -1,0 +1,52 @@
+{
+  "name": "Morskie Oko · Independent Visitor Guide",
+  "short_name": "Morskie Oko",
+  "description": "Independent non-commercial visitor guide to Morskie Oko in Zakopane, Małopolskie Voivodeship, Poland — tickets, parking, transport map and hiking trail information.",
+  "start_url": "/en",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6efe5",
+  "theme_color": "#f6efe5",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["travel", "lifestyle", "reference", "education"],
+  "iarc_rating_id": "18+",
+  "icons": [
+    {
+      "src": "/gallery/morskie-oko%20(1).png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/gallery/morskie-oko%20(1).png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Tickets & Parking",
+      "short_name": "Tickets",
+      "description": "TPN entrance fees and Palenica Białczańska parking reservation",
+      "url": "/en#tickets-parking",
+      "icons": [{ "src": "/gallery/morskie-oko%20(1).png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Transport & Hiking Trail",
+      "short_name": "Hike",
+      "description": "Zakopane bus routes, train info and 8-step trail itinerary",
+      "url": "/en#transport",
+      "icons": [{ "src": "/gallery/morskie-oko%20(1).png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Location & Map",
+      "short_name": "Map",
+      "description": "Google Maps embed of Dolina Rybiego Potoku, 34-500 Zakopane",
+      "url": "/en#map",
+      "icons": [{ "src": "/gallery/morskie-oko%20(1).png", "sizes": "96x96" }]
+    }
+  ]
+}

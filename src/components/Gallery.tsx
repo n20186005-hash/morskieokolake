@@ -3,25 +3,26 @@
 import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
+const BASE_ALT_PREFIX = 'Morskie Oko, Zakopane —';
 const photos = [
-  { src: '/gallery/morskie-oko (1).jpg', alt: 'Morskie Oko Photo 1' },
-  { src: '/gallery/morskie-oko (2).jpg', alt: 'Morskie Oko Photo 2' },
-  { src: '/gallery/morskie-oko (3).jpg', alt: 'Morskie Oko Photo 3' },
-  { src: '/gallery/morskie-oko (4).jpg', alt: 'Morskie Oko Photo 4' },
-  { src: '/gallery/morskie-oko (5).jpg', alt: 'Morskie Oko Photo 5' },
-  { src: '/gallery/morskie-oko (6).jpg', alt: 'Morskie Oko Photo 6' },
-  { src: '/gallery/morskie-oko (7).jpg', alt: 'Morskie Oko Photo 7' },
-  { src: '/gallery/morskie-oko (8).jpg', alt: 'Morskie Oko Photo 8' },
-  { src: '/gallery/morskie-oko (9).jpg', alt: 'Morskie Oko Photo 9' },
-  { src: '/gallery/morskie-oko (10).jpg', alt: 'Morskie Oko Photo 10' },
-  { src: '/gallery/morskie-oko (11).jpg', alt: 'Morskie Oko Photo 11' },
-  { src: '/gallery/morskie-oko (12).jpg', alt: 'Morskie Oko Photo 12' },
-  { src: '/gallery/morskie-oko (13).jpg', alt: 'Morskie Oko Photo 13' },
-  { src: '/gallery/morskie-oko (14).jpg', alt: 'Morskie Oko Photo 14' },
-  { src: '/gallery/morskie-oko (15).jpg', alt: 'Morskie Oko Photo 15' },
-  { src: '/gallery/morskie-oko (16).jpg', alt: 'Morskie Oko Photo 16' },
-  { src: '/gallery/morskie-oko (17).jpg', alt: 'Morskie Oko Photo 17' },
-  { src: '/gallery/morskie-oko (18).jpg', alt: 'Morskie Oko Photo 18' },
+  { src: '/gallery/morskie-oko (1).jpg', alt: `${BASE_ALT_PREFIX} Hero panoramic vista of the Eye of the Sea lake at golden hour, Tatra National Park, Małopolskie Voivodeship, Poland` },
+  { src: '/gallery/morskie-oko (2).jpg', alt: `${BASE_ALT_PREFIX} Classic south-facing shore view towards Rysy peak and the Slovak border ridge` },
+  { src: '/gallery/morskie-oko (3).jpg', alt: `${BASE_ALT_PREFIX} PTTK mountain shelter and main pier on the northern shore` },
+  { src: '/gallery/morskie-oko (4).jpg', alt: `${BASE_ALT_PREFIX} Dolina Rybiego Potoku valley approach trail from Palenica Białczańska` },
+  { src: '/gallery/morskie-oko (5).jpg', alt: `${BASE_ALT_PREFIX} Włosienica checkpoint and horse-carriage terminus` },
+  { src: '/gallery/morskie-oko (6).jpg', alt: `${BASE_ALT_PREFIX} Wodogrzmoty Mickiewicza waterfall viewpoint` },
+  { src: '/gallery/morskie-oko (7).jpg', alt: `${BASE_ALT_PREFIX} Winter snowscape with frozen lake surface and snowshoe trail` },
+  { src: '/gallery/morskie-oko (8).jpg', alt: `${BASE_ALT_PREFIX} Autumn October foliage along Rybiego Potoku stream` },
+  { src: '/gallery/morskie-oko (9).jpg', alt: `${BASE_ALT_PREFIX} Summer morning mist reflection in still lake water` },
+  { src: '/gallery/morskie-oko (10).jpg', alt: `${BASE_ALT_PREFIX} Hikers on marked red trail ascending towards Czarny Staw pod Rysami` },
+  { src: '/gallery/morskie-oko (11).jpg', alt: `${BASE_ALT_PREFIX} Goral licensed horse-drawn carriage on Palenica–Włosienica access road` },
+  { src: '/gallery/morskie-oko (12).jpg', alt: `${BASE_ALT_PREFIX} Tatra chamois (Rupicapra rupicapra tatrica) near the rocky shoreline` },
+  { src: '/gallery/morskie-oko (13).jpg', alt: `${BASE_ALT_PREFIX} Evening long-exposure starscape over Morskie Oko cirque` },
+  { src: '/gallery/morskie-oko (14).jpg', alt: `${BASE_ALT_PREFIX} Spring thaw meltwater runoff at Rybiego Potoku tributary mouth` },
+  { src: '/gallery/morskie-oko (15).jpg', alt: `${BASE_ALT_PREFIX} Traditional Oscypek smoked sheep-cheese vendor at Włosienica` },
+  { src: '/gallery/morskie-oko (16).jpg', alt: `${BASE_ALT_PREFIX} Zakopane Krupówki pedestrian street panorama before the Tatra skyline` },
+  { src: '/gallery/morskie-oko (17).jpg', alt: `${BASE_ALT_PREFIX} Palenica Białczańska TPN car park and official booking entrance` },
+  { src: '/gallery/morskie-oko (18).jpg', alt: `${BASE_ALT_PREFIX} Łysa Polana border crossing and alternative trailhead view` },
 ];
 
 export default function Gallery() {

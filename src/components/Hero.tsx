@@ -11,8 +11,10 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/morskie-oko (1).jpg"
-          alt="Morskie Oko"
+          alt="Morskie Oko (Zakopane, Małopolskie Voivodeship, Poland) — Main hero panoramic view of the Eye of the Sea Tatra lake at sunrise"
           className="w-full h-full object-cover"
+          loading="eager"
+          fetchPriority="high"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>

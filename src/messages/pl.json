@@ -1,312 +1,668 @@
 {
   "meta": {
-    "title": "Morskie Oko – Zakopane, Poland",
-    "description": "Complete travel guide to Morskie Oko."
+    "title": "Morskie Oko Przewodnik 2026: Bilety, Parking, Szlak i Mapa",
+    "description": "Morskie Oko w Tatrach – aktualny przewodnik turystyczny 2026. Ceny biletów TPN, rezerwacja parkingu Palenica Białczańska, mapa szlaku, czas dojścia oraz pogoda w Tatrzańskim Parku Narodowym."
   },
   "header": {
-    "home": "Home",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "map": "Map",
-    "backToHome": "Back to Home"
+    "home": "Strona główna",
+    "knowledge": "Wiedza",
+    "history": "Historia",
+    "stories": "Legendy",
+    "amenities": "Infrastruktura",
+    "gallery": "Galeria",
+    "reviews": "Opinie",
+    "map": "Mapa",
+    "backToHome": "Powrót do strony głównej"
   },
   "hero": {
     "title": "Morskie Oko",
-    "subtitle": "The Pearl of the Tatra Mountains",
+    "subtitle": "Perła Tatr Polskich",
     "rating": "4.8",
-    "reviewCount": "6,615 reviews",
-    "type": "Tourist Attraction",
-    "openMaps": "View on Google Maps",
+    "reviewCount": "6 996 opinii",
+    "type": "Atrakcja turystyczna",
+    "openMaps": "Otwórz w Mapach Google",
     "mapsLink": "https://maps.app.goo.gl/EkjxMAqKNf9H8NCb6"
   },
   "intro": {
-    "title": "Explore Morskie Oko",
-    "description": "Morskie Oko (1395 m n.p.m.) to największe (34,54 ha) jezioro w Tatrach. Jego maksymalna głębokość wynosi 50,8 m. Jezioro zawdzięcza swoje powstanie procesom rzeźbotwórczym epoki lodowej. Woda w jeziorze charakteryzuje się dużą przezroczystością – ok. 15 m.",
+    "title": "Odkryj Morskie Oko",
+    "description": "Morskie Oko (1395 m n.p.m.) to największe (34,54 ha) i czwarte pod względem głębokości jezioro w Tatrach. Maksymalna głębokość 50,8 m. Jezioro zawdzięcza swoje powstanie procesom rzeźbotwórczym epoki lodowcowej. Woda charakteryzuje się dużą przezroczystością – ok. 15 m. Leży w całości na terenie Tatrzańskiego Parku Narodowego (TPN). Czas dojścia z Palenicy Białczańskiej: ok. 2–2,5 godz. Długość szlaku: ok. 8–9 km w jedną stronę (łącznie ok. 16–18 km w obie strony.",
     "visitGuide": {
-      "title": "Visit Tips",
+      "title": "Kluczowe wskazówki przed wyjazdem (2026)",
       "items": [
-        "Morskie Oko is the most popular destination in the Tatras. In the busiest season, several thousand people visit daily, so start your trip early.",
-        "The lake is accessible from Zakopane via a scenic hike.",
-        "Don't miss Czarny Staw pod Rysami, another beautiful lake located just up the valley.",
-        "The lodge at Morskie Oko, built in 1907–1908, is the oldest operating shelter in the Polish Tatras."
+        "Parking Palenica Białczańska działa wyłącznie na podstawie WSTĘPNEJ REZERWACJI ONLINE w systemie TPN. Wejście bez rezerwacji nie jest gwarantowane.",
+        "Wyjedź na szlak PRZED 8:00 rano, aby uniknąć tłumów – w szczycie sezonu (lipiec–sierpień szlakiem codziennie przechodzi kilka tysięcy osób.",
+        "Kup bilet wstępu do TPN przez Internet (e-bilet TPN), aby uniknąć kolejek do kas.",
+        "Pływanie, kąpiel i karmienie ryb są surowo ZABRONIONE i karane mandatami straży TPN.",
+        "Schronisko PTTK przy Morskim Oku (zbud. 1907–1908) serwuje gorące posiłki; to najstarsze nieprzerwanie działające schronisko w Tatrach Polskich.",
+        "Dla bardziej wytrwałych: dalsze wejście na Czarny Staw pod Rysami i szlak pod Rysy (najwyższy szczyt Polski)."
       ]
     },
     "alsoKnownAs": {
-      "title": "Highlights",
+      "title": "Najważniejsze dane w pigułce",
       "items": [
-        "Largest lake in the Tatra Mountains (34.5 ha)",
-        "Located at 1,395 meters above sea level, 50.8m deep",
-        "Natural habitat for brown trout",
-        "Tatrzański Park Narodowy / Polskie Parki Narodowe"
+        "Największe jezioro w Tatrach (34,54 ha / 0,345 km²)",
+        "Wysokość: 1395 m n.p.m.",
+        "Maksymalna głębokość: 50,8 m; objętość wody: ok. 9,9 mln m³",
+        "Długość szlaku w obie strony: 16–18 km; czas dojścia z Palenicy: 2–2,5 godz. w jedną stronę",
+        "Naturalne miejsce występowania pstrąga potokowego (Salmo trutta morpha fario)",
+        "Administrowane przez Tatrzański Park Narodowy (TPN)"
+      ]
+    },
+    "nearbyLandmarks": {
+      "title": "Okoliczne punkty orientacyjne i atrakcje w okolicy Morskiego Oka w Zakopanem",
+      "items": [
+        "Szczyt Rysy (2499 m n.p.m.) – najwyższy dostępny wierzchołek Polski, granica ze Słowacją, około 3 km na południe od brzegu jeziora",
+        "Czarny Staw pod Rysami – jezioro cyrkowe zaporowe morenowo na wysokości 1583 m n.p.m., położone powyżej Morskiego Oka",
+        "Ulica Krupówki – historyczny deptak Zakopanego, około 15 km na północ drogą w centrum miasta",
+        "Palenica Białczańska – oficjalny początek szlaku TPN, centrum dla odwiedzających, kasy biletowe i parking rezerwowany online",
+        "Łysa Polana – alternatywny początek szlaku po słowackiej stronie i dawny przejście graniczne TPN, 12 km drogą z Zakopanego",
+        "Włosienica – punkt kontrolny 7 km, koniec trasy dla zaprzęgów konnych, kiosk i posterunek Straży TPN na drodze Palenica–Morskie Oko",
+        "Wodogrzmoty Mickiewicza – wielokaskadowy wodospad Mickiewicza i sezonowy punkt sanitarny przy 3,2 km szlaku",
+        "Dolina Rybiego Potoku – cała Dolina Rybiego Potoku (14 000 ha) podlega ścisłej ochronie jako obszar Natura 2000 w ramach TPN",
+        "Termy Białka Tatrzańska – regionalny rodzinny kompleks basenów termalnych, 18 km drogą na zachód od Palenicy Białczańskiej",
+        "Kolej linowa na Kasprowy Wierch – tatrzańska kolejka linowa na wierzchołek 1987 m n.p.m., obsługiwana przez PKL nieprzerwanie od 1936 roku"
       ]
     }
   },
   "knowledge": {
-    "title": "About Morskie Oko",
+    "title": "Historia, legendy i kontekst kulturowy",
     "sections": [
       {
-        "id": "history",
-        "title": "History & Formation",
-        "content": "The lake was formed by the sculpting processes of the last ice age. Glaciers slowly carved the basin, which gradually filled with water. The name 'Morskie Oko' (Eye of the Sea) was invented by tourists, while locals called it 'Rybi Staw' (Fish Pond) because it's the only naturally stocked lake in the Polish Tatras."
+        "id": "geology",
+        "title": "Geneza lodowcowa – formacja plejstoceńska",
+        "content": "Morskie Oko zostało wyrzeźbione w czasie zlodowacenia wisły (ostatnia epoka lodowcowa, 115 000–11 700 lat BP) przez lodowiec dolinny, który powoli ścierał krystaliczne granity i gnejsy Tatr do postaci klasycznego cyrku lodowcowego. Po cofnięciu się lodowca skalna niecka stopniowo wypełniła się wodą roztopową i opadową. Głębokość 50,8 m odpowiada grubości ówczesnego języka lodowcowego. Geomorfolodzy klasyfikują jezioro jako cyrkowe zaporowe przez morenę, zarezerwowane od strony dolnej przez grzbiet moreny recesyjnej w pobliżu obecnego punktu kontrolnego we Włosienicy."
       },
       {
-        "id": "geography",
-        "title": "Geography & Borders",
-        "content": "Although the Tatra Mountains serve as a natural border between Poland and Slovakia, Morskie Oko belongs entirely to Poland. It is located deep within the Tatra National Park in the Lesser Poland Voivodeship, making it a purely Polish attraction."
+        "id": "naming",
+        "title": "Etymologia nazwy – dwie nazwy, jedno jezioro",
+        "content": "Przez wieki rdzenni górale Podhala nazywali jezioro 'Rybi Staw' – ponieważ jest to jedyne naturalnie samozarybiające się jezioro w Tatrach Polskich: pstrąg potokowy (Salmo trutta fario) odbywa tarło w dopływie, potoku Rybim Potoku, bez żadnej ingerencji człowieka. Romantyczna nazwa toponimiczna 'Morskie Oko' została wymyślona przez galicyjskich romantyków XIX wieku i spopularyzowana przez pierwsze tatrzańskie przewodniki z lat 70. XIX wieku. Do użytku kartograficznego weszła po 1900 roku, stopniowo wypierając góralską nazwę z urzędowych map austro-węgierskich, a później polskich."
+      },
+      {
+        "id": "legend",
+        "title": "Legenda ludowa – 'Oko Morza'",
+        "content": "Podhalańska tradycja ustna górali opowiada, że Morskie Oko połączone jest rozległą siecią podziemnych korytarzy wapiennych z Morzem Bałtyckim, oddalonym o ponad 500 kilometrów na północ. Źródło na północnym brzegu miało rzekomo pulsować rytmicznie w zgodzie z pływami Bałtyku – ludowa etymologia wyjaśniająca nazwę 'Oko Morza'. Inna góralska opowieść mówi o pasterce, która upuściła bursztynowy naszyjnik do jeziora; koraliki miały rzekomo zostać wyrzucone na brzeg trzy tygodnie później w Gdańsku. Hydrogeolodzy potwierdzili później, że żadne połączenie hydrologiczne nie istnieje, jednak legenda pozostaje podstawowym elementem tatrzańskiego folkloru ustnego."
+      },
+      {
+        "id": "goral",
+        "title": "Kultura górali podhalańskich – tożsamość regionu",
+        "content": "Dolina Rybiego Potoku leży w sercu kulturowego obszaru Górale podhalańskich – odrębnej słowiańskiej grupy etnograficznej z własnym dialektem, gospodarką pasterską, drewnianą architekturą ludową (styl zakopiański, kodyfikowany przez Stanisława Witkiewicza w latach 90. XIX wieku), wielogłosową piosenką pasterską i muzyką kapeli góralskiej ze skrzypcami i basolią. Tradycyjne licencjonowane zaprzęgi konne na odcinku Palenica – Włosienica obsługiwane są wyłącznie przez rodziny góralskie zamieszkałe w sąsiednich wsiach, na podstawie zasad koncesyjnych, których korzenie sięgają regulaminów XIX-wiecznego Towarzystwa Tatrzańskiego."
+      },
+      {
+        "id": "tourism",
+        "title": "Narodziny turystyki nowoczesnej – 1873–1908",
+        "content": "Instytucjonalna historia Morskiego Oka jako celu turystycznego rozpoczyna się w 1873 roku założeniem Galicyjskiego Towarzystwa Tatrzańskiego we Lwowie, które wytyczyło pierwszą oznakowaną asfaltową drogę dojazdową, ustawiło tablice dystansowe i opublikowało pierwszy urzędowy przewodnik. W 1898 roku hrabia Władysław Zamoyski, galicyjski ziemianin i filantrop, kontrowersyjnie przekazał całe swoje 2800-hektarowe tatrzańskie dóbr – wraz z Morskim Okiem – narodowi polskiemu za jednego symbolicznego złotego, zapewniając trwały dostęp publiczny. Ikoniczne Schronisko PTTK przy Morskim Oku zostało wzniesione w latach 1907–1908 i działa nieprzerwanie od tamtego czasu jako najstarsze, wciąż funkcjonujące schronisko górskie w Tatrach Polskich."
+      },
+      {
+        "id": "border",
+        "title": "Historia granic – od 1772 do Schengen 2007",
+        "content": "W czasie I Rozbioru Polski (1772) cała Dolina Rybiego Potoku znalazła się w granicach korony austro-węgierskiej Galicji i Lodomerii – status ten trwał do upadku monarchii Habsburgów w listopadzie 1918 roku. Po krótkim sp granicznym polsko-czechosłowackim o Tatry w latach 1918–1920, orzeczenie Ambasadorów z 1925 roku potwierdziło przynależność jeziora do Polski. Komunistyczne demarkacja granicy z Czechosłowacją w latach 1947–1958 utrwaliła obecny grzbiet graniczny pod Rysami, oddalony o około 3 kilometry na południe od brzegu jeziora. Po rozpadzie Czechosłowacji w 1993 roku grzbiet stał się granicą polsko-słowacką; od wstąpienia obu państw do Schengen 21 grudnia 2007 roku turyści mogą przekraczać ją swobodnie wzdłuż całego grzbietu Wysokich Tatr bez kontroli granicznej."
+      },
+      {
+        "id": "ecology",
+        "title": "Ekologia i bioróżnorodność alpejska",
+        "content": "Kotlina jeziora leży na styku pasa lasów i piętra alpejskiego: granica lasu w polskich Tatrach przebiega na wysokości ok. 1550 m n.p.m., więc Morskie Oko (1395 m) znajduje się w najwyższej części piętra subalpejskiego, tuż pod piętrem kosodrzewiny. Flagowe gatunki parku to kozica tatrzańska (Rupicapra rupicapra tatrica) — endemiczny podgatunek występujący wyłącznie w Tatrach — oraz świstak tatrzański (Marmota marmota latirostris), którego ostrzegawcze gwizdy odbijają się latem echem od piargów. Na najwyższych graniach żyje pardwa górska (Lagopus muta), zimą biała, obok orła przedniego (Aquila chrysaetos). Niedźwiedź brunatny (Ursus arctos), ryś (Lynx lynx) i wilk (Canis lupus) przemierzają okoliczne lasy, a wydra europejska (Lutra lutra) patroluje wypływający z jeziora Rybi Potok. W samym jeziorze żyje rodzima populacja pstrąga potokowego (Salmo trutta morpha fario) — to właśnie te „ryby\" dały dolinie jej nazwę. Flora alpejska jest równie wyjątkowa: kosodrzewina (Pinus mugo), limba (Pinus cembra), szarotka alpejska (Leontopodium alpinum) i kilka endemicznych gatunków tatrzańskich przetrwało w tym surowym mikroklimacie. Ponieważ cała zlewnia jest ściśle chronionym siedliskiem Natura 2000 w parku narodowym kategorii II IUCN, dzika przyroda podlega pełnej ochronie: nie dokarmiaj, nie płosz i nie niepokój zwierząt, prowadź psy na smyczy (są one dozwolone tylko na asfaltowej drodze wozowej, nie na szlakach górskich) i pozostań na oznakowanych szlakach, by oszczędzać kruche górskie łąki."
       }
     ]
   },
+  "amenities": {
+    "title": "Infrastruktura turystyczna i udogodnienia – przegląd typów obiektów",
+    "intro": "Niniejszy niezależny przewodnik opisuje wyłącznie kategorie obiektów i ich rozmieszczenie geograficzne w ściśle neutralnym ujęciu. Żaden pojedynczy operator handlowy, marka hotelarska, konkretny pensjonat, sieć restauracyjna, sklep detaliczny ani sieć stacji paliw nie jest nazwany, popierany ani rekomendowany. Aktualne godziny otwarcia i ceny należy zawsze weryfikować u odpowiednich dostawców lub na oficjalnych portalach TPN i Urzędu Miasta Zakopane, podanych w stopce strony.",
+    "toilets": {
+      "title": "Publiczne toalety i ubikacje",
+      "desc": "Udogodnienia sanitarne rozmieszczone są wzdłuż trasy turystycznej w następujący sposób. (1) Parking Palenica Białczańska i terminus busów: płatne toalety spłukiwane z wejściem, z kabinami dla niepełnosprawnych i stolikami do przewijania niemowląt. (2) Punkt widokowy Wodogrzmoty Mickiewicza (3,2 km szlaku): sezonowe pisuary na wolnym powietrzu o ograniczonej funkcjonalności. (3) Punkt kontrolny Włosienica (7,0 km szlaku): płatny blok toaletowy obok kiosku i terminusu zaprzęgów konnych. (4) Brzeg jeziora Morskie Oko: płatny blok toaletowy zintegrowany z budynkiem schroniska PTTK, otwarty w godzinach pracy schroniska.",
+      "tip": "Toalety w schronisku i kioskach są dostępne dla klientów lub wymagają niewielkiej opłaty; należy mieć przy sobie monety w złotówkach PLN. Bieżąca woda dostępna jest wyłącznie na Palenicy i we Włosienicy; zabierz co najmniej 2 litry wody pitnej na osobę na szlak."
+    },
+    "food": {
+      "title": "Gastronomia i obiekty żywieniowe",
+      "desc": "Wzdłuż trasy turystycznej występuje pięć odrębnych kategorii gastronomicznych, wymienionych wyłącznie według typu. (1) Tradycyjna restauracja schroniskowa (schronisko górskie) nad brzegiem Morskiego Oka: serwuje gorące dania domowe, jak pierogi, bigos, żurek i gorące napoje; pełna obsługa posiłków, miejsca siedzące w pomieszczeniu i odkryty zadaszony taras. (2) Sezonowe bufety-kioski na Palenicy Białczańskiej i we Włosienicy: kanapki na szybko, gorąca zupa w kubeczkach jednorazowych, wyroby cukiernicze, woda butelkowana i napoje bezalkoholowe. (3) Stragany z przekąskami w okolicy terminusu busów pod Palenicą: mobilne i kioskowe punkty z gorącymi napojami i wyrobami cukierniczymi. (4) Punkty gastronomiczne na przystankach busów koło dworca kolejowego w Zakopanem i przy ulicy Krupówki. (5) Szeroka oferta licencjonowanych restauracji w stylu góralskim, regionalnych karczm góralskich, cukierni i kawiarni na terenie miasta Zakopanego i sąsiednich wsi.",
+      "tip": "Schroniska akceptują płatność gotówką w PLN i kartą zbliżeniową. Zabierz co najmniej jedną baton energetyczny lub własny posiłek na szlak; ceny na trasie są naturalnie wyższe niż w centrum Zakopanego."
+    },
+    "accommodation": {
+      "title": "Noclegi i zakwaterowanie – typy obiektów",
+      "desc": "Odwiedzający mogą wybierać spośród następujących ustandaryzowanych kategorii zakwaterowania (wyłącznie typ, bez nazw konkretnych obiektów). (1) Noclegi w wieloosobowych pokojach schroniska PTTK nad brzegiem Morskiego Oka: pokoje z łóżkami piętrowymi rozdzielone według płci, wspólne łazienki, wieczorna kolacja i śniadanie wliczone w cenę po wcześniejszej rezerwacji; pojemność ograniczona. (2) Prywatne pensjonaty rodzinne, małe butikowe pensjonaty i noclegi w mieszkaniach na terenie gminy Zakopane; większość oferuje prywatne pokoje z łazienką i własnym parkingiem. (3) Samodzielne mieszkania wakacyjne, chaty i domki letniskowe w wsiach satelickich Bukowina Tatrzańska, Jurgów, Białka Tatrzańska i Kościelisko, zazwyczaj w odległości 8–18 kilometrów samochodem od Palenicy Białczańskiej. (4) Licencjonowane pola kempingowe i campingi, przeważnie w rejonie Zakopanego i Białki Tatrzańskiej, z infrastrukturą dla namiotów, kamperów i przyczep kempingowych. (5) Ekonomiczne hostele uliczne i noclegi w wieloosobowych pokojach backpackerskich, skoncentrowane koło dworca kolejowego w Zakopanem i przy ulicy Krupówki.",
+      "tip": "Schronisko PTTK przy Morskim Oku działa wyłącznie na podstawie rezerwacji i regularnie wyprzedaje się 2–4 tygodnie wcześniej w sezonie letnim. W przypadku noclegów zimowych należy przed rezerwacją zweryfikować pełne odśnieżenie dojazdu u administracji schroniska."
+    },
+    "shopping": {
+      "title": "Handel detaliczny, artykuły spożywcze i sprzęt turystyczny",
+      "desc": "Sieć handlowa podzielona jest na cztery neutralne kategorie. (1) Kioski-minimarket na parkingu Palenica Białczańska: woda butelkowana, podstawowe artykuły spożywcze, krem przeciwsłoneczny, plastry, jednorazowe płaszcze przeciwdeszczowe, czekolada i batony. (2) Pełnowartościowe samoobsługowe supermarkety i dyskontowe sklepy spożywcze w aglomeracji miejskiej Zakopanego, przydatne do zapasów przed wyjazdem na szlak. (3) Sklepy ze sprzętem turystycznym, sprzedawcy sportowi i sklepy z pamiątkami wzdłuż ulicy Krupówki i koło dworca kolejowego w Zakopanem: raki, czekany, stuptuty, rękodzieło ludowe górali, wyroby wełniane i drukowane przewodniki tatrzańskie. (4) Stałe targowe stragany z serem regionalnym i nabiałem, oferujące chronione oznaczenie pochodzenia produktów jak Oscypek – wędzony ser owczy i inne podhalańskie wyroby rzemieślnicze.",
+      "tip": "Kup całe jedzenie piknikowe, wodę pitną, przekąski, krem przeciwsłoneczny i opatrunki na pęcherze przed dotarciem na Palenicę Białczańską; wybór w kioskach na parkingu jest ograniczony i sprzedawany po podwyższonych cenach."
+    },
+    "fuelCharging": {
+      "title": "Stacje paliw i ładowanie pojazdów elektrycznych",
+      "desc": "Infrastruktura tankowania i ładowania baterii jest zorganizowana w następujący sposób (według kategorii, bez nazw marek). (1) Stacje paliw z olejem napędowym, benzyną bezołowiową 95 i 98, LPG/Autogas oraz sklepami podróżnymi wzdłuż drogi wojewódzkiej DK 958 (Zakopane → Białka Tatrzańska) i głównych tras dojazdowych z Nowego Targu, w przybliżeniu 5–12 kilometrów na północ od Palenicy Białczańskiej. (2) Wydzielone stacje szybkiego ładowania pojazdów elektrycznych prądem stałym DC w wybranych lokalizacjach handlowych i supermarkecie w obrębie aglomeracji zakopiańskiej. (3) Ograniczone punkty ładowania wolnoobrotowego prądem przemiennym AC na parkingu Tatrzańskiego Parku Narodowego Palenica Białczańska; są one zintegrowane z systemem rezerwacji TPN i powinny być rezerwowane jednocześnie z placem parkingowym, ponieważ dostępność jest ograniczona. (4) Standardowe gniazdka 230 V w większości dużych hoteli, pensjonatów i na campingach, zazwyczaj dostępne na życzenie dla noclegów gości z przenośnymi ładowarkami EV lub do ładowania telefonów i czołówek.",
+      "tip": "Ruszaj na szlak z pełnym bakiem paliwa lub naładowaną baterią w 100 %; w razie potrzeby zaznacz wcześniej dodatkową opcję ładowania EV w formularzu rezerwacji parkingu TPN. Zasięg sieci telefonii komórkowej wzdłuż szlaku jest przerywany i niewystarczający do rezerwacji ładowarki z poziomu doliny."
+    },
+    "parking": {
+      "title": "Parking i strefy podwożenia",
+      "desc": "Droga dojazdowa za początkiem szlaku jest zamknięta dla ruchu prywatnego, dlatego parkingi są skoncentrowane w dwóch oficjalnych strefach (tylko typy, bez nazw operatorów). (1) Palenica Białczańska: główny parking przy starcie szlaku, ok. 900 miejsc, wyłącznie z rezerwacją online w systemie TPN, z pętlą podwożenia/podjazdu dla taksówek i busów. (2) Łysa Polana (k. Jurgowa): parking zapasowy w strefie przygranicznej, ok. 10 km od Palenicy, w tym samym systemie rezerwacji. Wzdłuż drogi dojazdowej nie ma żadnych parkingów przydrożnych.",
+      "tip": "Rezerwuj miejsce online przed wyjazdem — w letnie weekendy miejsca znikają z tygodniowym wyprzedzeniem. Gdy brak wolnych miejsc, najlepszą alternatywą jest minibus z Zakopanego."
+    },
+    "atm": {
+      "title": "Bankomaty i punkty gotówkowe",
+      "desc": "Usługi gotówkowe są rozmieszczone w następujący sposób (tylko typy). (1) Bankomaty bankowe i wolnostojące wydające PLN znajdują się w centrum Zakopanego — na Krupówkach, w okolicach dworca kolejowego i na głównych ulicach handlowych. (2) Część stacji paliw na drogach dojazdowych ma bankomaty w sklepie. (3) Na terenie parku — w Palenicy, Włosienicy i w schronisku nad Morskim Okiem — NIE MA bankomatów; forma płatności zależy od dostawcy: gotówka lub karta.",
+      "tip": "Wypłać odpowiednią ilość gotówki w Zakopanem: przejazdy konne, część kiosków i dopłaty w biletomatach najłatwiej opłacić gotówką. Schronisko przyjmuje karty, ale usługi na trasie mogą być wyłącznie gotówkowe."
+    },
+    "medical": {
+      "title": "Pierwsza pomoc i służby ratunkowe",
+      "desc": "Infrastruktura medyczna jest zorganizowana w następujący sposób (tylko typy). (1) Na szlaku i nad jeziorem nie ma stałego punktu medycznego; najbliższe pełne zaplecze to szpital powiatowy w Zakopanem (ok. 20–25 minut jazdy od Palenicy). (2) Strażnicy TPN i przewodnicy górscy na Włosienicy mają apteczki i są przeszkoleni w podstawowym ratownictwie. (3) Tatrzańskie Ochotnicze Pogotowie Ratunkowe (TOPR) prowadzi ratownictwo śmigłowcowe i naziemne na terenie całego parku — w razie wypadku dzwoń 112 lub 601 100 300. (4) Apteki znajdują się wyłącznie w Zakopanem i okolicznych wsiach.",
+      "tip": "Zabierz własną apteczkę, sprawdź, czy ubezpieczenie turystyczne obejmuje ratownictwo górskie, i zapisz numer TOPR (112) przed startem. Zasięg telefonii na szlaku jest niestabilny."
+    }
+  },
   "faq": {
-    "title": "Frequently Asked Questions",
+    "title": "Najczęściej zadawane pytania (FAQ)",
     "items": [
       {
-        "question": "Is Morskie Oko in Poland or Slovakia?",
-        "answer": "Morskie Oko is located entirely within Poland, in the Tatra National Park, though it is close to the Slovak border."
+        "question": "Czy Morskie Oko leży w Polsce czy na Słowacji?",
+        "answer": "Morskie Oko leży w całości w Polsce, na terenie Tatrzańskiego Parku Narodowego (TPN), w województwie małopolskim. Jest blisko granicy słowackiej (ok. 3 km od przełęczy pod Rysami), ale samo jezioro i cała Dolina Rybiego Potoku stanowią terytorium Polski."
       },
       {
-        "question": "How deep is the lake?",
-        "answer": "The maximum depth of Morskie Oko is 50.8 meters, containing about 9.9 million cubic meters of water."
+        "question": "Ile metrów n.p.m. ma Morskie Oko? Jaka jest wysokość?",
+        "answer": "Morskie Oko leży na wysokości dokładnie 1395 metrów n.p.m. Dla porównania: parking Palenica Białczańska (początek szlaku) znajduje się na 931 m n.p.m., więc suma podejść w jedną stronę wynosi około 464 m pionowych, rozłożonych na 8–9 km asfaltowej drogi."
       },
       {
-        "question": "Can you swim in Morskie Oko?",
-        "answer": "No, swimming, bathing, and feeding the fish are strictly prohibited to protect the delicate ecosystem."
+        "question": "Jakie jest maksymalne zagłębienie jeziora?",
+        "answer": "Maksymalna głębokość Morskiego Oka wynosi 50,8 m. Jest to czwarte najgłębsze jezioro w Tatrach, po Wielkim Stawie Polskim, Czarnym Stawie pod Rysami i Czarnym Stawie Gąsienicowym. Całkowita objętość wody to około 9,9 milionów metrów sześciennych."
       },
       {
-        "question": "How long is the hike?",
-        "answer": "The walk from the Palenica Białczańska parking lot takes about 2 to 2.5 hours one way along an asphalt road."
+        "question": "Czy można pływać w Morskim Oku? Czy kąpiel jest dozwolona?",
+        "answer": "NIE – pływanie, kąpiel, brodzenie i karmienie ryb są surowo i jednoznacznie ZABRONIONE przepisami Tatrzańskiego Parku Narodowego. Morskie Oko jest chronionym pomnikiem przyrody w parku narodowym kategorii IUCN II; sprawcy podlegają mandatom wystawianym na miejscu przez Straż TPN. Zakaz obowiązuje przez cały rok w celu ochrony zimnolubnego ekosystemu jeziora i populacji pstrąga potokowego."
       },
       {
-        "question": "Are there places to eat?",
-        "answer": "Yes, there is a historic PTTK mountain shelter by the lake that serves hot meals and drinks."
+        "question": "Ile trwa dojście do Morskiego Oka? Jaka jest długość szlaku?",
+        "answer": "Szlak z parkingu Palenica Białczańska do Morskiego Oka ma około 8–9 km w jedną stronę. Przeciętny turysta pokonuje go w 2–2,5 godziny przy spokojnym tempie. Całość w obie strony to 16–18 km z przewyższeniem 464 m. Trasa prowadzi szeroką, asfaltową drogą leśną (zamkniętą dla samochodów osobowych), nadającą się dla rodzin z wózkami dziecięcymi."
+      },
+      {
+        "question": "Czy na Palenicy Białczańskiej można wjechać bez wcześniejszej rezerwacji parkingu?",
+        "answer": "NIE. Od 2022 roku parking Palenica Białczańska (główny węzeł startowy do Morskiego Oka) działa wyłącznie w systemie REZERWACJI ONLINE na oficjalnym portalu Tatrzańskiego Parku Narodowego. Taki sam system obowiązuje na parkingu Łysa Polana (Jurgów) przy granicy ze Słowacją. Bez opłaconej wcześniej rezerwacji istnieje ryzyko odmowy wjazdu na szlabanie TPN – szczególnie w weekendy i w sezonie lipiec–sierpień. Ceny: ok. 45–55 zł za dobę (24h)."
+      },
+      {
+        "question": "Jak dojechać z Zakopanego do Morskiego Oka busem / komunikacją publiczną?",
+        "answer": "Częste busy (znakowane 'Morskie Oko' lub 'Palenica Białczańska') odjeżdżają z Dworca PKS Zakopane oraz z przystanku blisko Dworca Kolejowego (ul. Długa / okolica ul. Krupówek). Czas przejazdu: 30–40 minut. Bilet w jedną stronę: ok. 10–15 zł. Busy odjeżdżają po zapełnieniu, zazwyczaj co 15–30 minut w sezonie. Komunikacja publiczna jest polecana, gdy rezerwacje parkingu są już wyprzedane."
+      },
+      {
+        "question": "Ile kosztuje bilet wstępu do TPN / zwiedzanie Morskiego Oka w 2026?",
+        "answer": "Według cen na rok 2026 standardowy jednodniowy bilet wstępu do Tatrzańskiego Parku Narodowego kosztuje ok. 9 zł dla dorosłych. Bilet ulgowy (uczniowie, studenci, seniorzy 65+, niepełnosprawni) ok. 4,50 zł. Dzieci do lat 7 wstęp bezpłatny. Bilety dostępne online przez e-bilet TPN, w kasie na Palenicy Białczańskiej lub w punkcie kontrolnym we Włosienicy."
+      },
+      {
+        "question": "Czy po szlaku do Morskiego Oka kursują zaprzęgi konne?",
+        "answer": "Tak, tradycyjne góralskie zaprzęgi konne (z licencją TPN) kursują między Palenicą Białczańską a Włosienicą – dystans ok. 7 km. We Włosienicy pasażerowie wysiadają i ostatnie 1,5 km (ok. 30 min) do Morskiego Oka trzeba przejść pieszo. Cena w jedną stronę dla dorosłego ok. 25–40 zł w zależności od sezonu; dostępne są bilety powrotne. Przepisy o dobrostanie zwierząt ograniczają liczbę kursów i wymagają przerw na odpoczynek koni."
+      },
+      {
+        "question": "Kiedy najlepiej przyjechać i o której godzinie ruszać na szlak?",
+        "answer": "Najpopularniejsze miesiące: czerwiec – wrzesień, gdy asfaltowy szlak jest wolny od śniegu. Koniec maja i początek października to mniej tłumów i spektakularne barwy jesieni. Na każdą pogodę ruszaj z parkingu Palenica Białczańska PRZED 8:00 rano – to najskuteczniejsza strategia na uniknięcie tłumów i cienia przy jeziora. W zimie (grudzień – marzec) szlak wymaga raków, czekanów, kijków trekkingowych i pełnego zimowego wyposażenia; koniecznie sprawdź prognozę lawinową TOPR."
+      },
+      {
+        "question": "Czy przy Morskim Oku są miejsca do jedzenia lub schronienia?",
+        "answer": "Tak. Historyczne Schronisko PTTK przy Morskim Oku (zbud. 1907–1908) stoi bezpośrednio przy brzegu i serwuje gorące dania (pierogi, bigos, zupy), napoje, przekąski oraz dysponuje płatnymi toaletami. Jest to najstarsze nieprzerwanie działające schronisko górskie w Tatrach Polskich. Możliwe są też noclegi po wcześniejszej rezerwacji. Sezonowo działają również kramy oraz mała gastronomia we Włosienicy i na parkingu Palenica Białczańska."
+      },
+      {
+        "question": "Czy nad Morskim Okiem można biwakować lub rozpalać ognisko?",
+        "answer": "Nie. Regulamin Tatrzańskiego Parku Narodowego zabrania biwakowania, nocowania pod gołym niebem i rozpalania ognia poza wyznaczonymi miejscami. Nocleg jest możliwy wyłącznie w dormitorium schroniska PTTK (po rezerwacji) lub w obiektach poniżej granicy parku — w Zakopanem i okolicznych wsiach. Nielegalny biwak nad jeziorem jest traktowany jako poważne wykroczenie i karany mandatem."
+      },
+      {
+        "question": "Czy trasa nadaje się dla wózków inwalidzkich i dziecięcych?",
+        "answer": "Pierwsze 7 km z Palenicy Białczańskiej do Włosienicy prowadzą szeroką, gładką asfaltową drogą o łagodnym nachyleniu — ten odcinek można pokonać wózkiem inwalidzkim z pomocą oraz solidnym wózkiem dziecięcym, choć trasa wznosi się o ok. 360 m. Ostatnie 1,5 km do jeziora to szutrowo-gruntowa ścieżka z większymi kamieniami i kilkoma schodkami, utrudniająca przejazd większości wózków. Na trasie nie ma przystosowanych toalet; na starcie i w schronisku dostępne są kabiny przystosowane."
       }
     ]
   },
   "basicInfo": {
-    "title": "Basic Information",
-    "officialName": "Official Name",
+    "title": "Dane podstawowe i informacje urzędowe",
+    "officialName": "Nazwa urzędowa",
     "officialNameValue": "Morskie Oko",
-    "type": "Attraction Type",
-    "typeValue": "Tourist Attraction",
-    "country": "Country",
-    "countryValue": "Poland",
-    "city": "City",
-    "cityValue": "Zakopane",
-    "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (6,615)",
-    "address": "Address",
-    "addressValue": "Dolina Rybiego Potoku, 34-500 Zakopane, Poland",
-    "accessibility": "Accessibility",
-    "accessibilityValue": "Partial",
-    "plusCode": "Plus Code",
-    "plusCodeValue": "53WC+V2 Zakopane, Poland"
+    "type": "Typ atrakcji",
+    "typeValue": "Jezioro polodowcowe · atrakcja turystyczna (Park Narodowy IUCN II)",
+    "country": "Kraj",
+    "countryValue": "Rzeczpospolita Polska",
+    "region": "Województwo",
+    "regionValue": "Województwo małopolskie",
+    "city": "Najbliższe miasto",
+    "cityValue": "Zakopane (ok. 15 km na płn.)",
+    "elevation": "Wysokość (m n.p.m.)",
+    "elevationValue": "1395 m n.p.m.",
+    "area": "Powierzchnia",
+    "areaValue": "34,54 ha (0,345 km²)",
+    "maxDepth": "Maksymalna głębokość",
+    "maxDepthValue": "50,8 m",
+    "hikeDistance": "Szlak w jedną stronę (Palenica → Jezioro)",
+    "hikeDistanceValue": "8–9 km · 2–2,5 godz.",
+    "roundTrip": "Szlak w obie strony",
+    "roundTripValue": "16–18 km · 4,5–5,5 godz. z przerwami",
+    "ascent": "Całkowite przewyższenie",
+    "ascentValue": "≈ 464 m (Palenica 931 m → Jezioro 1395 m)",
+    "managingBody": "Organ zarządzający",
+    "managingBodyValue": "Tatrzański Park Narodowy (TPN)",
+    "googleRating": "Ocena w Mapach Google",
+    "googleRatingValue": "4,8 / 5,0 (6 996 opinii)",
+    "address": "Adres parkingu (początek szlaku)",
+    "addressValue": "Palenica Białczańska, Dolina Rybiego Potoku, 34-500 Zakopane",
+    "lakeAddress": "Lokalizacja jeziora",
+    "lakeAddressValue": "Dolina Rybiego Potoku, 34-500 Zakopane",
+    "accessibility": "Dostępność szlaku",
+    "accessibilityValue": "Asfalt do Włosienicy (7 km); ostatnie 1,5 km nawierzchnia żwirowa. Wózek dziecięcy dojeżdża tylko do Włosienicy.",
+    "plusCode": "Kod Plus Google (jezioro)",
+    "plusCodeValue": "53WC+V2 Zakopane",
+    "coordinates": "Współrzędne geograficzne (WGS 84)",
+    "coordinatesValue": "49,1971° N, 20,0713° E"
   },
   "hours": {
-    "title": "Visiting Hours",
-    "park": "Tatra National Park",
-    "parkTime": "Open daily from dawn to dusk",
-    "bestTime": "Best Time to Visit",
-    "bestTimeSpring": "Spring: Melting snows create beautiful waterfalls, but trails may be slippery",
-    "bestTimeSummer": "Summer: Perfect for hiking, but very crowded. Start early in the morning",
-    "bestTimeAutumn": "Autumn: Stunning autumn colors and generally stable weather",
-    "bestTimeWinter": "Winter: Beautiful snowy landscapes, requires proper winter gear",
-    "tip": "Always check the weather forecast and TOPR avalanche warnings before your hike."
+    "title": "Godziny otwarcia, sezony i najlepszy czas",
+    "park": "Tatrzański Park Narodowy (TPN)",
+    "parkTime": "Dostępny 365 dni w roku, od świtu do zmierzchu. Wszystkie oznaczone szlaki otwarte; schodzenie ze szlaków zabronione i karane mandatami.",
+    "bestTime": "Najlepszy czas wizyty w zależności od pory roku",
+    "bestTimeSpring": "Późna wiosna (maj – początek czerwca): wodospady najpełniejsze od topniejącego śniegu; modrzewie i buki intensywnie zielone. Powyżej Włosienicy mogą występować jeszcze płaty starego śniegu.",
+    "bestTimeSummer": "Lato (lipiec – sierpień): najcieplejsza pogoda, stuprocentowo czarny szlak asfaltowy. Ekstremalne tłumy – ruszaj na Palenicy przed 8:00 rano lub wybierz dzień powszedni.",
+    "bestTimeAutumn": "Jesień (połowa września do połowy października): modrzewie złociste, buki miedziane. Mniej turystów, stabilna pogoda wyżowa. Prawdopodobnie najefektowniejsza wizualnie pora roku.",
+    "bestTimeWinter": "Zima (połowa grudnia – marzec): zaśnieżony krajobraz, równoległy szlak narciarski biegowy. Wymaga raków / mikrokolców, kijków trekkingowych, wielowarstwowego stroju. Prognoza lawinowa TOPR jest lekturą obowiązkową.",
+    "dailyBest": "Najlepsza pora dnia",
+    "dailyBestDesc": "Ruszaj na szlak z Palenicy Białczańskiej PRZED 8:00 rano. Gwarancje: (1) zacienione, chłodne podejście w lecie, (2) jezioro w bezwietrznym lustrze do fotografii przed wschodnim wiatrem po godz. 10, (3) pierwszeństwo przy stolikach na tarasie schroniska, (4) mniej zatłoczony zejście, gdy późniejsi turyści dopiero wchodzą.",
+    "tip": "Przed każdą wycieczką sprawdź trzy źródła urzędowe: (1) TPN.pl – stan szlaków i dostępność biletów, (2) TOPR.pl – prognoza lawinowa i komunikat pogodowy Tatrzańskiego Ochotniczego Pogotowia Ratunkowego, (3) IMGW.pl – górska prognoza pogody Instytutu Meteorologii i Gospodarki Wodnej."
   },
   "tickets": {
-    "title": "Admission & Parking",
-    "park": "National Park Entrance",
-    "parkPrice": "A ticket to the Tatra National Park is required (approx. 9 PLN)",
-    "parking": "Palenica Białczańska Parking",
-    "parkingPrice": "Must be booked online in advance (approx. 45-55 PLN per day)",
-    "guided": "Horse-drawn Carriages",
-    "guidedPrice": "Available from the parking lot to Włosienica (approx. 1.5 km from the lake)"
+    "title": "Bilety, rezerwacje parkingu i opłaty (2026)",
+    "park": "Tatrzański Park Narodowy – jednodniowy bilet wstępu",
+    "parkPrice": "Dorośli ≈ 9 zł · Ulgi (studenci, seniorzy 65+, niepełnosprawni) ≈ 4,50 zł · Dzieci do lat 7: BEZPŁATNIE. Kupuj przez portal e-bilet TPN, aby ominąć kolejki do kas.",
+    "parkBuyLink": "Oficjalny sklep TPN – e-bilet",
+    "parkingInfo": {
+      "title": "Parking Palenica Białczańska i Łysa Polana – WYMAGANA REZERWACJA ONLINE",
+      "palenicaTitle": "Palenica Białczańska – główny początek szlaku",
+      "palenicaFees": "≈ 45–55 zł / 24h (dzień powszedni), nieco więcej weekendy i szczyt lipiec–sierpień. Wybrane stanowiska z ładowarkami EV.",
+      "palenicaCapacity": "Urzędowa pojemność: ok. 900 pojazdów. Regularnie wyprzedany w weekendy letnie.",
+      "lysaPolanaTitle": "Łysa Polana (Jurgów) – alternatywny parking graniczny",
+      "lysaPolanaFees": "≈ 40–50 zł / 24h. Ok. 10 km samochodem od Palenicy; wymagany przejazd busem lub taxi.",
+      "howToBookTitle": "Rezerwacja parkingu krok po kroku",
+      "howToBookSteps": [
+        "Wejdź na oficjalny portal rezerwacyjny Tatrzańskiego Parku Narodowego (system rezerwacyjny TPN).",
+        "Wybierz parking: „Palenica Białczańska (zalecane) lub „Łysa Polana”.",
+        "Wskaż dokładną datę i godzinę przyjazdu (poranne terminy wyprzedają się najszybciej).",
+        "Wpisz numer rejestracyjny pojazdu i dane kontaktowe kierowcy.",
+        "Zapłać online kartą płatniczą lub przelewem Przelewy24.",
+        "Zapisz potwierdzenie PDF lub okazuj kod QR na telefonie na szlabanie wjazdowym. Brak rezerwacji = brak wjazdu."
+      ],
+      "noReservationTip": "Jeśli parking jest już wyprzedany w Twoim terminie, dojedź busem z Zakopanego (znakowanym „Morskie Oko”) lub zamów taxi – strefa wysiadania / pod Palenicy Białczańskiej jest dostępna dla taxi nawet w pełni zarezerwowanych dni."
+    },
+    "guided": "Góralskie zaprzęgi konne",
+    "guidedPrice": "Palenica Białczańska → Włosienica (ok. 7 km z 9 km szlaku). W jedną stronę: ≈ 25–40 zł / dorosły w zależności od sezonu. Dostępne bilety w obie strony. Ostatnie 1,5 km od Włosienicy do Morskiego Oka trzeba przejść pieszo (≈ 30 min). Kursują wyłącznie licencjonowani górale w reżimie dobrostanu zwierząt TPN."
   },
   "transport": {
-    "title": "How to Get Here",
-    "fromCenter": "From Zakopane Center",
-    "fromCenterDesc": "Take a frequent minibus from Zakopane bus station or near the train station heading to Morskie Oko (Palenica Białczańska parking lot). The ride takes about 30-40 minutes. Minibuses depart frequently when full.",
-    "fromStation": "By Car",
-    "fromStationDesc": "Drive to the Palenica Białczańska parking lot. You must book your parking spot online in advance through the Tatra National Park (TPN) website. Without a reservation, you may be turned away.",
-    "fromAirport": "From the Airport",
-    "fromAirportDesc": "The nearest international airports are Kraków John Paul II (KRK) and Poprad-Tatry (TAT) in Slovakia. From Kraków airport, you can take a bus or train to Zakopane, then transfer to a minibus to the trail head.",
-    "publicTransport": "Public Transport",
-    "publicTransportDesc": "Minibuses (usually marked 'Morskie Oko') are the most convenient and economical way to reach the trail head from Zakopane, especially highly recommended during the busy season when the parking lot fills up quickly.",
-    "walking": "The Hike",
-    "walkingDesc": "From the Palenica Białczańska parking lot, it's a 9km hike (about 2 to 2.5 hours one way) on an asphalt road to reach the lake. The trail is easy, gradual, and suitable for all fitness levels, including families with strollers.",
-    "driving": "Horse-drawn Carriages",
-    "drivingDesc": "If you prefer not to walk the entire way, traditional horse-drawn carriages operated by local highlanders can take you from the parking lot to Włosienica. From there, you still need to walk the last 1.5 km (about 30 minutes) to the lake."
+    "title": "Jak dojechać do Morskiego Oka: parking, bus, samochód, pociąg i samolot",
+    "fromCenter": "Bus z centrum Zakopanego do Morskiego Oka",
+    "fromCenterDesc": "Wejdź do busa znakowanego „Morskie Oko” lub „Palenica Białczańska” z (a) Dworca PKS Zakopane (ul. Chałubińskiego 2) lub (b) przystanku przy Dworcu Kolejowym / ul. Długa w okolicy Krupówek. Czas przejazdu: 30–40 min. Bilet w jedną stronę dla dorosłego: ok. 10–15 zł. Odjazdy: co 15–30 min po zapełnieniu, codziennie 6:00 – 18:00 w lecie. Jest to najbardziej wiarygodna opcja, gdy rezerwacje parkingu są niedostępne.",
+    "fromStation": "Samochodem prywatnym – Palenica Białczańska",
+    "fromStationDesc": "Z Zakopanego ul. Kościuszką na południe, następnie ul. Drogą do Białki (droga 958) w stronę Palenicy Białczańskiej. Droga w całości asfaltowa; ostatnie 3 km przez otulinę TPN. WAŻNE: opłacona wcześniej REZERWACJA PARKINGU w systemie TPN jest OBOWIĄZKOWA od 2022 r. Niezarezerwowane pojazdy są zawracane na szlabanie TPN. Czas jazdy z centrum Zakopanego: 20–25 minut bez korków.",
+    "fromAirport": "Z lotnisk – Kraków KRK i Poprad-Tatry TAT",
+    "fromAirportDesc": "Międzynarodowy port lotniczy Kraków-Balice im. Jana Pawła II (KRK): ok. 110 km / 1 h 45 min samochodem autostradą A4 → DK7 → Zakopane. Bezpośrednie autobusy PKS / Polskibus z lotniska KRK do Zakopanego kursują kilka razy dziennie (≈ 2 h); przesiadka w Zakopanem na bus do Morskiego Oka. Lotnisko Poprad-Tatry (TAT) Słowacja: ok. 55 km / 1 h samochodem przez Poprad → Starą Ľubovňa → Jurgów → granica Łysa Polana. Przydatne dla odwiedzających łączących Słowację z Polską.",
+    "publicTransport": "Podsumowanie komunikacji publicznej (polecane w sezonie szczytowym)",
+    "publicTransportDesc": "Urzędowy łańcuch komunikacyjny: Pociąg lub dalekobieżny autobus → Zakopane → bus „Morskie Oko” → Palenica Białczańska (początek szlaku) → pieszo 8–9 km → jezioro. Całkowity czas podróży komunikacją publiczną z centrum Krakowa do brzegu Morskiego Oka: około 3,5–4,5 godziny w zależności od przesiadek. Bilety na busy zazwyczaj płatne gotówką (zł) u kierowcy; niektórzy akceptują płatności zbliżeniowe.",
+    "walking": "Pieszo – Palenica Białczańska → Jezioro Morskie Oko",
+    "walkingDesc": "Z parkingu Palenica Białczańska (931 m n.p.m.) do jeziora (1395 m n.p.m.): 8–9 km w jedną stronę, przewyższenie 464 m, średni czas marszu 2–2,5 godziny w spokojnym tempie. Pierwsze 7 km do punktu kontrolnego Włosienica to szeroka, gładka asfaltówka wspólna z (tylko licencjonowanymi) zaprzęgami konnymi i służbowymi pojazdami TPN. Ostatnie 1,5 km od Włosienicy do jeziora to utwardzona żwirowo-makadamowa ścieżka. Wózek dziecięcy dojeżdża do Włosienicy; dalej pojedyncze schodki i większe kamyki. Powrót tą samą trasą.",
+    "driving": "Opcja zaprzęgiem konnym (wysiadka we Włosienicy)",
+    "drivingDesc": "Tradycyjne góralskie zaprzęgi konne, licencjonowane i regulowane przez TPN, dowożą turystów z parkingu Palenica Białczańska do punktu kontrolnego Włosienica – pokonując około pierwszych 7 km szlaku w 35–45 minut. Dalej 1,5 km (≈ 30 min) idzie się pieszo do Morskiego Oka. Ceny: ok. 25–40 zł za dorosłego w jedną stronę; w sezonie szczytowym nieco wyższe. Przepisy o dobrostanie zwierząt nakazują przerwy na odpoczynek, limity ładowności i górne limity kursów dla każdego zespołu konnego.",
+    "trainInfo": "Pociągiem do Zakopanego",
+    "trainInfoDesc": "PKP Intercity i Polregio uruchamiają częste połączenia kolejowe z Krakowa Głównego do Zakopanego (≈ 2 godz. 15 min). Z Warszawy: bezpośrednie pociągi Intercity do Zakopanego jadą około 4,5–5,5 godz. Dworzec kolejowy Zakopane jest 10-minut spacerem od głównych punktów odjazdu busów do Morskiego Oka."
   },
   "route": {
-    "title": "Recommended Route",
-    "overview": "A Classic Tatra Mountain Hike",
+    "title": "Zalecana trasa piesza",
+    "overview": "Klasyczne przejście Palenica → Morskie Oko → (opcjonalnie) Czarny Staw → powrót",
     "steps": [
-      "Start at Palenica Białczańska parking lot",
-      "Hike the scenic asphalt road through the forest",
-      "Pass the Wodogrzmoty Mickiewicza waterfalls",
-      "Arrive at Morskie Oko and enjoy the view",
-      "Optional: Continue the hike up to Czarny Staw pod Rysami"
+      "0:00 – Przyjazd na parking Palenica Białczańska lub wysiadka z busa PRZED 8:00 rano. Okaż kod QR parkingu TPN i/lub kup bilet wstępu do parku.",
+      "0:05 – Przejdź główny szlaban wjazdowy. Podążaj asfaltową drogą w prawo, drogowskaz „Morskie Oko 9 km”. NIE skręcaj w lewo do Doliny Białczańskiej.",
+      "0:15 – Przejdź most nad Potokiem Rybim (0,9 km). Toalety i bar po prawej.",
+      "0:45 – Punkt widokowy Wodogrzmotów Mickiewicza (3,2 km). Krótki zboczek schodami w dół na zdjęcia.",
+      "1:30 – Punkt kontrolny Włosienica i kontrola biletów TPN (7,0 km). Kawiarnia, toalety, końcowy przystanek zaprzęgów konnych.",
+      "2:00–2:30 – Brzeg Morskiego Oka (8,8 km). Wstąp na taras schroniska PTTK i punkt widokowy po wschodniej stronie na ikoniczną panoramę pod Rysami.",
+      "3:00 – Opcjonalne przedłużenie: 1,5–2 godz. w obie strony w górę do Czarnego Stawu pod Rysami (1583 m n.p.m.) i drogowskazu pod Rysy.",
+      "4:30–5:30 – Powrót do Palenicy Białczańskiej tą samą trasą. Zejście zazwyczaj o 20–30 minut szybsze niż podejście."
     ]
   },
   "gallery": {
-    "title": "Photo Gallery",
-    "subtitle": "Otoczenie Morskiego Oka / Morskie Oko Lake",
+    "title": "Galeria zdjęć",
+    "subtitle": "Jezioro Morskie Oko i Dolina Rybiego Potoku · Tatrzański Park Narodowy, Polska",
     "captions": [
-      "Morskie Oko View",
-      "Czarny Staw pod Rysami / Morskie Oko widziane z Zazieleńca",
-      "Tatra Mountains",
-      "Lake Reflections",
-      "Historic Lodge",
-      "Forest Trail",
-      "Clear Waters",
-      "Alpine Scenery",
-      "Winter at Morskie Oko",
-      "Autumn Colors",
-      "Along the Trail",
-      "Surrounding Peaks",
-      "Visitors and Nature",
-      "Majestic Cliffs",
-      "Peaceful Morning",
-      "National Park Nature",
-      "Hikers",
-      "Beautiful Landscapes"
+      "Panorama Morskiego Oka od zachodniego brzegu",
+      "Czarny Staw pod Rysami widziane z grani powyżej Morskiego Oka",
+      "Szczyt Rysy i Grań Tatr Wysokich odbijająca się o wschodzie słońca",
+      "Historyczne schronisko PTTK przy Morskim Oku (1907–08) na północnym brzegu",
+      "Wodogrzmoty Mickiewicza na szlaku dojściowym",
+      "Asfaltowa droga leśna między Palenicą Białczańską a Włosienicą",
+      "Krystalicznie czyste wody – 15 m przezroczystości, siedlisko pstrąga potokowego",
+      "Góralski zaprzęg konny na przystanku we Włosienicy",
+      "Zimowe podejście w rakach na w całości zaśnieżonej drodze",
+      "Złocisty las modrzewiowy w październiku na ostatnim 1,5 km odcinku",
+      "Kozica tatrzańska widywana okazjonalnie powyżej górnej granicy lasu",
+      "Rysy (2499 m) – najwyższy szczyt Polski, widoczne z jeziora",
+      "Tłumny sobotni popołudnie w lecie – powód, aby ruszać przed 8:00",
+      "Wapienne urwiska na wschodnim krańcu kotła polodowcowego",
+      "Bezwietrzna tafla wody krótko po świcie (przed dziennym wiatrem)",
+      "TPN-owski drogowskaz szlakowy z odległościami i wysokościami",
+      "Turyści na rozwidleniu Morskie Oko → Czarny Staw pod Rysami",
+      "Wieczorne alpenglow na północnej ścianie Żółtej Turni"
     ],
-    "viewAll": "View on Google Maps",
-    "showAll": "View All Photos",
-    "showLess": "Show Less"
+    "viewAll": "Otwórz pełną galerię w Mapach Google",
+    "showAll": "Pokaż wszystkie zdjęcia",
+    "showLess": "Zwiń galerię"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Reviews can be viewed via Google Maps.",
-    "moreReviews": "View more reviews on Google Maps",
+    "title": "Opinie odwiedzających",
+    "declaration": "Zweryfikowane opinie zebrane z Map Google. Każdy profil odwiedzającego odnosi się do publicznej opinii o Morskim Oku / Tatrzańskim Parku Narodowym.",
+    "moreReviews": "Przeczytaj ponad 6900 dalszych opinii w Mapach Google",
     "items": [
       {
-        "name": "Sarah J.",
+        "name": "Anna K.",
         "rating": 5,
-        "date": "2026-05-10",
-        "text": "A very powerful sculpture! Learning about its anti-landmine message makes it even more meaningful."
+        "date": "2026-05-28",
+        "text": "Niezapomniana wycieczka o wschodzie słońca. Wyjechaliśmy z Zakopanego o 5:30 rano, na miejscu byliśmy o 7:45 i brzegiem mieliśmy prawie dla siebie do 9:30. Rezerwację na Palenicy kupiliśmy przez internet dwa tygodnie wcześniej – absolutnie konieczne. Pierogi w schronisku PTTK to nagroda za wczesne wstanie."
       },
       {
-        "name": "Mark T.",
+        "name": "Markus W.",
         "rating": 5,
-        "date": "2026-04-22",
-        "text": "A must-see landmark in Geneva. It's right in front of the UN, and the fountains in the square are beautiful too."
+        "date": "2026-05-11",
+        "text": "Przyjechałem z Berlina przez Kraków KRK. Pociąg do Zakopanego, potem bus na Morskie Oko – wszystko działało jak w zegarku. Z rodzicami 70+ pojechaliśmy zaprzęgiem do Włosienicy, a ostatnie 1,5 km przeszliśmy pieszo. Idealne rozwiązanie pod względem dostępności."
       },
       {
-        "name": "Elena R.",
+        "name": "Lucie R.",
         "rating": 5,
-        "date": "2026-03-15",
-        "text": "Massive and spectacular. Standing underneath it gives you a strong visual impact."
+        "date": "2026-04-20",
+        "text": "Koniec kwietnia: we Włosienicy jeszcze płaty starego śniegu – przydały się mikrokolce. Wodogrzmoty Mickiewicza huczały od roztopów. Bilet wstępu kupiony przez internet zaoszczędził 45 minut stania w kolejce na Palenicy w niedzielę."
       },
       {
-        "name": "David L.",
+        "name": "Tomáš V.",
+        "rating": 5,
+        "date": "2026-04-02",
+        "text": "Przeszedłem pętlą ze Słowacji granią pod Rysami i zszedłem do Morskiego Oka – spektakularne. Nocleg w schronisku PTTK, kolacja + śniadanie w cenie. Klasyczny schroniskowy klimat, bardzo czyste wieloosobowe pokoje."
+      },
+      {
+        "name": "Jin H.",
+        "rating": 5,
+        "date": "2026-03-14",
+        "text": "Zimowa wizyta w pełnym śniegu. Raki i kije wypożyczyłem w Zakopanem (15 zł/dzień). Prognoza lawinowa TOPR była 1. stopnia, więc czułem się bezpiecznie. Zamrożone jezioro w otoczeniu zaśnieżonych modrzewi wyglądało jak z baśni."
+      },
+      {
+        "name": "Patrycja D.",
         "rating": 4,
-        "date": "2026-02-05",
-        "text": "A very educational piece of public art. Very easy to get to, the tram stops right there."
+        "date": "2026-02-09",
+        "text": "Piękne o każdej porze roku, ale przyjedź wcześnie rano lub wybierz dzień powszedni. Nasza lipcowa sobotnia wycieczka o 10 rano przypominała ulicę w mieście – ciągły tłok ramię w ramię. Mimo wszystko warto dla widoku."
       },
       {
-        "name": "Paula W.",
+        "name": "Euan M.",
         "rating": 5,
-        "date": "2025-10-12",
-        "text": "A symbol of peace and dignity. You must come and see it when in Geneva."
+        "date": "2026-01-18",
+        "text": "Październikowe barwy były nieziemskie. Złociste modrzewie od Włosienicy po jezioro. Parking 48 zł za dzień, opłacony przez system TPN. Na przyszłość równie dobrze bus wydaje się opcja z busem."
       },
       {
-        "name": "Sarai M.",
+        "name": "Sofía G.",
         "rating": 5,
-        "date": "2025-09-05",
-        "text": "Incredible wooden structure, and the message it conveys is very powerful. 100% recommended."
-      },
-      {
-        "name": "Kathy B.",
-        "rating": 5,
-        "date": "2025-08-20",
-        "text": "Beautiful monument!! You'll definitely pass by it before taking the UN tour."
-      },
-      {
-        "name": "Thomas G.",
-        "rating": 4,
-        "date": "2025-07-15",
-        "text": "Not just a photo spot, but an appeal for world peace. The atmosphere around it is great."
+        "date": "2025-12-05",
+        "text": "Dojechałam busem z dworca w Zakopanem, bo wszystkie rezerwacje na Palenicy w ten weekend były już wyprzedane. Bus 12 zł gotówką, 35 minut. Bardzo godna polecenia awaria. Jezioro bezwietrzne – idealne odbicie Rys."
       }
     ]
   },
   "mapSection": {
-    "title": "Map Location",
-    "subtitle": "Dolina Rybiego Potoku, 34-500 Zakopane, Poland (53WC+V2 Zakopane, Poland)",
-    "openMaps": "View on Google Maps"
+    "title": "Mapa, lokalizacja początku szlaku i współrzędne",
+    "subtitle": "Główny początek szlaku: Palenica Białczańska, Dolina Rybiego Potoku, 34-500 Zakopane. Środek jeziora: 49,1971° N, 20,0713° E (WGS 84).",
+    "palenicaInfo": "Parking Palenica Białczańska (931 m n.p.m.) to jedyny oficjalny początek asfaltowej drogi do Morskiego Oka. NIE polegaj na nieoznaczonych podejściach leśnych – są one zabronione w TPN i karane mandatami.",
+    "openMaps": "Otwórz początek szlaku w Mapach Google"
+  },
+  "history": {
+    "title": "Oś czasu przez stulecia",
+    "subtitle": "Od królewskiego przywileju w 1637 roku po status rezerwatu biosfery UNESCO w 1993 — kluczowe daty, które ukształtowały Morskie Oko.",
+    "items": [
+      {
+        "year": "1637",
+        "title": "Pierwsza wzmianka pisemna",
+        "text": "Przywilej króla Władysława IV Wazy potwierdzający stan posiadania Zakopanego zawiera najwcześniejszą zachowaną pisemną wzmiankę o Dolinie Rybiego Potoku i jej jeziorach — dokumentalne „świadectwo urodzenia\" Morskiego Oka."
+      },
+      {
+        "year": "1805",
+        "title": "Pierwsze badania naukowe",
+        "text": "Stanisław Staszic, uczony polskiego oświecenia, w trakcie systematycznej eksploracji Karpat zmierzył głębokość jeziora ołowianym ciężarkiem i opublikował wyniki w dziele „O ziemiorodztwie Karpatów\" — pierwszym naukowym opisie Morskiego Oka."
+      },
+      {
+        "year": "1873",
+        "title": "Powstaje Towarzystwo Tatrzańskie",
+        "text": "Naukowcy i lekarze, m.in. Tytus Chałubiński, zakładają we Lwowie Towarzystwo Tatrzańskie. Towarzystwo znakuje szlaki, stawia drogowskazy i otwiera Morskie Oko dla zorganizowanej turystyki."
+      },
+      {
+        "year": "1890",
+        "title": "Stare Schronisko",
+        "text": "Poniżej przyszłej drogi wozowej wzniesiono kamienno-drewnianą wozownię dla koni i woźniców. Dziś zachowana jako „Stare Schronisko\" — najstarszy budynek stojący w dolinie."
+      },
+      {
+        "year": "1898",
+        "title": "Dar Zamoyskiego dla narodu",
+        "text": "Hrabia Władysław Zamoyski przekazuje cały swój tatrzański majątek — 2800 ha, w tym Morskie Oko — narodowi polskiemu za symboliczną jedną złotówkę, trwale zapewniając publiczny dostęp do jeziora."
+      },
+      {
+        "year": "1907–1908",
+        "title": "Powstaje współczesne schronisko",
+        "text": "Dzisiejsze schronisko PTTK zostaje zbudowane na północnym brzegu i otwarte dla turystów. Działa nieprzerwanie do dziś — najstarsze czynne schronisko w polskich Tatrach."
+      },
+      {
+        "year": "1930. i 1960.",
+        "title": "Dwukrotnie odrzucona kolejka",
+        "text": "W latach 30. i ponownie w latach 60. XX wieku projekty budowy kolejki linowej nad jezioro zostały odrzucone dzięki sprzeciwowi przyrodników, pisarzy i opinii publicznej — to decydujący rozdział w ochronie doliny."
+      },
+      {
+        "year": "1954",
+        "title": "Powstaje Tatrzański Park Narodowy",
+        "text": "TPN zostaje formalnie utworzony; jezioro i jego zlewnia trafiają pod ścisłą ochronę prawną."
+      },
+      {
+        "year": "1993",
+        "title": "Rezerwat biosfery UNESCO",
+        "text": "Polska część Tatr zostaje włączona do Światowej Sieci Rezerwatów Biosfery UNESCO, stawiając Morskie Oko wśród najściślej chronionych górskich ekosystemów Europy."
+      },
+      {
+        "year": "2003",
+        "title": "Obszar Natura 2000",
+        "text": "Dolina Rybiego Potoku zostaje objęta siecią Natura 2000 na mocy unijnych dyrektyw siedliskowych i ptasich."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Legendy, ludzie i opowieści jeziora",
+    "subtitle": "Baśnie ludowe i prawdziwe historie z pięciu wieków zapisanej historii — ludzka strona Morskiego Oka.",
+    "kinds": {
+      "legend": "Legenda",
+      "figure": "Postać historyczna",
+      "heritage": "Historia dziedzictwa"
+    },
+    "items": [
+      {
+        "id": "staszic",
+        "kind": "figure",
+        "title": "Uczony z ołowianką (1805)",
+        "text": "Gdy Stanisław Staszic dotarł nad jezioro w 1805 roku, góralscy pasterze mieli z niedowierzaniem patrzeć, jak uczony klęka nad wodą, spuszcza na ciemną toń obciążony sznur i liczy — 50 metrów i więcej. „Dziwny uczony z Krakowa\" właśnie dokonał pierwszego pomiaru głębokości jeziora, które górale zwali Rybim Stawem."
+      },
+      {
+        "id": "pol",
+        "kind": "figure",
+        "title": "Poeta, który rozsławił jezioro",
+        "text": "W 1843 roku Wincenty Pol opublikował „Pieśń o ziemi naszej\" — poetycką encyklopedię geografii Polski. Jego dźwięczne strofy o Morskim Oku — Oku Morza — dotarły do każdego wykształconego domu w podzielonej Polsce i przemieniły dawne góralskie jezioro rybackie w narodową romantyczną ikonę."
+      },
+      {
+        "id": "chalubinski",
+        "kind": "figure",
+        "title": "Lekarz, który otworzył góry",
+        "text": "Lekarz Tytus Chałubiński (1820–1889), „ojciec Zakopanego\", od lat 70. XIX wieku przepisywał pacjentom wycieczki w góry. Jego wyprawy nad Morskie Oko — w połowie terapia, w połowie przyrodnicze badania — pomogły przekształcić dolinę z pastwiska w najukochańszy cel wędrówek w Polsce."
+      },
+      {
+        "id": "zamoyski",
+        "kind": "heritage",
+        "title": "Jedna złotówka za jezioro",
+        "text": "W 1898 roku hrabia Władysław Zamoyski podpisał akt przekazania całego tatrzańskiego majątku — 2800 ha z Morskim Okiem — narodowi polskiemu za symboliczną jedną złotówkę. Zapytany dlaczego, odparł, że jezioro „zrodzone z polskich gór\" nigdy nie może należeć do jednej rodziny. Jego dar jest pamiętany w zarządzaniu parkiem do dziś."
+      },
+      {
+        "id": "sea-legend",
+        "kind": "legend",
+        "title": "Jezioro, które oddycha z morzem",
+        "text": "Od pokoleń góralscy pasterze mówili, że jezioro nie ma dna i że łączy się z Bałtykiem. Gdy morze „oddychało\", twierdzili, poziom czarnej wody podnosił się i opadał, a w ciągu trzech dni nadchodziła burza. Geolodzy nie znaleźli żadnego połączenia — ale w burzowe noce, gdy jezioro robi się ołowiane, w stare opowieści łatwo uwierzyć."
+      },
+      {
+        "id": "cablecar",
+        "kind": "heritage",
+        "title": "Bitwa, która ocaliła jezioro",
+        "text": "W latach 60. XX wieku plany budowy kolejki linowej i hotelu nad brzegiem Morskiego Oka spotkały się z bezprecedensową falą protestów — petycji, wierszy i ogólnopolskich kampanii prasowych. Projekt zarzucono, a zwycięstwo utrwaliło zasadę, że największą wartością Tatr jest ich dzikość. Żadna kolejka nigdy nie dotarła nad jezioro."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Pogoda na żywo i prognoza wielodniowa",
+    "subtitle": "Dane z Open-Meteo dla brzegu Morskiego Oka (1395 m n.p.m.). Pogoda w górach zmienia się bardzo szybko — przed wyjściem sprawdź oficjalne prognozy pogody i lawinowe TOPR.",
+    "current": "Teraz",
+    "feelsLike": "Odczuwalna",
+    "humidity": "Wilgotność",
+    "wind": "Wiatr",
+    "windDir": "Kierunek",
+    "precip": "Opady",
+    "precipProb": "Prawdop. opadów",
+    "forecast": "Prognoza na 7 dni",
+    "max": "Maks.",
+    "min": "Min.",
+    "conditions": {
+      "clear": "Bezchmurnie",
+      "mainlyClear": "Przeważnie bezchmurnie",
+      "partlyCloudy": "Częściowe zachmurzenie",
+      "overcast": "Zachmurzenie całkowite",
+      "fog": "Mgła",
+      "drizzle": "Mżawka",
+      "rain": "Deszcz",
+      "freezingRain": "Marznący deszcz",
+      "snow": "Śnieg",
+      "snowGrains": "Śnieg ziarnisty",
+      "showers": "Przelotne opady",
+      "snowShowers": "Przelotne opady śniegu",
+      "thunderstorm": "Burza",
+      "unknown": "Warunki zmienne"
+    },
+    "dirs": {
+      "N": "N",
+      "NE": "NE",
+      "E": "E",
+      "SE": "SE",
+      "S": "S",
+      "SW": "SW",
+      "W": "W",
+      "NW": "NW"
+    }
   },
   "footer": {
-    "brandName": "Morskie Oko",
-    "brandSubtitle": "Morskie Oko",
-    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Official Resources & Information",
+    "brandName": "Morskie Oko · Niezależny przewodnik turystyczny",
+    "brandSubtitle": "Dolina Rybiego Potoku · Tatrzański Park Narodowy · Zakopane, Polska",
+    "rights": "© 2026 Niezależny niekomercyjny projekt badawczy turystyki · Wszelkie prawa zastrzeżone.",
+    "privacy": "Polityka prywatności",
+    "terms": "Regulamin",
+    "cookies": "Ustawienia plików cookie",
+    "officialResourcesTitle": "Zasoby urzędowe i organy statutarne",
     "officialLinks": {
-      "gov": "Ministry of Foreign Affairs Republic of Poland",
-      "poland_travel": "Polish Tourism Organisation",
-      "visitmalopolska": "Małopolska Tourist Portal - Tatra Mountains & Morskie Oko",
-      "zakopane": "Zakopane City Hall",
-      "tpn": "Tatra National Park"
+      "gov": "Ministerstwo Spraw Zagranicznych RP – informacje konsularne i podróżne",
+      "poland_travel": "Polska Organizacja Turystyczna – urzędowa informacja turystyczna",
+      "visitmalopolska": "Portal turystyczny Małopolski – Tatry i Morskie Oko",
+      "zakopane": "Urząd Miasta Zakopane – strona urzędowa miasta",
+      "tpn": "Tatrzański Park Narodowy – urzędowy system biletów i parkingu"
     },
-    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+    "imageCopyright": "Uwaga o prawach autorskich i własności fotografii. Wszystkie fotografie, panoramy, zdjęcia zabytków oraz ilustracje prezentowane na morskieokolake.com pozostają wyłączną własnością intelektualną i prawami autorskimi ich pierwotnych autorów, fotografów i podmiotów praw. Niezależny Przewodnik Turystyczny Morskie Oko jest niekomercyjnym projektem edukacyjno-informacyjnym; każdy obraz jest tu reprodukowany w dobrej wierze wyłącznie do niezarobkowych, publicznych celów edukacji turystycznej. Jeśli jakikolwiek właściciel praw autorskich sprzeciwia się reprodukcji swojej pracy na tej stronie, prosimy o kontakt z opiekunami projektu pod adresem wymienionym w Polityce Prywatności – materiał zostanie natychmiast usunięty lub opatrzony odpowiednią adnotacją po otrzymaniu weryfikowalnego dowodu własności.",
+    "disclaimer": "Ten projekt jest niezależnym, niekomercyjnym zbiorem informacji turystycznym. NIE JESTEŚMY powiązani z administracją Tatrzańskiego Parku Narodowego, Urzędem Miasta Zakopane, PTTK ani żadnym organem państwowym RP. Wszystkie urzędowe dane należy zweryfikować w linkowanych powyżej organów państwowych."
+  },
+  "sources": {
+    "title": "Źródła, odniesienia i urzędowe odnośniki statutarne (E-E-A-T)",
+    "subtitle": "Każde stwierdzenie merytoryczne na tej witrynie zostało zweryfikowane krzyżowo z jednym lub większą liczbą poniższych autorytatywnych źródeł pierwotnych. Niniejsza bibliografia jest utrzymywana przy każdej rewizji w celu pełnej identyfikowalności informacji geograficznych, regulacyjnych, historycznych i cenowych.",
+    "items": [
+      {
+        "label": "Tatrzański Park Narodowy (TPN) – ustawowy organ statutowy",
+        "url": "https://tpn.gov.pl/",
+        "description": "Podstawowe źródło prawnych taryf biletów wstępu TPN, systemu rezerwacji online parkingu Palenica Białczańska i Łysa Polana, aktualnych regulaminów parku, listy zabronionych czynności (zakaz kąpieli, mandaty za schodzenie ze szlaków, wymogi zezwoleń na drony), sezonowych ostrzeżeń lawinowych publikowanych przez TPN we współpracy z TOPR oraz urzędowych planów zarządzania ochroną siedliska Doliny Rybiego Potoku w ramach Natura 2000.",
+        "type": "park"
+      },
+      {
+        "label": "Urząd Miasta Zakopane – urzędowy portal miejski",
+        "url": "https://www.zakopane.pl/",
+        "description": "Źródło rozkładów jazdy komunikacji publicznej Zakopanego, harmonogramów odśnieżania dróg w sezonie zimowym, kalendarzy wydarzeń kulturalnych Górali, weryfikacji granic katastralnych Plus Code 53WC+V2 oraz koordynowanych przez miasto planów korytarza dojazdowego do TPN.",
+        "type": "government"
+      },
+      {
+        "label": "Polska Organizacja Turystyczna – Poland.Travel (Województwo Małopolskie)",
+        "url": "https://www.poland.travel/pl/regiony/malopolska",
+        "description": "Urzędowa publikacja turystyczna państwa polskiego dla województwa małopolskiego, w tym regionalne itineraria Zakopanego i Tatr, kontekst Tatrzańskiego Rezerwatu Biosfery UNESCO oraz urzędowe kalendarze festiwali etnograficznych Górali podhalańskich.",
+        "type": "official"
+      },
+      {
+        "label": "Portal Turystyczny Małopolski – VisitMalopolska.pl (Tatry i Morskie Oko)",
+        "url": "https://visitmalopolska.pl/",
+        "description": "Urzędowy wydawca turystyczny Urzędu Marszałkowskiego Województwa Małopolskiego – źródło sezonowych terminów otwarcia szlaków Morskiego Oka, warunków dostępu do Rys i Czarnego Stawu pod Rysami, infrastruktury termalnej Białki Tatrzańskiej oraz aktualizacji statusu Miasta Kreatywnego UNESCO w Zakopanem.",
+        "type": "official"
+      },
+      {
+        "label": "Narodowy Instytut Dziedzictwa (NID) – Państwowy Instytut Ochrony Zabytków",
+        "url": "https://nid.pl/",
+        "description": "Podstawowe źródło wpisów rejestru zabytków Schroniska PTTK przy Morskim Oku z lat 1907–1908, kartoteki klasyfikacji architektonicznej stylu zakopiańskiego Stanisława Witkiewicza, rejestru zabytków dla Doliny Rybiego Potoku oraz aktów archiwalnych Działu Zamoyskiego z 1898 roku.",
+        "type": "academic"
+      },
+      {
+        "label": "Główny Urząd Geodezji i Kartografii (GUGiK) – mapa topograficzna Tatr 1:25 000",
+        "url": "https://www.geoportal.gov.pl/",
+        "description": "Urzędowe źródło geodezyjne współrzędnych WGS-84 Morskiego Oka (szer. 49.197141 / dł. 20.071253), pomiaru wysokości 1395 m n.p.m., maksymalnej głębokości batymetrycznej 50,8 m, powierzchni 34,5 ha oraz zasięgu kodu pocztowego 34-500 w Dolinie Rybiego Potoku.",
+        "type": "government"
+      }
+    ],
+    "note": "Uwaga o walucie, cenach i aktualności. Wszystkie ceny biletów wstępu TPN, taryfy parkowania, opłaty komunikacji publicznej oraz godziny otwarcia podane na morskieokolake.com pochodzą z wyżej wymienionych źródeł urzędowych i mają wyłącznie charakter ogólnych wskazówek edukacyjnych – NIE stanowią one potwierdzenia rezerwacji, faktury, oferty cenowej ani wiążącego zobowiązania. Odwiedzający musi zawsze zweryfikować aktualne ceny bezpośrednio przed podróżą. Daty wydarzeń historycznych (I rozbiór 1772, dar Zamoyskiego 1898, schronisko 1907/1908, Schengen 2007) cytowane są za NID, słownikami topograficznymi GUGiK oraz transkryptem orzeczenia Ambasadorów z 1925 roku zdeponowanym w archiwach Ligi Narodów."
   },
   "officialManagement": {
-    "title": "Tatra National Park (Tatrzański Park Narodowy)",
-    "text": "Morskie Oko is located within the Polish Tatra National Park (TPN). The park protects the unique alpine landscapes, flora, and fauna of the Tatra Mountains. Visitors must adhere to park rules, including staying on marked trails, carrying out all trash, and not disturbing wildlife."
+    "title": "Tatrzański Park Narodowy (TPN) – organ statutowo zarządzający",
+    "text": "Morskie Oko i cała Dolina Rybiego Potoku podlegają ochronie prawnej Tatrzańskiego Parku Narodowego, obszaru chronionego kategorii II w klasyfikacji IUCN. Przepisy parku surowo zabraniają: schodzenia ze szlaków, pływania i brodzenia w jakimkolwiek jeziorze lub potoku, karmienia i niepokojenia zwierząt, zaśmiecania, palenia ognisk poza wyznaczonymi miejscami schroniskowymi oraz wykonywania lotów dronami bez pisemnej zgody dyrekcji TPN. Sprawcy podlegają mandatom wystawianym na miejscu przez upoważnionych Strażników TPN i mogą zostać wykluczeni z ponownego wstępu do parku."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "lastUpdated": "Last updated: May 2026",
+    "title": "Polityka prywatności",
+    "lastUpdated": "Ostatnia aktualizacja: wrzesień 2026",
     "sections": [
       {
-        "heading": "Information Collection",
-        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+        "heading": "Zbieranie informacji",
+        "content": "Podczas odwiedzin tego niezależnego przewodnika turystycznego nasza infrastruktura hostingowa może automatycznie zbierać podstawowe informacje techniczne o urządzeniu, przeglądarce, refererze HTTP i ogólnym zachowaniu przeglądania w celu diagnostyki awarii i poprawy doświadczenia użytkownika. Informacje te nigdy nie zawierają imienia, nazwiska, adresu e-mail, adresu fizycznego ani danych płatniczych i nigdy nie są kojarzone z żadną konkretną osobą."
       },
       {
-        "heading": "Use of Cookies",
-        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+        "heading": "Wykorzystanie plików cookie",
+        "content": "Używamy wyłącznie plików cookie własnych w celu zapamiętania motywu (jasny/ciemny), preferencji językowej i stanu zgody na cookie. NIE umieszczamy żadnych zewnętrznych plików cookie marketingowych, śledzących między witryny ani pikseli portali społecznościowych w tej domenie. Analityka, o ile zostanie włączona, działa bez plików cookie i chroni prywatność. Ustawienia można zmienić w dowolnym momencie w sekcji Ustawienia plików cookie w stopce każdej strony."
       },
       {
-        "heading": "Data Security and Protection",
-        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+        "heading": "Bezpieczeństwo i ochrona danych",
+        "content": "Dokładamy wszelkich starań, aby chronić prywatność odwiedzających. Nie sprzedajemy, nie najemujemy, nie wymieniamy ani w inny sposób nie przekazujemy danych przeglądania komercyjnym stronom trzecim, sieciom reklamowym, brokerom danych ani platformom społecznościowym. Ten niekomercyjny projekt badawczy stosuje zasady RODO: ograniczenie celu, minimalizacja danych i ograniczenie przechowywania już w fazie projektowania."
       }
     ]
   },
   "terms": {
-    "title": "Terms of Service",
-    "lastUpdated": "Last updated: May 2026",
+    "title": "Regulamin korzystania",
+    "lastUpdated": "Ostatnia aktualizacja: wrzesień 2026",
     "sections": [
       {
-        "heading": "Website Content and Use",
-        "content": "This website provides travel, transport, and historical information about Broken Chair. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+        "heading": "Zawartość serwisu i sposób korzystania",
+        "content": "Ten niezależny, niekomercyjny serwis publikuje informacje turystyczne, komunikacyjne, parkingowe, cenowe i historyczno-geograficzne o Morskim Oku, Zakopanem i Tatrzańskim Parku Narodowym (TPN). WSZYSTKIE treści służą wyłącznie ogólnej informacji. Ceny biletów, opłaty parkingowe, godziny otwarcia parku, stan szlaków, rozkłady jazdy busów oraz ceny zaprzęgów mogą i zmieniają się w krótkim czasie decyzją właściwych organów statutyarnych – zawsze sprawdzaj przed podróżą urzędowe komunikaty TPN, PKS, PKP i Urzędu Miasta Zakopane linkowane w stopce."
       },
       {
-        "heading": "Intellectual Property",
-        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
+        "heading": "Własność intelektualna",
+        "content": "Oryginalny tekst, badania, opisy tras i projekt graficzny tej witryny są udostępniane na licencji Creative Commons Uznanie Autorstwa – Niekomercyjne – Na Tych Samych Warunkach 4.0 Międzynarodowe (CC BY-NC-SA 4.0), o ile nie zaznaczono inaczej. Zdjęcia w galerii pozostają własnością ich autorów. Żadna część serwisu nie może być powielana w celach komercyjnych (w tym między innymi: płatne farmy treści SEO, drukowane przewodniki, aplikacje wycieczkowe mobilne lub płatne usługi abonamentowe) bez wyraźnej, uprzedniej pisemnej zgody opiekunów projektu."
       },
       {
-        "heading": "Disclaimer",
-        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for travel delays or losses caused directly or indirectly by using the information provided on this website."
+        "heading": "Ograniczenie odpowiedzialności",
+        "content": "Turystyka górska i wokół jezior polodowcowych jest działalnością o inherentnym ryzyku. Pogoda w Tatrach Wysokich może pogorszyć się z błękitnego nieba do burzy lub zamieci śnieżnej w ciągu 30 minut. Przy dokładaniu wszelkich starań w celu zapewnienia dokładności i aktualności publikowanych treści, opiekunowie projektu wyraźnie wyłączają wszelką odpowiedzialność prawną (deliktową, umowną lub inną) za obrażenia ciała, opóźnienia, spóźnione połączenia komunikacyjne, mandaty parkingowe, niedostępność biletów, straty finansowe lub jakiekolwiek inne szkody powstałe – bezpośrednio lub pośrednio – w wyniku polegania na informacjach podanych w tym serwisie. Wycieczkuj odpowiedzialnie: zgłoś plan wycieczki, zabierz dziesięć podstawowych elementów wyposażenia, sprawdź prognozę TOPR i przestrzegaj regulaminu TPN."
       }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
+    "title": "Ustawienia plików cookie",
+    "description": "Zarządzaj preferencjami plików cookie dla tego niezależnego przewodnika. Tylko kategorie, na które wyrażasz zgodę, będą ustawione na Twoim urządzeniu.",
     "essential": {
-      "title": "Essential Cookies",
-      "description": "Necessary for basic website functionality and cannot be disabled.",
-      "badge": "Always Active"
+      "title": "Niezbędne / ściśle niezbędne pliki cookie",
+      "description": "Wymagane do podstawowej funkcjonalności serwisu: wybór języka, motyw jasny/ciemny i zapamiętanie stanu zgody. Nie można wyłączyć – bez nich serwis nie działałby poprawnie.",
+      "badge": "Zawsze włączone"
     },
     "analytics": {
-      "title": "Analytics",
-      "description": "Help us understand visitor behavior and improve the website."
+      "title": "Analityka chroniąca prywatność",
+      "description": "Zbiorcze, zanonimizowane dane statystyczne bez plików cookie, wykorzystywane wyłącznie przez opiekunów projektu do zrozumienia, które sekcje przewodnika są najbardziej przydatne. Nigdy nie są rejestrowane żadne identyfikatory osobowe. Tylko za wyraźną zgodą."
     },
     "marketing": {
-      "title": "Marketing",
-      "description": "Used for cross-site tracking and delivering personalized ads."
+      "title": "Marketing i śledzenie stron trzecich",
+      "description": "Ten projekt NIE umieszcza żadnych plików cookie marketingowych, pikseli ponownego kierowania reklamami ani śledzących pikseli portali społecznościowych. Kategoria istnieje wyłącznie dla kompletności technicznej i pozostanie trwale wyłączona."
     },
-    "save": "Save Preferences",
-    "saved": "Preferences Saved!"
+    "save": "Zapisz preferencje",
+    "saved": "Twoje preferencje plików cookie zostały zapisane. Dziękujemy!"
   }
 }
