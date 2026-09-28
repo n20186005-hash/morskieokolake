@@ -2,7 +2,14 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
+
+export const viewport: Viewport = {
+  themeColor: [
+    { media: '(prefers-color-scheme: light)', color: '#f6efe5' },
+    { media: '(prefers-color-scheme: dark)', color: '#1a1814' },
+  ],
+};
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -61,10 +68,6 @@ export async function generateMetadata({
       apple: [{ url: '/apple-icon.png', sizes: '180x180' }],
     },
     manifest: '/manifest.webmanifest',
-    themeColor: [
-      { media: '(prefers-color-scheme: light)', color: '#f6efe5' },
-      { media: '(prefers-color-scheme: dark)', color: '#1a1814' },
-    ],
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
