@@ -1,3 +1,6 @@
+import { visitLabels, lodging } from '@/content/explore-visit';
+import { exploreLabels, parkAdmission, parkMap, trailUpdates } from '@/content/explore';
+import ReferenceLinks from '@/components/ReferenceLinks';
 import { moduleLabels, nearbyFacts } from '@/content/nearby';
 import type { Metadata } from 'next';
 import Image from 'next/image';
@@ -58,6 +61,17 @@ export default async function GuidePage({ params }: Params) {
     'from-zakopane': ['Dworzec Autobusowy Zakopane', 'Palenica Białczańska'],
   }[topic];
   const primarySource = sources[topic][0];
+  const v = visitLabels[locale];
+  const t = exploreLabels[locale];
+  const steps = {
+    parking: ['Palenica Białczańska / Łysa Polana', 'Wodogrzmoty Mickiewicza', 'Włosienica', 'Morskie Oko'],
+    tickets: ['Palenica Białczańska', 'Wodogrzmoty Mickiewicza', 'Włosienica', 'Morskie Oko'],
+    'from-zakopane': ['Dworzec Autobusowy Zakopane', 'Palenica Białczańska', 'Włosienica', 'Morskie Oko'],
+    'mickiewicz-waterfalls': ['Palenica Białczańska', 'Wodogrzmoty Mickiewicza'],
+    wlosienica: ['Palenica Białczańska', 'Wodogrzmoty Mickiewicza', 'Włosienica', 'Morskie Oko'],
+  }[topic];
+  const mapLink = (place: string) => `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place + ', Poland')}`;
+  const feeUrl = topic === 'parking' ? primarySource : parkAdmission;
   return (
     <>
       <Header />
@@ -69,6 +83,7 @@ export default async function GuidePage({ params }: Params) {
             <a href={`/${locale}`} className="text-sm underline">{home}</a>
             <h1 className="font-display mt-4 max-w-3xl text-3xl font-semibold sm:text-5xl">{guide.title}</h1>
             <p className="mt-4 max-w-2xl">{guide.summary}</p>
+            <a href={trailUpdates} className="mt-2 inline-block underline">{v.accessLink}</a>
             <ul className="mt-5 flex flex-wrap gap-x-6 gap-y-2">
               {landmark && <li><a href={landmark.map} className="underline">{map} · {landmark.name}</a></li>}
               {places.map((place) => (
@@ -101,6 +116,10 @@ export default async function GuidePage({ params }: Params) {
             </p>
           )}
           <section>
+            <h2 className="font-display mb-2 text-2xl font-semibold">{v.intro}</h2>
+            <p>{guide.summary}</p>
+          </section>
+          <section>
             <h2 className="font-display mb-2 text-2xl font-semibold">{managed}</h2>
             <a href={park} className="underline">Tatrzański Park Narodowy (TPN)</a>
           </section>
@@ -109,7 +128,20 @@ export default async function GuidePage({ params }: Params) {
             <dl className="grid gap-3 sm:grid-cols-2">
               <div><dt className="font-semibold">{area}</dt><dd>{landmark?.name ?? places.join(' · ')}</dd></div>
               {landmark && <div><dt className="font-semibold">{elevation}</dt><dd>{new Intl.NumberFormat(locale).format(landmark.elevation)} m</dd></div>}
+              <div><dt className="font-semibold">{t.approach}</dt><dd>{steps[0]}</dd></div>
+              <div><dt className="font-semibold">{v.prices}</dt><dd><a href={feeUrl} className="underline">{v.ticketLink}</a></dd></div>
+              <div><dt className="font-semibold">{v.hours}</dt><dd><a href={trailUpdates} className="underline">{v.accessLink}</a></dd></div>
             </dl>
+          </section>
+          <section>
+            <h2 className="font-display mb-2 text-2xl font-semibold">{v.hours}</h2>
+            <p>{v.trailHours}</p>
+            <a href={topic === 'from-zakopane' ? primarySource : trailUpdates} className="underline">{v.accessLink}</a>
+          </section>
+          <section>
+            <h2 className="font-display mb-2 text-2xl font-semibold">{v.prices}</h2>
+            <p>{v.parkPrice}</p>
+            <a href={feeUrl} className="underline">{v.ticketLink}</a>
           </section>
           {guide.sections.map(([heading, body]) => (
             <section key={heading}>
@@ -126,6 +158,28 @@ export default async function GuidePage({ params }: Params) {
               {topic === 'from-zakopane' && <li><a href={primarySource} className="underline">{sourceLabels[primarySource]}</a></li>}
             </ul>
           </section>
+          <section>
+            <h2 className="font-display mb-2 text-2xl font-semibold">{t.route}</h2>
+            <ol className="list-decimal space-y-1 pl-5">
+              {steps.map((step) => <li key={step}><a href={parkMap} className="underline">{step}</a></li>)}
+            </ol>
+          </section>
+          <section>
+            <h2 className="font-display mb-2 text-2xl font-semibold">{v.rules}</h2>
+            <p>{t.aAccess}</p>
+            <a href={trailUpdates} className="underline">{t.updates}</a>
+          </section>
+          <section>
+            <h2 className="font-display mb-2 text-2xl font-semibold">{v.photo}</h2>
+            <p>{landmark?.name ?? 'Morskie Oko · Włosienica'}</p>
+            <p>{t.photoTip}</p>
+          </section>
+          <section>
+            <h2 className="font-display mb-2 text-2xl font-semibold">{v.stay}</h2>
+            <p>Zakopane · Schronisko PTTK nad Morskim Okiem</p>
+            <p>{v.stayText}</p>
+            <a href={lodging} className="underline">{v.stay}</a>
+          </section>
           <section id="visitor-reviews" className="scroll-mt-20">
             <h2 className="font-display mb-2 text-2xl font-semibold">{reviews}</h2>
             {landmark ? (
@@ -139,6 +193,11 @@ export default async function GuidePage({ params }: Params) {
             ) : <a href={lakeMap} className="underline">{lakeReviews}</a>}
           </section>
           <section>
+            <h2 className="font-display mb-2 text-2xl font-semibold">{v.directions}</h2>
+            <p>{landmark?.name ?? places.join(' · ')} · {new Intl.DisplayNames(locale, { type: 'region' }).of('PL')}</p>
+            <a href={landmark?.map ?? mapLink(places[0])} className="underline">{map}</a>
+          </section>
+          <section>
             <h2 className="font-display mb-2 text-2xl font-semibold">{official}</h2>
             <ul className="list-disc space-y-2 pl-5">
               {sources[topic].map((source) => (
@@ -150,6 +209,7 @@ export default async function GuidePage({ params }: Params) {
         </article>
         <GuideLinks locale={locale} current={topic} />
         <GuideLinks locale={locale} current={topic} nearby />
+        <ReferenceLinks locale={locale} />
       </main>
       <Footer />
     </>

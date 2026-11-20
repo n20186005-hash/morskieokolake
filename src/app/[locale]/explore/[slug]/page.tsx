@@ -1,3 +1,4 @@
+import ReferenceLinks from '@/components/ReferenceLinks';
 import { lodging, publicTransport, visitDetails, visitLabels } from '@/content/explore-visit';
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
@@ -172,6 +173,7 @@ export default async function ExplorePage({ params }: Params) {
             </ul>
           </section>
         </article>
+        <ReferenceLinks locale={locale} />
       </main>
       <Footer />
     </>

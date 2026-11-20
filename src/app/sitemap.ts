@@ -15,6 +15,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/privacy-policy',
     '/terms-of-service',
     '/cookie-settings',
+    '/sources',
+    '/about',
     ...topics.map((topic) => `/guide/${topic}`),
     ...attractions.map(({ slug }) => `/explore/${slug}`),
   ];

@@ -560,13 +560,15 @@
     }
   },
   "footer": {
+    "photoCredits": "Photo credits",
+    "about": "About this guide",
     "brandName": "Morskie Oko · Independent Visitor Guide",
     "brandSubtitle": "Dolina Rybiego Potoku · Tatrzański Park Narodowy · Zakopane, Poland",
-    "rights": "© 2026 Independent Non-Profit Tourism Research Project · All Rights Reserved.",
+    "rights": "© 2026 Morskie Oko · All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Official Resources & Statutory Authorities",
+    "officialResourcesTitle": "Official resources",
     "officialLinks": {
       "gov": "Ministry of Foreign Affairs, Republic of Poland — Travel & Consular Info",
       "poland_travel": "Polska Organizacja Turystyczna (Polish Tourism Organisation) — Official Travel",
@@ -575,11 +577,11 @@
       "tpn": "Tatrzański Park Narodowy (TPN) — Official Tickets & Parking System"
     },
     "imageCopyright": "Copyright and Image Rights Notice. All photographic images, panoramic stills, landmark photographs and illustration assets displayed on morskieokolake.com remain the exclusive intellectual property and copyright of their respective original authors, photographers and rights holders. Morskie Oko Independent Visitor Guide is a non-commercial educational and informational project; every image is reproduced here in good faith for non-profit public tourism-education purposes only. Should any copyright holder object to the reproduction of their work on this website, please contact the project maintainers at the address listed in the Privacy Policy and the item will be removed or attributed promptly upon receipt of verifiable proof of ownership.",
-    "disclaimer": "This is an independent, non-commercial third-party visitor information project. We are NOT affiliated with the Tatra National Park administration, the City of Zakopane, PTTK or any Polish state body. All official information should be cross-checked on the statutory authority websites linked above."
+    "disclaimer": "This independent visitor guide is unaffiliated with Tatra National Park, the Municipality of Zakopane and PTTK."
   },
   "sources": {
-    "title": "Sources, References & Official Statutory Links (E-E-A-T)",
-    "subtitle": "Every factual statement on this website has been cross-checked against one or more of the following authoritative primary sources. This bibliography is maintained per revision for full auditability of geographic, regulatory, historical and pricing information.",
+    "title": "Sources",
+    "subtitle": "Check the resources below for trails, transport, tickets and local information.",
     "items": [
       {
         "label": "Tatrzański Park Narodowy (TPN) — Official Statutory Authority",
@@ -618,7 +620,7 @@
         "type": "government"
       }
     ],
-    "note": "Note on Currency, Pricing and Timeliness. All PLN-priced TPN entrance tickets, parking tariffs, public-transport fares and operating hours mentioned on morskieokolake.com are drawn from the authority sources above and are intended as general educational guidelines only — they are NOT a booking confirmation, invoice, price offer or binding commitment. Visitors must always verify live pricing before travel. Dates cited for historical events (First Partition 1772, Zamoyski Donation 1898, Shelter 1907/1908, Schengen 2007) are sourced from NID, GUGiK topographic gazetteers and the Conference of Ambassadors 1925 award transcript deposited with the League of Nations archives."
+    "note": "Check current prices, hours and access with the operator before travelling."
   },
   "officialManagement": {
     "title": "Tatra National Park (Tatrzański Park Narodowy, TPN) — Statutory Management Body",

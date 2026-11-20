@@ -1,4 +1,3 @@
-import ExploreLinks from '@/components/ExploreLinks';
 import HomeStructuredData from '@/components/HomeStructuredData';
 import GuideLinks from '@/components/GuideLinks';
 import type { Locale } from '@/i18n/routing';
@@ -21,7 +20,7 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import FAQSection from '@/components/FAQSection';
 import MapEmbed from '@/components/MapEmbed';
-import SourcesSection from '@/components/SourcesSection';
+import ReferenceLinks from '@/components/ReferenceLinks';
 import Footer from '@/components/Footer';
 
 export async function generateMetadata({
@@ -72,13 +71,12 @@ export default async function HomePage({
         <RouteSection />
         <GuideLinks locale={locale as Locale} />
         <GuideLinks locale={locale as Locale} nearby />
-        <ExploreLinks locale={locale as Locale} />
         <WeatherSection />
         <Gallery />
         <Reviews />
         <FAQSection />
         <MapEmbed />
-        <SourcesSection />
+        <ReferenceLinks locale={locale as Locale} />
       </main>
       <Footer />
     </>

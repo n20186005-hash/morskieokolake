@@ -1,5 +1,6 @@
 import { moduleLabels, nearbyTopics } from '@/content/nearby';
 import { getGuide, labels, planningTopics, type Topic } from '@/content/guides';
+import ExploreLinks from './ExploreLinks';
 import type { Locale } from '@/i18n/routing';
 
 export default function GuideLinks({ locale, current, nearby = false }: { locale: Locale; current?: Topic; nearby?: boolean }) {
@@ -22,6 +23,7 @@ export default function GuideLinks({ locale, current, nearby = false }: { locale
             );
           })}
         </ul>
+        {nearby && <ExploreLinks locale={locale} embedded />}
       </div>
     </section>
   );

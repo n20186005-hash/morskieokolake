@@ -560,13 +560,15 @@
     }
   },
   "footer": {
+    "photoCredits": "Autorstwo zdjęć",
+    "about": "O przewodniku",
     "brandName": "Morskie Oko · Niezależny przewodnik turystyczny",
     "brandSubtitle": "Dolina Rybiego Potoku · Tatrzański Park Narodowy · Zakopane, Polska",
-    "rights": "© 2026 Niezależny niekomercyjny projekt badawczy turystyki · Wszelkie prawa zastrzeżone.",
+    "rights": "© 2026 Morskie Oko · Wszelkie prawa zastrzeżone.",
     "privacy": "Polityka prywatności",
     "terms": "Regulamin",
     "cookies": "Ustawienia plików cookie",
-    "officialResourcesTitle": "Zasoby urzędowe i organy statutarne",
+    "officialResourcesTitle": "Oficjalne źródła",
     "officialLinks": {
       "gov": "Ministerstwo Spraw Zagranicznych RP – informacje konsularne i podróżne",
       "poland_travel": "Polska Organizacja Turystyczna – urzędowa informacja turystyczna",
@@ -575,11 +577,11 @@
       "tpn": "Tatrzański Park Narodowy – urzędowy system biletów i parkingu"
     },
     "imageCopyright": "Uwaga o prawach autorskich i własności fotografii. Wszystkie fotografie, panoramy, zdjęcia zabytków oraz ilustracje prezentowane na morskieokolake.com pozostają wyłączną własnością intelektualną i prawami autorskimi ich pierwotnych autorów, fotografów i podmiotów praw. Niezależny Przewodnik Turystyczny Morskie Oko jest niekomercyjnym projektem edukacyjno-informacyjnym; każdy obraz jest tu reprodukowany w dobrej wierze wyłącznie do niezarobkowych, publicznych celów edukacji turystycznej. Jeśli jakikolwiek właściciel praw autorskich sprzeciwia się reprodukcji swojej pracy na tej stronie, prosimy o kontakt z opiekunami projektu pod adresem wymienionym w Polityce Prywatności – materiał zostanie natychmiast usunięty lub opatrzony odpowiednią adnotacją po otrzymaniu weryfikowalnego dowodu własności.",
-    "disclaimer": "Ten projekt jest niezależnym, niekomercyjnym zbiorem informacji turystycznym. NIE JESTEŚMY powiązani z administracją Tatrzańskiego Parku Narodowego, Urzędem Miasta Zakopane, PTTK ani żadnym organem państwowym RP. Wszystkie urzędowe dane należy zweryfikować w linkowanych powyżej organów państwowych."
+    "disclaimer": "Ten niezależny przewodnik nie jest powiązany z TPN, Urzędem Miasta Zakopane ani PTTK."
   },
   "sources": {
-    "title": "Źródła, odniesienia i urzędowe odnośniki statutarne (E-E-A-T)",
-    "subtitle": "Każde stwierdzenie merytoryczne na tej witrynie zostało zweryfikowane krzyżowo z jednym lub większą liczbą poniższych autorytatywnych źródeł pierwotnych. Niniejsza bibliografia jest utrzymywana przy każdej rewizji w celu pełnej identyfikowalności informacji geograficznych, regulacyjnych, historycznych i cenowych.",
+    "title": "Źródła",
+    "subtitle": "Sprawdź poniższe źródła dotyczące szlaków, transportu i biletów.",
     "items": [
       {
         "label": "Tatrzański Park Narodowy (TPN) – ustawowy organ statutowy",
@@ -618,7 +620,7 @@
         "type": "government"
       }
     ],
-    "note": "Uwaga o walucie, cenach i aktualności. Wszystkie ceny biletów wstępu TPN, taryfy parkowania, opłaty komunikacji publicznej oraz godziny otwarcia podane na morskieokolake.com pochodzą z wyżej wymienionych źródeł urzędowych i mają wyłącznie charakter ogólnych wskazówek edukacyjnych – NIE stanowią one potwierdzenia rezerwacji, faktury, oferty cenowej ani wiążącego zobowiązania. Odwiedzający musi zawsze zweryfikować aktualne ceny bezpośrednio przed podróżą. Daty wydarzeń historycznych (I rozbiór 1772, dar Zamoyskiego 1898, schronisko 1907/1908, Schengen 2007) cytowane są za NID, słownikami topograficznymi GUGiK oraz transkryptem orzeczenia Ambasadorów z 1925 roku zdeponowanym w archiwach Ligi Narodów."
+    "note": "Przed wyjazdem sprawdź aktualne ceny, godziny i dostępność u zarządcy."
   },
   "officialManagement": {
     "title": "Tatrzański Park Narodowy (TPN) – organ statutowo zarządzający",

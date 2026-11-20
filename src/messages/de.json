@@ -560,8 +560,8 @@
     }
   },
   "sources": {
-    "title": "Quellen, Referenzen & offizielle Links (E-E-A-T)",
-    "subtitle": "Jede faktische Aussage auf dieser Website wurde mit einer oder mehreren der folgenden autoritativen Primärquellen abgeglichen. Dieses Literaturverzeichnis wird bei jeder Überarbeitung gepflegt, um die vollständige Nachvollziehbarkeit geografischer, rechtlicher, historischer und preislicher Informationen zu gewährleisten.",
+    "title": "Quellen",
+    "subtitle": "Hier findest du Informationen zu Wanderwegen, Verkehr und Eintritt.",
     "items": [
       {
         "label": "Tatrzański Park Narodowy (TPN) — offizielle Parkverwaltung",
@@ -600,16 +600,18 @@
         "type": "government"
       }
     ],
-    "note": "Hinweis zu Preisen und Aktualität. Alle auf morskieokolake.com genannten TPN-Eintrittspreise, Parkgebühren, Fahrpreise des öffentlichen Verkehrs und Öffnungszeiten stammen aus den oben genannten Behördenquellen und dienen nur der allgemeinen Information — sie sind keine Buchungsbestätigung, Rechnung, Preisangebot oder verbindliche Zusage. Besucher sollten vor der Reise stets die aktuellen Preise prüfen. Die genannten Daten historischer Ereignisse (Erste Teilung 1772, Zamoyski-Schenkung 1898, Schutzhaus 1907/1908, Schengen 2007) stammen aus NID, topografischen Verzeichnissen von GUGiK und dem Schiedsspruch der Botschafterkonferenz von 1925 im Archiv des Völkerbunds."
+    "note": "Prüfe vor der Anreise die aktuellen Preise, Öffnungszeiten und Zugangsregeln."
   },
   "footer": {
+    "photoCredits": "Bildnachweise",
+    "about": "Über diesen Reiseführer",
     "brandName": "Morskie Oko · unabhängiger Besucherführer",
     "brandSubtitle": "Dolina Rybiego Potoku · Tatra-Nationalpark · Zakopane, Polen",
-    "rights": "© 2026 Unabhängiges nichtkommerzielles Tourismus-Forschungsprojekt · Alle Rechte vorbehalten.",
+    "rights": "© 2026 Morskie Oko · Alle Rechte vorbehalten.",
     "privacy": "Datenschutzerklärung",
     "terms": "Nutzungsbedingungen",
     "cookies": "Cookie-Einstellungen",
-    "officialResourcesTitle": "Offizielle Ressourcen & zuständige Behörden",
+    "officialResourcesTitle": "Offizielle Quellen",
     "officialLinks": {
       "gov": "Ministerium für Auswärtige Angelegenheiten der Republik Polen — Reise- und Konsularinfos",
       "poland_travel": "Polska Organizacja Turystyczna (Polnische Tourismusorganisation) — offizielles Reiseportal",
@@ -618,7 +620,7 @@
       "tpn": "Tatrzański Park Narodowy (TPN) — offizielle Tickets & Parkplatzsystem"
     },
     "imageCopyright": "Urheberrechts- und Bildrechtehinweis. Alle auf morskieokolake.com gezeigten Fotografien, Panoramaaufnahmen, Wahrzeichenbilder und Illustrationen bleiben geistiges Eigentum und Urheberrecht ihrer jeweiligen ursprünglichen Autoren, Fotografen und Rechteinhaber. Der Unabhängige Besucherführer Morskie Oko ist ein nichtkommerzielles Bildungs- und Informationsprojekt; jedes Bild wird hier in gutem Glauben ausschließlich für nichtgewerbliche öffentliche Tourismusbildungszwecke wiedergegeben. Falls ein Rechteinhaber Einwände gegen die Wiedergabe seines Werkes auf dieser Website erhebt, kontaktieren Sie bitte die Projektbetreuer unter der in der Datenschutzerklärung genannten Adresse – das Werk wird nach Eingang eines verifizierbaren Eigentumsnachweises umgehend entfernt oder entsprechend gekennzeichnet.",
-    "disclaimer": "Dies ist ein unabhängiges, nichtkommerzielles Informationsprojekt Dritter für Besucher. Wir sind NICHT mit der Verwaltung des Tatra-Nationalparks, der Stadt Zakopane, PTTK oder einer polnischen staatlichen Stelle verbunden. Alle offiziellen Informationen sollten auf den oben verlinkten Websites der zuständigen Behörden gegengeprüft werden."
+    "disclaimer": "Dieser unabhängige Reiseführer gehört weder zum Nationalpark noch zur Stadt Zakopane oder zum PTTK."
   },
   "officialManagement": {
     "title": "Tatra-Nationalpark (Tatrzański Park Narodowy, TPN) — zuständige Verwaltungsbehörde",
