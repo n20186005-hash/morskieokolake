@@ -1,3 +1,6 @@
+import HomeStructuredData from '@/components/HomeStructuredData';
+import GuideLinks from '@/components/GuideLinks';
+import type { Locale } from '@/i18n/routing';
 import { setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
 import Header from '@/components/Header';
@@ -52,6 +55,7 @@ export default async function HomePage({
 
   return (
     <>
+      <HomeStructuredData />
       <Header />
       <main>
         <Hero />
@@ -65,6 +69,7 @@ export default async function HomePage({
         <AmenitiesSection />
         <TransportSection />
         <RouteSection />
+        <GuideLinks locale={locale as Locale} />
         <WeatherSection />
         <Gallery />
         <Reviews />

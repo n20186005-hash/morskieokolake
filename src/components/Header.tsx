@@ -1,5 +1,7 @@
 'use client';
 
+import { labels } from '@/content/guides';
+import type { Locale } from '@/i18n/routing';
 import { useTranslations, useLocale } from 'next-intl';
 import LanguageToggle from './LanguageToggle';
 import ThemeToggle from './ThemeToggle';
@@ -48,6 +50,13 @@ export default function Header() {
               {t(section)}
             </a>
           ))}
+          <a
+            href={`/${locale}#visit-guides`}
+            className="text-sm font-medium transition-colors"
+            style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
+          >
+            {labels[locale as Locale][0]}
+          </a>
         </nav>
 
         <div className="flex items-center gap-2">

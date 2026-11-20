@@ -9,6 +9,9 @@ export const routing = defineRouting({
   },
   pathnames: {
     '/': '/',
+    '/guide/parking': '/guide/parking',
+    '/guide/tickets': '/guide/tickets',
+    '/guide/from-zakopane': '/guide/from-zakopane',
     '/privacy-policy': '/privacy-policy',
     '/terms-of-service': '/terms-of-service',
     '/cookie-settings': '/cookie-settings',
