@@ -34,9 +34,6 @@ const LOCALE_HTML_MAP: Record<string, string> = {
 const DOMAIN_NAME = 'morskieokolake.com';
 const BASE_URL = `https://${DOMAIN_NAME}`;
 const HERO_OG_IMAGE = '/gallery/morskie-oko%20(1).jpg';
-const ATTRACTION_FULL_NAME = 'Morskie Oko';
-const CITY_NAME = 'Zakopane';
-const COUNTRY_NAME = 'Poland';
 
 export async function generateMetadata({
   params,
@@ -64,7 +61,7 @@ export async function generateMetadata({
       ],
       apple: [{ url: '/apple-icon.png', sizes: '180x180' }],
     },
-    manifest: '/manifest.webmanifest',
+    manifest: locale === 'en' ? '/manifest.webmanifest' : `/manifest-${locale}.webmanifest`,
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
@@ -77,7 +74,7 @@ export async function generateMetadata({
           url: ogImageAbsolute,
           width: 1600,
           height: 900,
-          alt: `${ATTRACTION_FULL_NAME} - Main view in ${CITY_NAME}, ${COUNTRY_NAME}`,
+          alt: messages.ui.heroAlt,
         },
       ],
     },
@@ -118,7 +115,7 @@ export default async function LocaleLayout({
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
         <meta name="apple-mobile-web-app-title" content="Morskie Oko" />
-        <meta name="application-name" content="Morskie Oko Guide" />
+        <meta name="application-name" content={messages.footer.brandName} />
         <meta name="format-detection" content="telephone=no" />
         <meta name="msapplication-TileColor" content="#f6efe5" />
 

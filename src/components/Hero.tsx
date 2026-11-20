@@ -2,6 +2,7 @@ import { useTranslations } from 'next-intl';
 
 export default function Hero() {
   const t = useTranslations('hero');
+  const ui = useTranslations('ui');
 
   const mapsLink = t('mapsLink') || 'https://maps.app.goo.gl/EkjxMAqKNf9H8NCb6';
 
@@ -11,7 +12,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/morskie-oko (1).jpg"
-          alt="Morskie Oko (Zakopane, Małopolskie Voivodeship, Poland) — Main hero panoramic view of the Eye of the Sea Tatra lake at sunrise"
+          alt={ui('heroAlt')}
           className="w-full h-full object-cover"
           loading="eager"
           fetchPriority="high"
@@ -24,14 +25,14 @@ export default function Hero() {
         <div className="max-w-3xl">
           <div className="mb-2">
             <span className="inline-block px-3 py-1 rounded-full bg-white/20 backdrop-blur-md text-white text-xs font-semibold tracking-wider uppercase border border-white/30">
-              Polskie Parki Narodowe
+              {ui('nationalParks')}
             </span>
           </div>
           <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-2 animate-fade-in-up">
             {t('title')}
           </h1>
           <h2 className="text-2xl sm:text-3xl text-white/90 mb-4 animate-fade-in-up animation-delay-100 font-medium">
-            Morskie Oko Lake
+            {ui('lakeName')}
           </h2>
           <p className="text-lg sm:text-xl text-white/80 mb-8 animate-fade-in-up animation-delay-100 font-light">
             {t('subtitle')}

@@ -1,4 +1,4 @@
-import { getMessages } from 'next-intl/server';
+import { getLocale, getMessages, getTranslations } from 'next-intl/server';
 
 const DOMAIN_NAME = 'morskieokolake.com';
 const BASE_URL = `https://${DOMAIN_NAME}`;
@@ -6,12 +6,13 @@ const HERO_OG_IMAGE = '/gallery/morskie-oko%20(1).jpg';
 const ATTRACTION_FULL_NAME = 'Morskie Oko';
 const CITY_NAME = 'Zakopane';
 const STATE_PROVINCE = 'Małopolskie Voivodeship';
-const COUNTRY_NAME = 'Poland';
 const MAPS_SHARE_URL = 'https://maps.app.goo.gl/EkjxMAqKNf9H8NCb6';
 const GOVT_TOURISM_URL = 'https://www.zakopane.pl/';
 
 export default async function HomeStructuredData() {
   const messages = await getMessages();
+  const locale = await getLocale();
+  const t = await getTranslations('meta');
   const faqItems = (messages?.faq?.items || []) as Array<{ question: string; answer: string }>;
 
   const touristAttraction = {
@@ -19,8 +20,7 @@ export default async function HomeStructuredData() {
     '@type': 'TouristAttraction',
     '@id': `${BASE_URL}/#attraction`,
     name: ATTRACTION_FULL_NAME,
-    alternateName: ['Morskie Oko Lake', `${CITY_NAME} ${ATTRACTION_FULL_NAME}`, 'Eye of the Sea Tatra'],
-    description: `Comprehensive visitor guide to ${ATTRACTION_FULL_NAME} in ${CITY_NAME}, ${STATE_PROVINCE}, ${COUNTRY_NAME}.`,
+    description: t('description'),
     url: BASE_URL,
     image: [
       `${BASE_URL}${HERO_OG_IMAGE}`,
@@ -58,6 +58,7 @@ export default async function HomeStructuredData() {
   const faqPage = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
+    inLanguage: locale === 'zh' ? 'zh-CN' : locale,
     mainEntity: faqItems.map((item) => ({
       '@type': 'Question',
       name: item.question,

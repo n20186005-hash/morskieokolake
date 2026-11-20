@@ -1,4 +1,18 @@
 {
+  "ui": {
+    "language": "Switch language",
+    "theme": "Toggle theme",
+    "previousPhoto": "Previous photo",
+    "nextPhoto": "Next photo",
+    "closePhoto": "Close photo viewer",
+    "photoFallback": "Morskie Oko photo {number}",
+    "nationalParks": "Polish national parks",
+    "lakeName": "Morskie Oko Lake",
+    "heroAlt": "Panoramic view of Morskie Oko in the Tatra Mountains",
+    "mapTitle": "Map of Morskie Oko in Tatra National Park",
+    "question": "Q:",
+    "answer": "A:"
+  },
   "meta": {
     "title": "Morskie Oko Lake Guide: Tickets, Parking & Getting There",
     "description": "Plan your visit to Morskie Oko with Tatra National Park tickets, Palenica Białczańska parking, buses from Zakopane and the lakeside walking route."

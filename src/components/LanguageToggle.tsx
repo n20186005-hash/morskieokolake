@@ -1,7 +1,7 @@
 'use client';
 
 import { useParams } from 'next/navigation';
-import { useLocale } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import { usePathname, useRouter, routing, type Locale } from '@/i18n/routing';
 import { useState, useRef, useEffect, useTransition } from 'react';
 
@@ -15,6 +15,7 @@ const labels: Record<string, string> = {
 
 export default function LanguageToggle() {
   const locale = useLocale();
+  const t = useTranslations('ui');
   const pathname = usePathname();
   const router = useRouter();
   const { slug } = useParams<{ slug?: string }>();
@@ -52,14 +53,14 @@ export default function LanguageToggle() {
           background: 'var(--tag-bg)',
           color: 'var(--tag-text)',
         }}
-        aria-label="Switch language"
+        aria-label={t('language')}
       >
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="12" cy="12" r="10"/>
           <line x1="2" y1="12" x2="22" y2="12"/>
           <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
         </svg>
-        {labels[locale]}
+        <span lang={locale}>{labels[locale]}</span>
         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" className={`transition-transform ${open ? 'rotate-180' : ''}`}>
           <polyline points="6 9 12 15 18 9"/>
         </svg>
@@ -84,7 +85,7 @@ export default function LanguageToggle() {
               onMouseEnter={(e) => (e.currentTarget.style.background = 'var(--bg-tertiary)')}
               onMouseLeave={(e) => (e.currentTarget.style.background = 'transparent')}
             >
-              {labels[loc]}
+              <span lang={loc}>{labels[loc]}</span>
             </button>
           ))}
         </div>

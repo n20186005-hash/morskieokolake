@@ -1,0 +1,72 @@
+{
+  "name": "Morskie Oko · независимый путеводитель для посетителей",
+  "short_name": "Morskie Oko",
+  "description": "Морское Око в Закопане, Польша. Обновлённый путеводитель 2026 года: входные билеты в Татранский национальный парк, резервация парковки в Паленице-Бялчаньской, карта маршрута, время похода и советы по погоде.",
+  "start_url": "/ru",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6efe5",
+  "theme_color": "#f6efe5",
+  "lang": "ru",
+  "dir": "ltr",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "reference",
+    "education"
+  ],
+  "iarc_rating_id": "18+",
+  "icons": [
+    {
+      "src": "/gallery/morskie-oko%20(1).png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/gallery/morskie-oko%20(1).png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Билеты, резервация парковки и сборы (2026)",
+      "short_name": "Билеты, резервация парковки и сборы (2026)",
+      "description": "Билеты, резервация парковки и сборы (2026)",
+      "url": "/ru#tickets-parking",
+      "icons": [
+        {
+          "src": "/gallery/morskie-oko%20(1).png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Как добраться до Морского Ока: парковка, автобус, автомобиль, поезд и самолёт",
+      "short_name": "Как добраться до Морского Ока: парковка, автобус, автомобиль, поезд и самолёт",
+      "description": "Как добраться до Морского Ока: парковка, автобус, автомобиль, поезд и самолёт",
+      "url": "/ru#transport",
+      "icons": [
+        {
+          "src": "/gallery/morskie-oko%20(1).png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Карта",
+      "short_name": "Карта",
+      "description": "Карта",
+      "url": "/ru#map",
+      "icons": [
+        {
+          "src": "/gallery/morskie-oko%20(1).png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}

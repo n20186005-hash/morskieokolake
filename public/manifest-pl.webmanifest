@@ -1,0 +1,72 @@
+{
+  "name": "Morskie Oko · Niezależny przewodnik turystyczny",
+  "short_name": "Morskie Oko",
+  "description": "Zaplanuj wycieczkę nad Morskie Oko. Sprawdź bilety do TPN, rezerwację parkingu, busy z Zakopanego oraz dojście z Palenicy Białczańskiej.",
+  "start_url": "/pl",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6efe5",
+  "theme_color": "#f6efe5",
+  "lang": "pl",
+  "dir": "ltr",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "reference",
+    "education"
+  ],
+  "iarc_rating_id": "18+",
+  "icons": [
+    {
+      "src": "/gallery/morskie-oko%20(1).png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/gallery/morskie-oko%20(1).png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Bilety, rezerwacje parkingu i opłaty (2026)",
+      "short_name": "Bilety, rezerwacje parkingu i opłaty (2026)",
+      "description": "Bilety, rezerwacje parkingu i opłaty (2026)",
+      "url": "/pl#tickets-parking",
+      "icons": [
+        {
+          "src": "/gallery/morskie-oko%20(1).png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Jak dojechać do Morskiego Oka: parking, bus, samochód, pociąg i samolot",
+      "short_name": "Jak dojechać do Morskiego Oka: parking, bus, samochód, pociąg i samolot",
+      "description": "Jak dojechać do Morskiego Oka: parking, bus, samochód, pociąg i samolot",
+      "url": "/pl#transport",
+      "icons": [
+        {
+          "src": "/gallery/morskie-oko%20(1).png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Mapa",
+      "short_name": "Mapa",
+      "description": "Mapa",
+      "url": "/pl#map",
+      "icons": [
+        {
+          "src": "/gallery/morskie-oko%20(1).png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}

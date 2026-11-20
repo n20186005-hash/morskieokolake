@@ -42,7 +42,9 @@ function CookieToggle({
       <button
         onClick={locked ? undefined : onToggle}
         className={`cookie-toggle flex-shrink-0 ${enabled ? 'active' : ''} ${locked ? 'opacity-60 cursor-not-allowed' : ''}`}
-        aria-label={`Toggle ${label}`}
+        aria-label={label}
+        role="switch"
+        aria-checked={enabled}
         disabled={locked}
       />
     </div>

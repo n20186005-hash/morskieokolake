@@ -1,4 +1,4 @@
-import { setRequestLocale } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
 import CookieSettingsClient from './CookieSettingsClient';
 
@@ -16,7 +16,15 @@ export async function generateMetadata({
   const deUrl = `${baseUrl}/de/cookie-settings`;
   const selfUrl = `${baseUrl}/${locale}/cookie-settings`;
 
+  const t = await getTranslations({ locale, namespace: 'cookieSettings' });
+  const title = t('title');
+  const description = t('description');
+
   return {
+    title,
+    description,
+    openGraph: { title, description, url: selfUrl },
+    twitter: { title, description },
     alternates: {
       canonical: selfUrl,
       languages: {

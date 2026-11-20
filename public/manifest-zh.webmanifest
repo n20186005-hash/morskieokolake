@@ -1,0 +1,72 @@
+{
+  "name": "Morskie Oko · 独立游客指南",
+  "short_name": "Morskie Oko",
+  "description": "波兰扎科帕内塔特拉山脉海洋之眼（Morskie Oko）2026 年最新旅行指南：塔特拉国家公园门票价格、Palenica Białczańska 停车在线预约、徒步地图、路线耗时与天气预报。",
+  "start_url": "/zh",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6efe5",
+  "theme_color": "#f6efe5",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "reference",
+    "education"
+  ],
+  "iarc_rating_id": "18+",
+  "icons": [
+    {
+      "src": "/gallery/morskie-oko%20(1).png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/gallery/morskie-oko%20(1).png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "门票、停车预约与费用一览 (2026)",
+      "short_name": "门票、停车预约与费用一览 (2026)",
+      "description": "门票、停车预约与费用一览 (2026)",
+      "url": "/zh#tickets-parking",
+      "icons": [
+        {
+          "src": "/gallery/morskie-oko%20(1).png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "交通全攻略：停车、公交、自驾、火车与航空",
+      "short_name": "交通全攻略：停车、公交、自驾、火车与航空",
+      "description": "交通全攻略：停车、公交、自驾、火车与航空",
+      "url": "/zh#transport",
+      "icons": [
+        {
+          "src": "/gallery/morskie-oko%20(1).png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "地图定位",
+      "short_name": "地图定位",
+      "description": "地图定位",
+      "url": "/zh#map",
+      "icons": [
+        {
+          "src": "/gallery/morskie-oko%20(1).png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}

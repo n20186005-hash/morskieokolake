@@ -1,4 +1,18 @@
 {
+  "ui": {
+    "language": "Sprache wechseln",
+    "theme": "Farbschema wechseln",
+    "previousPhoto": "Vorheriges Foto",
+    "nextPhoto": "Nächstes Foto",
+    "closePhoto": "Fotoansicht schließen",
+    "photoFallback": "Morskie Oko, Foto {number}",
+    "nationalParks": "Polnische Nationalparks",
+    "lakeName": "Bergsee Morskie Oko",
+    "heroAlt": "Panoramablick auf das Morskie Oko in der Tatra",
+    "mapTitle": "Karte des Morskie Oko im Tatra-Nationalpark",
+    "question": "Frage:",
+    "answer": "Antwort:"
+  },
   "meta": {
     "title": "Morskie Oko — Reiseführer 2026: Tickets, Wanderung, Karte & Parken",
     "description": "Morskie Oko in Zakopane, Polen. Aktualisierter Reiseführer 2026: Eintrittspreise des Tatra-Nationalparks, Parkplatz-Reservierung Palenica Białczańska, Wegekarte, Gehzeiten & Wettertipps."
@@ -620,7 +634,7 @@
       },
       {
         "heading": "Verwendung von Cookies",
-        "content": "Wir verwenden ausschliesslich Erstanbieter-Cookies, um Ihr Theme (hell/dunkel), Ihre Sprachpräferenz und den Cookie-Einwilligungsstatus zu speichern. Wir setzen auf dieser Domain KEINE Drittanbieter-Marketing-, Cross-Site-Tracking- oder Social-Media-Pixel-Cookies. Analysen sind, sofern aktiviert, cookieless und datenschutzkonform. Sie können Ihre Einstellungen jederzeit über die Option „Cookie-Einstellungen“ am Ende jeder Seite anpassen."
+        "content": "Wir verwenden ausschliesslich Erstanbieter-Cookies, um Ihr Farbschema (hell/dunkel), Ihre Sprachpräferenz und den Cookie-Einwilligungsstatus zu speichern. Wir setzen auf dieser Domain KEINE Drittanbieter-Marketing-, Cross-Site-Tracking- oder Social-Media-Pixel-Cookies. Analysen sind, sofern aktiviert, cookieless und datenschutzkonform. Sie können Ihre Einstellungen jederzeit über die Option „Cookie-Einstellungen“ am Ende jeder Seite anpassen."
       },
       {
         "heading": "Datensicherheit und -schutz",
@@ -651,12 +665,12 @@
     "description": "Verwalten Sie Ihre Cookie-Einstellungen für diesen unabhängigen Besucherführer. Auf Ihrem Gerät werden nur die Kategorien gesetzt, in die Sie ausdrücklich einwilligen.",
     "essential": {
       "title": "Notwendige / unbedingt erforderliche Cookies",
-      "description": "Erforderlich für die grundlegende Funktionalität der Website: Sprachauswahl, helles/dunkles Theme und Speicherung des Einwilligungsstatus. Können nicht deaktiviert werden — die Website würde ohne sie nicht funktionieren.",
+      "description": "Erforderlich für die grundlegende Funktionalität der Website: Sprachauswahl, helles/dunkles Farbschema und Speicherung des Einwilligungsstatus. Können nicht deaktiviert werden — die Website würde ohne sie nicht funktionieren.",
       "badge": "Immer aktiv"
     },
     "analytics": {
       "title": "Datenschutzkonforme Analytik",
-      "description": "Cookieless, aggregierte und anonymisierte statistische Daten, die ausschliesslich von den Projektbetreuern verwendet werden, um zu verstehen, welche Führerabschnitte für Besucher am nützlichsten sind. Es werden niemals persönliche Identifikatoren erfasst. Nur mit Opt-in."
+      "description": "Ohne Cookies erhobene, aggregierte und anonymisierte statistische Daten, die ausschliesslich von den Projektbetreuern verwendet werden, um zu verstehen, welche Führerabschnitte für Besucher am nützlichsten sind. Es werden niemals persönliche Identifikatoren erfasst. Nur nach ausdrücklicher Einwilligung."
     },
     "marketing": {
       "title": "Marketing- & Drittanbieter-Tracking",

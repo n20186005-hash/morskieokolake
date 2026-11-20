@@ -8,7 +8,7 @@ type Guide = { title: string; summary: string; sections: [string, string][] };
 
 export const labels = {
   en: ['Plan your Morskie Oko visit', 'Morskie Oko home', 'Official information', 'Map'],
-  zh: ['规划海洋之眼行程', '海洋之眼首页', '官方资讯', '地图'],
+  zh: ['规划海洋之眼行程', '海洋之眼首页', '官方信息', '地图'],
   pl: ['Zaplanuj wizytę nad Morskim Okiem', 'Strona główna Morskiego Oka', 'Informacje oficjalne', 'Mapa'],
   ru: ['Планирование поездки к Морскому Оку', 'Главная страница', 'Официальная информация', 'Карта'],
   de: ['Besuch am Morskie Oko planen', 'Startseite', 'Offizielle Informationen', 'Karte'],

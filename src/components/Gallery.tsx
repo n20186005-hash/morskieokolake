@@ -3,39 +3,39 @@
 import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
-const BASE_ALT_PREFIX = 'Morskie Oko, Zakopane —';
 const photos = [
-  { src: '/gallery/morskie-oko (1).jpg', alt: `${BASE_ALT_PREFIX} Hero panoramic vista of the Eye of the Sea lake at golden hour, Tatra National Park, Małopolskie Voivodeship, Poland` },
-  { src: '/gallery/morskie-oko (2).jpg', alt: `${BASE_ALT_PREFIX} Classic south-facing shore view towards Rysy peak and the Slovak border ridge` },
-  { src: '/gallery/morskie-oko (3).jpg', alt: `${BASE_ALT_PREFIX} PTTK mountain shelter and main pier on the northern shore` },
-  { src: '/gallery/morskie-oko (4).jpg', alt: `${BASE_ALT_PREFIX} Dolina Rybiego Potoku valley approach trail from Palenica Białczańska` },
-  { src: '/gallery/morskie-oko (5).jpg', alt: `${BASE_ALT_PREFIX} Włosienica checkpoint and horse-carriage terminus` },
-  { src: '/gallery/morskie-oko (6).jpg', alt: `${BASE_ALT_PREFIX} Wodogrzmoty Mickiewicza waterfall viewpoint` },
-  { src: '/gallery/morskie-oko (7).jpg', alt: `${BASE_ALT_PREFIX} Winter snowscape with frozen lake surface and snowshoe trail` },
-  { src: '/gallery/morskie-oko (8).jpg', alt: `${BASE_ALT_PREFIX} Autumn October foliage along Rybiego Potoku stream` },
-  { src: '/gallery/morskie-oko (9).jpg', alt: `${BASE_ALT_PREFIX} Summer morning mist reflection in still lake water` },
-  { src: '/gallery/morskie-oko (10).jpg', alt: `${BASE_ALT_PREFIX} Hikers on marked red trail ascending towards Czarny Staw pod Rysami` },
-  { src: '/gallery/morskie-oko (11).jpg', alt: `${BASE_ALT_PREFIX} Goral licensed horse-drawn carriage on Palenica–Włosienica access road` },
-  { src: '/gallery/morskie-oko (12).jpg', alt: `${BASE_ALT_PREFIX} Tatra chamois (Rupicapra rupicapra tatrica) near the rocky shoreline` },
-  { src: '/gallery/morskie-oko (13).jpg', alt: `${BASE_ALT_PREFIX} Evening long-exposure starscape over Morskie Oko cirque` },
-  { src: '/gallery/morskie-oko (14).jpg', alt: `${BASE_ALT_PREFIX} Spring thaw meltwater runoff at Rybiego Potoku tributary mouth` },
-  { src: '/gallery/morskie-oko (15).jpg', alt: `${BASE_ALT_PREFIX} Traditional Oscypek smoked sheep-cheese vendor at Włosienica` },
-  { src: '/gallery/morskie-oko (16).jpg', alt: `${BASE_ALT_PREFIX} Zakopane Krupówki pedestrian street panorama before the Tatra skyline` },
-  { src: '/gallery/morskie-oko (17).jpg', alt: `${BASE_ALT_PREFIX} Palenica Białczańska TPN car park and official booking entrance` },
-  { src: '/gallery/morskie-oko (18).jpg', alt: `${BASE_ALT_PREFIX} Łysa Polana border crossing and alternative trailhead view` },
+  '/gallery/morskie-oko (1).jpg',
+  '/gallery/morskie-oko (2).jpg',
+  '/gallery/morskie-oko (3).jpg',
+  '/gallery/morskie-oko (4).jpg',
+  '/gallery/morskie-oko (5).jpg',
+  '/gallery/morskie-oko (6).jpg',
+  '/gallery/morskie-oko (7).jpg',
+  '/gallery/morskie-oko (8).jpg',
+  '/gallery/morskie-oko (9).jpg',
+  '/gallery/morskie-oko (10).jpg',
+  '/gallery/morskie-oko (11).jpg',
+  '/gallery/morskie-oko (12).jpg',
+  '/gallery/morskie-oko (13).jpg',
+  '/gallery/morskie-oko (14).jpg',
+  '/gallery/morskie-oko (15).jpg',
+  '/gallery/morskie-oko (16).jpg',
+  '/gallery/morskie-oko (17).jpg',
+  '/gallery/morskie-oko (18).jpg',
 ];
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const ui = useTranslations('ui');
   const messages = useMessages() as any;
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [showAll, setShowAll] = useState(false);
   const captions = (messages?.gallery?.captions || []) as string[];
 
-  const galleryPhotos = photos.map((photo, i) => ({
-    ...photo,
-    alt: captions[i] || photo.alt,
+  const galleryPhotos = photos.map((src, i) => ({
+    src,
+    alt: captions[i] || ui('photoFallback', { number: i + 1 }),
   }));
 
   const goToPrevious = useCallback(() => {
@@ -96,7 +96,7 @@ export default function Gallery() {
                 <button
                   onClick={goToPrevious}
                   className="absolute left-2 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/80 hover:bg-white rounded-full shadow-lg flex items-center justify-center transition-colors"
-                  aria-label="Previous photo"
+                  aria-label={ui('previousPhoto')}
                 >
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <polyline points="15 18 9 12 15 6" />
@@ -105,7 +105,7 @@ export default function Gallery() {
                 <button
                   onClick={goToNext}
                   className="absolute right-2 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/80 hover:bg-white rounded-full shadow-lg flex items-center justify-center transition-colors"
-                  aria-label="Next photo"
+                  aria-label={ui('nextPhoto')}
                 >
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <polyline points="9 18 15 12 9 6" />
@@ -121,7 +121,7 @@ export default function Gallery() {
                   className="text-sm hover:underline font-medium"
                   style={{ color: 'var(--accent)' }}
                 >
-                  {t('showAll') || `View All ${galleryPhotos.length} Photos`}
+                  {t('showAll')}
                 </button>
               )}
               {showAll && (
@@ -130,7 +130,7 @@ export default function Gallery() {
                   className="text-sm hover:underline font-medium"
                   style={{ color: 'var(--accent)' }}
                 >
-                  {t('showLess') || 'Show Less'}
+                  {t('showLess')}
                 </button>
               )}
               <a
@@ -155,7 +155,7 @@ export default function Gallery() {
           <button
             onClick={closeLightbox}
             className="absolute top-4 right-4 w-10 h-10 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
-            aria-label="Close lightbox"
+            aria-label={ui('closePhoto')}
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
               <line x1="18" y1="6" x2="6" y2="18" />
@@ -166,7 +166,7 @@ export default function Gallery() {
           <button
             onClick={(e) => { e.stopPropagation(); goToPrevious(); }}
             className="absolute left-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
-            aria-label="Previous photo"
+            aria-label={ui('previousPhoto')}
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
               <polyline points="15 18 9 12 15 6" />
@@ -183,7 +183,7 @@ export default function Gallery() {
           <button
             onClick={(e) => { e.stopPropagation(); goToNext(); }}
             className="absolute right-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
-            aria-label="Next photo"
+            aria-label={ui('nextPhoto')}
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
               <polyline points="9 18 15 12 9 6" />

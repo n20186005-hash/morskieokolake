@@ -1,5 +1,5 @@
 /* Morskie Oko — Independent Visitor Guide · Service Worker */
-const CACHE_NAME = 'morskie-oko-v1';
+const CACHE_NAME = 'morskie-oko-v2';
 
 self.addEventListener('install', (event) => {
   self.skipWaiting();
@@ -42,10 +42,10 @@ self.addEventListener('fetch', (event) => {
           return response;
         })
         .catch(() => {
-          // Offline navigation fallback — serve the default English page.
-          if (request.mode === 'navigate') {
-            return caches.match('/en');
-          }
+          if (request.mode !== 'navigate') return Response.error();
+          const locale = new URL(request.url).pathname.split('/')[1];
+          if (!['en', 'zh', 'pl', 'ru', 'de'].includes(locale)) return Response.error();
+          return caches.match('/' + locale).then((home) => home ?? Response.error());
         });
     })
   );

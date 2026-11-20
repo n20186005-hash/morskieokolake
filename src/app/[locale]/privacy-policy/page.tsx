@@ -1,4 +1,4 @@
-import { setRequestLocale } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
 
@@ -16,7 +16,15 @@ export async function generateMetadata({
   const deUrl = `${baseUrl}/de/privacy-policy`;
   const selfUrl = `${baseUrl}/${locale}/privacy-policy`;
 
+  const t = await getTranslations({ locale, namespace: 'privacy' });
+  const title = t('title');
+  const description = title;
+
   return {
+    title,
+    description,
+    openGraph: { title, description, url: selfUrl },
+    twitter: { title, description },
     alternates: {
       canonical: selfUrl,
       languages: {

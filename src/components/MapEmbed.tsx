@@ -13,6 +13,7 @@ const MAPS_EMBED_SRC_BASE =
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
+  const ui = useTranslations('ui');
   const messages = useMessages() as any;
   const locale = useLocale();
   const mapsLink =
@@ -67,7 +68,7 @@ export default function MapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="strict-origin-when-cross-origin"
-            title="Google Maps – Morskie Oko, Dolina Rybiego Potoku, 34-500 Zakopane, Małopolskie Voivodeship, Poland (Tatra National Park)"
+            title={ui('mapTitle')}
           />
         </div>
 

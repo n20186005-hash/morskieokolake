@@ -1,4 +1,18 @@
 {
+  "ui": {
+    "language": "Zmień język",
+    "theme": "Zmień motyw",
+    "previousPhoto": "Poprzednie zdjęcie",
+    "nextPhoto": "Następne zdjęcie",
+    "closePhoto": "Zamknij podgląd zdjęcia",
+    "photoFallback": "Morskie Oko, zdjęcie {number}",
+    "nationalParks": "Polskie parki narodowe",
+    "lakeName": "Jezioro Morskie Oko",
+    "heroAlt": "Panorama Morskiego Oka w Tatrach",
+    "mapTitle": "Mapa Morskiego Oka w Tatrzańskim Parku Narodowym",
+    "question": "P:",
+    "answer": "O:"
+  },
   "meta": {
     "title": "Morskie Oko – bilety, parking, dojazd i szlak",
     "description": "Zaplanuj wycieczkę nad Morskie Oko. Sprawdź bilety do TPN, rezerwację parkingu, busy z Zakopanego oraz dojście z Palenicy Białczańskiej."

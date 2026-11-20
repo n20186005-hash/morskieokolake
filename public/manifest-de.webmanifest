@@ -1,0 +1,72 @@
+{
+  "name": "Morskie Oko · unabhängiger Besucherführer",
+  "short_name": "Morskie Oko",
+  "description": "Morskie Oko in Zakopane, Polen. Aktualisierter Reiseführer 2026: Eintrittspreise des Tatra-Nationalparks, Parkplatz-Reservierung Palenica Białczańska, Wegekarte, Gehzeiten & Wettertipps.",
+  "start_url": "/de",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6efe5",
+  "theme_color": "#f6efe5",
+  "lang": "de",
+  "dir": "ltr",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "reference",
+    "education"
+  ],
+  "iarc_rating_id": "18+",
+  "icons": [
+    {
+      "src": "/gallery/morskie-oko%20(1).png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/gallery/morskie-oko%20(1).png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Tickets, Parkplatzreservierung & Gebühren (2026)",
+      "short_name": "Tickets, Parkplatzreservierung & Gebühren (2026)",
+      "description": "Tickets, Parkplatzreservierung & Gebühren (2026)",
+      "url": "/de#tickets-parking",
+      "icons": [
+        {
+          "src": "/gallery/morskie-oko%20(1).png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Anreise zum Morskie Oko: Parken, Bus, Auto, Zug & Flugzeug",
+      "short_name": "Anreise zum Morskie Oko: Parken, Bus, Auto, Zug & Flugzeug",
+      "description": "Anreise zum Morskie Oko: Parken, Bus, Auto, Zug & Flugzeug",
+      "url": "/de#transport",
+      "icons": [
+        {
+          "src": "/gallery/morskie-oko%20(1).png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Karte",
+      "short_name": "Karte",
+      "description": "Karte",
+      "url": "/de#map",
+      "icons": [
+        {
+          "src": "/gallery/morskie-oko%20(1).png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}

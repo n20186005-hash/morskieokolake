@@ -50,6 +50,7 @@ export default async function ExplorePage({ params }: Params) {
   const v = visitLabels[locale];
   const visit = visitDetails(place, locale);
   const destination = attractionMap(place);
+  const country = new Intl.DisplayNames(locale, { type: "region" }).of("PL");
 
   return (
     <>
@@ -155,7 +156,7 @@ export default async function ExplorePage({ params }: Params) {
           </section>
           <section>
             <h2 className="font-display mb-2 text-2xl font-semibold">{v.directions}</h2>
-            <p>{place.name} · {place.area} · Polska</p>
+            <p>{place.name} · {place.area} · {country}</p>
             <p>{t.approach} · {place.entry}</p>
             <a className="mt-2 inline-block underline" href={destination}>{t.map} · {place.name}</a>
           </section>

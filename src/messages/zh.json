@@ -1,4 +1,18 @@
 {
+  "ui": {
+    "language": "切换语言",
+    "theme": "切换主题",
+    "previousPhoto": "上一张照片",
+    "nextPhoto": "下一张照片",
+    "closePhoto": "关闭照片查看器",
+    "photoFallback": "海洋之眼照片 {number}",
+    "nationalParks": "波兰国家公园",
+    "lakeName": "海洋之眼湖",
+    "heroAlt": "塔特拉山脉中的海洋之眼湖全景",
+    "mapTitle": "塔特拉国家公园内的海洋之眼地图",
+    "question": "问：",
+    "answer": "答："
+  },
   "meta": {
     "title": "海洋之眼 Morskie Oko 2026 完全指南：门票、停车、徒步路线与地图",
     "description": "波兰扎科帕内塔特拉山脉海洋之眼（Morskie Oko）2026 年最新旅行指南：塔特拉国家公园门票价格、Palenica Białczańska 停车在线预约、徒步地图、路线耗时与天气预报。"

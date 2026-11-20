@@ -3,9 +3,7 @@ import { useTranslations, useLocale } from 'next-intl';
 export default function Footer() {
   const t = useTranslations('footer');
   const locale = useLocale();
-  const prefix = locale === 'en' ? '' : `/${locale}`;
-
-  const officialLinks = t.raw('officialLinks') || {};
+  const prefix = `/${locale}`;
 
   return (
     <footer
@@ -28,19 +26,19 @@ export default function Footer() {
             </h3>
             <div className="flex flex-col gap-2">
               <a href="https://www.gov.pl/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.gov || 'Ministry of Foreign Affairs Republic of Poland'}
+                {t('officialLinks.gov')}
               </a>
               <a href="https://www.poland.travel/en/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.poland_travel || 'Polish Tourism Organisation'}
+                {t('officialLinks.poland_travel')}
               </a>
               <a href="https://visitmalopolska.pl/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.visitmalopolska || 'Małopolska Tourist Portal - Tatra Mountains & Morskie Oko'}
+                {t('officialLinks.visitmalopolska')}
               </a>
               <a href="https://www.zakopane.pl/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.zakopane || 'Zakopane City Hall'}
+                {t('officialLinks.zakopane')}
               </a>
               <a href="https://tpn.gov.pl/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.tpn || 'Tatra National Park'}
+                {t('officialLinks.tpn')}
               </a>
             </div>
           </div>
