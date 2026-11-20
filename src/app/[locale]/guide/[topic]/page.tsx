@@ -41,7 +41,12 @@ export default async function GuidePage({ params }: Params) {
   const { locale, topic, guide } = await readGuide(params);
   setRequestLocale(locale);
   const [related, home, official, map] = labels[locale];
-  const places = topic === 'parking' ? ['Palenica Białczańska', 'Łysa Polana'] : ['Palenica Białczańska'];
+  const places = {
+    parking: ['Palenica Białczańska', 'Łysa Polana'],
+    tickets: ['Palenica Białczańska'],
+    'from-zakopane': ['Dworzec Autobusowy Zakopane', 'Palenica Białczańska'],
+  }[topic];
+  const primarySource = sources[topic][0];
   return (
     <>
       <Header />
@@ -62,6 +67,9 @@ export default async function GuidePage({ params }: Params) {
                 </li>
               ))}
             </ul>
+            <a href={primarySource} className="mt-5 inline-block rounded-lg border border-white/60 px-4 py-2 hover:bg-white/15">
+              {sourceLabels[primarySource]}
+            </a>
           </div>
         </div>
         <article className="mx-auto max-w-5xl space-y-8 px-4 py-10 sm:px-6">

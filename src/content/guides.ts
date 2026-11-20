@@ -13,18 +13,23 @@ export const labels = {
 } satisfies Record<Locale, string[]>;
 
 const parking = 'https://tpn.gov.pl/parkingi-morskie-oko';
-const tickets = 'https://tpn.gov.pl/bilety';
+const tickets = 'https://tpn.gov.pl/wstep-do-parku';
+const station = 'https://www.zakopane.pl/zawartosc/informator-turystyczny/nowe-rozklady-jazdy/';
+const operator = 'https://morskieokorozkladjazdy.pl/';
+const electric = 'https://tpn.gov.pl/e-busy-do-morskiego-oka';
 const conditions = 'https://tpn.gov.pl/komunikat-turystyczny';
 export const sources: Record<Topic, string[]> = {
   parking: [parking, conditions],
   tickets: [tickets, parking, conditions],
-  'from-zakopane': ['https://www.zakopane.pl/', conditions, parking],
+  'from-zakopane': [station, operator, electric, conditions, parking],
 };
 export const sourceLabels: Record<string, string> = {
   [parking]: 'TPN · Parkingi Morskie Oko',
   [tickets]: 'TPN · Bilety',
   [conditions]: 'TPN · Komunikat turystyczny',
-  'https://www.zakopane.pl/': 'Zakopane',
+  [station]: 'Zakopane · Dworzec autobusowy',
+  [operator]: 'TransBus · Zakopane ↔ Palenica Białczańska',
+  [electric]: 'TPN · E-busy do Morskiego Oka',
 };
 
 export const guides = {
@@ -51,7 +56,8 @@ export const guides = {
       title: 'Zakopane to Morskie Oko by bus or car',
       summary: 'Plan the journey to Palenica Białczańska, the walk to Morskie Oko and the return to Zakopane.',
       sections: [
-        ['Bus from Zakopane', 'Check services toward Palenica Białczańska or Łysa Polana. Confirm where the bus stops, the return stop and the last service for your date before you leave Zakopane.'],
+        ['Bus from Zakopane', 'At Zakopane bus station (Dworzec Autobusowy), look for Palenica Białczańska on the city departure board. Confirm the platform and date with the operator. For the return, check the Palenica → Zakopane timetable before heading up and allow time to walk back to the stop.'],
+        ['Electric shuttle to Włosienica', 'The national park runs a separate electric shuttle service. Use the TPN timetable and booking page to check available departure points and return journeys for your date. From Włosienica the last stretch to the lake is on foot.'],
         ['Driving to the trailhead', 'Book trailhead parking through Tatra National Park and navigate to the Palenica Białczańska area and follow staff directions on arrival.'],
         ['Walking from Palenica', 'Follow the marked route past Wodogrzmoty Mickiewicza and Włosienica toward the lakeside shelter. Allow time to return to the same trailhead and check the park’s current trail notices before leaving.'],
       ],
@@ -80,7 +86,8 @@ export const guides = {
       title: '从扎科帕内到海洋之眼：巴士、自驾与步行',
       summary: '规划到 Palenica Białczańska 步道入口的交通、湖边徒步和当天返程。',
       sections: [
-        ['从扎科帕内乘车', '查找前往 Palenica Białczańska 或 Łysa Polana 的班车，出发前确认实际下车点、返程站点和当天末班时间。'],
+        ['从扎科帕内乘车', '在扎科帕内巴士总站（Dworzec Autobusowy）查找开往 Palenica Białczańska 的班车，向运营方确认当天站台。上山前先查 Palenica 返回扎科帕内的时刻表，并留足步行回站的时间。'],
+        ['国家公园电动接驳车', '这是塔特拉国家公园的另一项服务。请在公园页面查当天可订班次、上车地点和返程。到 Włosienica 后仍需步行到湖边。'],
         ['自驾到步道入口', '通过塔特拉国家公园预约停车，导航至 Palenica Białczańska 附近，到场后按工作人员指引停车。'],
         ['从 Palenica 步行到湖边', '沿标识步道，经米茨凯维奇瀑布和 Włosienica 到湖畔山屋。预留原路返程的时间，出发前查看国家公园步道公告。'],
       ],
@@ -88,7 +95,7 @@ export const guides = {
   },
   pl: {
     parking: {
-      title: 'Parking Morskie Oko: Palenica Białczańska i Łysa Polana',
+      title: 'Parking Morskie Oko: rezerwacja, Palenica Białczańska i Łysa Polana',
       summary: 'Wybierz parking, zarezerwuj miejsce w systemie TPN i zaplanuj dojście nad jezioro.',
       sections: [
         ['Gdzie zaparkować', 'Palenica Białczańska to typowy początek trasy nad Morskie Oko. Łysa Polana to drugi parking w tej samej okolicy. Obsługa kieruje auta kolejno na Palenicę, pas drogowy i Łysą Polanę. Z Łysej Polany dojście do wejścia zajmuje dodatkowe 15–20 minut.'],
@@ -106,10 +113,11 @@ export const guides = {
       ],
     },
     'from-zakopane': {
-      title: 'Z Zakopanego nad Morskie Oko: bus, samochód i dojście',
+      title: 'Busy na Morskie Oko z Zakopanego: przystanki, powrót i dojazd autem',
       summary: 'Zaplanuj dojazd do Palenicy Białczańskiej, przejście nad jezioro i powrót do Zakopanego.',
       sections: [
-        ['Busem z Zakopanego', 'Sprawdź kursy w stronę Palenicy Białczańskiej lub Łysej Polany. Ustal miejsce wysiadania, przystanek powrotny i godzinę ostatniego kursu w dniu wycieczki.'],
+        ['Busem z Zakopanego', 'Na dworcu autobusowym w Zakopanem szukaj kierunku Palenica Białczańska. Sprawdź stanowisko i datę kursu u przewoźnika. Przed wejściem na szlak sprawdź ostatni powrót z Palenicy i zostaw zapas czasu na dojście do przystanku.'],
+        ['E-busy TPN do Włosienicy', 'Park prowadzi osobne przewozy elektryczne. W rozkładzie TPN sprawdź dostępne przystanki i kursy powrotne w dniu wycieczki. Od Włosienicy do jeziora dojdziesz pieszo.'],
         ['Samochodem', 'Zarezerwuj parking w systemie TPN. Jedź w rejon Palenicy Białczańskiej i stosuj się do wskazówek obsługi.'],
         ['Pieszo z Palenicy', 'Kieruj się oznakowanym szlakiem przez Wodogrzmoty Mickiewicza i Włosienicę do schroniska nad jeziorem. Przed wyjściem sprawdź komunikat TPN i uwzględnij czas na powrót.'],
       ],
@@ -138,7 +146,8 @@ export const guides = {
       title: 'Из Закопане к Морскому Оку: автобус, машина и пеший маршрут',
       summary: 'Спланируйте поездку до Паленицы-Бялчанской, прогулку к озеру и возвращение в Закопане.',
       sections: [
-        ['На автобусе из Закопане', 'Ищите рейсы в направлении Паленицы-Бялчанской или Лысой-Поляны. Уточните остановку прибытия, место посадки на обратный рейс и время последнего автобуса на нужную дату.'],
+        ['На автобусе из Закопане', 'На автовокзале Закопане ищите направление Паленица-Бялчанская. Уточните у перевозчика платформу и дату рейса. До выхода на тропу посмотрите последний обратный рейс из Паленицы и оставьте время на дорогу к остановке.'],
+        ['Электробус до Влосеницы', 'Национальный парк организует отдельные рейсы электробусов. На сайте парка проверьте доступные остановки и обратные рейсы на нужную дату. От Влосеницы до озера нужно идти пешком.'],
         ['На автомобиле', 'Забронируйте стоянку через национальный парк и направляйтесь к Паленице-Бялчанской. На месте следуйте указаниям сотрудников парковки.'],
         ['Пешком от Паленицы', 'Идите по размеченной тропе мимо водопадов Мицкевича и поляны Влосеница к приюту у озера. Проверьте сообщения парка о маршруте и оставьте время на возвращение.'],
       ],
@@ -167,7 +176,8 @@ export const guides = {
       title: 'Von Zakopane zum Morskie Oko: Bus, Auto und Wanderung',
       summary: 'Plane die Anfahrt nach Palenica Białczańska, den Fußweg zum See und die Rückfahrt.',
       sections: [
-        ['Mit dem Bus ab Zakopane', 'Suche Verbindungen Richtung Palenica Białczańska oder Łysa Polana. Prüfe den Ausstieg, die Haltestelle für die Rückfahrt und die letzte Verbindung für deinen Ausflugstag.'],
+        ['Mit dem Bus ab Zakopane', 'Suche am Busbahnhof Zakopane (Dworzec Autobusowy) nach der Richtung Palenica Białczańska. Prüfe beim Betreiber den Bussteig und das Datum. Sieh vor der Wanderung nach der letzten Rückfahrt ab Palenica und plane Zeit für den Fußweg zur Haltestelle ein.'],
+        ['Elektroshuttle nach Włosienica', 'Der Nationalpark betreibt einen eigenen Elektroshuttle. Prüfe auf der TPN-Seite die verfügbaren Haltestellen und Rückfahrten für deinen Besuchstag. Von Włosienica geht es zu Fuß weiter zum See.'],
         ['Mit dem Auto', 'Reserviere einen Parkplatz über den Nationalpark. Fahre in Richtung Palenica Białczańska und halte dich vor Ort an die Anweisungen des Personals.'],
         ['Zu Fuß ab Palenica', 'Folge dem markierten Weg an den Mickiewicz-Wasserfällen und Włosienica vorbei zur Hütte am See. Prüfe die Wegehinweise des Parks und rechne genügend Zeit für den Rückweg ein.'],
       ],
