@@ -1,3 +1,4 @@
+import ExploreLinks from '@/components/ExploreLinks';
 import HomeStructuredData from '@/components/HomeStructuredData';
 import GuideLinks from '@/components/GuideLinks';
 import type { Locale } from '@/i18n/routing';
@@ -71,6 +72,7 @@ export default async function HomePage({
         <RouteSection />
         <GuideLinks locale={locale as Locale} />
         <GuideLinks locale={locale as Locale} nearby />
+        <ExploreLinks locale={locale as Locale} />
         <WeatherSection />
         <Gallery />
         <Reviews />

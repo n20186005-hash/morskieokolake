@@ -14,6 +14,7 @@ export const routing = defineRouting({
     '/guide/from-zakopane': '/guide/from-zakopane',
     '/guide/mickiewicz-waterfalls': '/guide/mickiewicz-waterfalls',
     '/guide/wlosienica': '/guide/wlosienica',
+    '/explore/[slug]': '/explore/[slug]',
     '/privacy-policy': '/privacy-policy',
     '/terms-of-service': '/terms-of-service',
     '/cookie-settings': '/cookie-settings',

@@ -1,5 +1,6 @@
 'use client';
 
+import { useParams } from 'next/navigation';
 import { useLocale } from 'next-intl';
 import { usePathname, useRouter, routing, type Locale } from '@/i18n/routing';
 import { useState, useRef, useEffect, useTransition } from 'react';
@@ -16,13 +17,18 @@ export default function LanguageToggle() {
   const locale = useLocale();
   const pathname = usePathname();
   const router = useRouter();
+  const { slug } = useParams<{ slug?: string }>();
   const [isPending, startTransition] = useTransition();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
 
   const handleLocaleChange = (loc: string) => {
     startTransition(() => {
-      router.replace(pathname, { locale: loc as Locale });
+      if (pathname === '/explore/[slug]' && slug) {
+        router.replace({ pathname, params: { slug } }, { locale: loc as Locale });
+      } else if (pathname !== '/explore/[slug]') {
+        router.replace(pathname, { locale: loc as Locale });
+      }
     });
     setOpen(false);
   };

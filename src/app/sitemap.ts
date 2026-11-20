@@ -1,3 +1,4 @@
+import { attractions } from '@/content/explore';
 import { topics } from '@/content/guides';
 import { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
@@ -15,6 +16,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/terms-of-service',
     '/cookie-settings',
     ...topics.map((topic) => `/guide/${topic}`),
+    ...attractions.map(({ slug }) => `/explore/${slug}`),
   ];
 
   for (const locale of routing.locales) {
@@ -28,7 +30,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       }
       entries.push({
         url,
-        lastModified: page.startsWith('/guide/') ? new Date('2026-11-20') : lastModified,
+        lastModified: page.startsWith('/guide/') || page.startsWith('/explore/') ? new Date('2026-11-20') : lastModified,
         changeFrequency: page === '' ? 'weekly' : 'monthly',
         priority: page === '' ? 1 : 0.4,
         alternates: { languages },

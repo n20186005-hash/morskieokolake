@@ -1,0 +1,570 @@
+[
+  {
+    "slug": "czarny-staw-rysy",
+    "name": "Czarny Staw pod Rysami",
+    "entry": "Morskie Oko",
+    "wiki": "https://pl.wikipedia.org/wiki/Czarny_Staw_pod_Rysami",
+    "area": "Morskie Oko · Dolina Roztoki",
+    "credit": "https://commons.wikimedia.org/wiki/File:Czarny_Staw_pod_Rysami_06.JPG",
+    "copy": {
+      "en": "The cirque walls frame the upper lake, with a view back down to Morskie Oko.",
+      "zh": "湖盆被陡壁围合，湖岸可回望下方的海洋之眼。",
+      "pl": "Znad Morskiego Oka podejdź do górnego jeziora. Z jego brzegu widać ściany kotła i niżej położone Morskie Oko.",
+      "ru": "От Морского Ока поднимитесь к верхнему озеру: с берега видны стены ледниковой чаши и нижнее озеро.",
+      "de": "Steige vom Morskie Oko zum oberen See auf. Am Ufer blickst du auf die Karwände und den tiefer liegenden See."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "roztoka-valley",
+    "name": "Dolina Roztoki",
+    "entry": "Wodogrzmoty Mickiewicza",
+    "wiki": "https://pl.wikipedia.org/wiki/Dolina_Roztoki",
+    "area": "Morskie Oko · Dolina Roztoki",
+    "credit": "https://commons.wikimedia.org/wiki/File:Dolina_Roztoki_a3.jpg",
+    "copy": {
+      "en": "Leave the lake road at the waterfalls and follow the stream as forest gives way to upland terrain.",
+      "zh": "从瀑布旁转入罗兹托卡谷，沿溪流观察林地向高山地形过渡。",
+      "pl": "Z drogi nad Morskie Oko skręć przy Wodogrzmotach. Obserwuj, jak las wzdłuż potoku ustępuje górskiemu krajobrazowi.",
+      "ru": "У водопадов сверните с дороги к озеру и наблюдайте, как лес вдоль ручья сменяется высокогорьем.",
+      "de": "Verlasse die Seestraße am Wasserfall. Am Bach weicht der Wald allmählich dem offenen Hochgebirge."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "roztoka-shelter",
+    "name": "Schronisko PTTK w Dolinie Roztoki",
+    "entry": "Wodogrzmoty Mickiewicza",
+    "wiki": "https://pl.wikipedia.org/wiki/Schronisko_PTTK_w_Dolinie_Roztoki",
+    "area": "Morskie Oko · Dolina Roztoki",
+    "credit": "https://commons.wikimedia.org/wiki/File:Schronisko_w_Roztoce_2012.JPG",
+    "copy": {
+      "en": "The lodge sits below the main lake road. Look for its timber facade and porch in the clearing.",
+      "zh": "山屋在主路下方，林中木构立面和门廊是辨认重点。",
+      "pl": "Schronisko leży poniżej głównej drogi. Zwróć uwagę na drewnianą elewację i werandę od strony polany.",
+      "ru": "Приют расположен ниже основной дороги. Со стороны поляны видны деревянный фасад и веранда.",
+      "de": "Die Hütte liegt unterhalb der Hauptstraße. Von der Lichtung siehst du die Holzfassade und die Veranda."
+    },
+    "historySource": "https://www.zakopane.pl/strefa-turystyczna/turystyka/schroniska-gorskie/schronisko-w-dolinie-roztoki/",
+    "history": {
+      "en": "The lodge is named for Wincenty Pol. From the Mickiewicz waterfalls junction, the green-marked branch descends to the clearing.",
+      "zh": "山屋以 Wincenty Pol 命名。从米茨凯维奇瀑布岔口沿绿色标记支线下行，即可到达山屋所在的林间空地。",
+      "pl": "Schronisko nosi imię Wincentego Pola. Zielony szlak od Wodogrzmotów schodzi do polany przy budynku.",
+      "ru": "Приют носит имя Винценты Поля. От водопадов зелёная тропа спускается к поляне у здания.",
+      "de": "Die Hütte ist nach Wincenty Pol benannt. Von den Wasserfällen führt der grün markierte Abzweig hinab zur Lichtung."
+    }
+  },
+  {
+    "slug": "five-lakes-valley",
+    "name": "Dolina Pięciu Stawów Polskich",
+    "entry": "Dolina Roztoki",
+    "wiki": "https://pl.wikipedia.org/wiki/Dolina_Pi%C4%99ciu_Staw%C3%B3w_Polskich",
+    "area": "Morskie Oko · Dolina Roztoki",
+    "credit": "https://commons.wikimedia.org/wiki/File:Dolina_Pieciu_Stawow_Polskich_2023-09-08.jpg",
+    "copy": {
+      "en": "Several lakes occupy an open glacial valley. Follow the marked path to see how the basins sit against the valley walls.",
+      "zh": "高山湖泊分布在开阔的冰蚀谷地，可沿标记路段观察湖泊与谷壁的关系。",
+      "pl": "W otwartej dolinie polodowcowej leży kilka jezior. Ze szlaku widać związek ich mis ze zboczami.",
+      "ru": "Несколько озёр лежат в открытой ледниковой долине. С тропы видны озёрные котловины и склоны.",
+      "de": "Mehrere Seen liegen im offenen Gletschertal. Vom Weg erkennst du ihre Lage zwischen den Talflanken."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "five-lakes-shelter",
+    "name": "Schronisko PTTK w Dolinie Pięciu Stawów Polskich",
+    "entry": "Dolina Pięciu Stawów Polskich",
+    "wiki": "https://pl.wikipedia.org/wiki/Schronisko_PTTK_w_Dolinie_Pi%C4%99ciu_Staw%C3%B3w_Polskich",
+    "area": "Morskie Oko · Dolina Roztoki",
+    "credit": "https://commons.wikimedia.org/wiki/File:Piecstawow.jpg",
+    "copy": {
+      "en": "The shelter’s stone exterior and lakeside rock make a useful composition from the marked approach.",
+      "zh": "山屋的石砌外墙与湖边裸岩相接，建筑与高山谷地可一起取景。",
+      "pl": "Z oznakowanego dojścia widać kamienne ściany schroniska i skały nad brzegiem.",
+      "ru": "С размеченного подхода хорошо видны каменные стены приюта и скалы у озера.",
+      "de": "Vom markierten Zugang siehst du das Mauerwerk der Hütte und die Felsen am Seeufer."
+    },
+    "historySource": "https://piecstawow.pl/schronisko/historia-2/",
+    "history": {
+      "en": "The present stone shelter, the fifth in the valley, was completed in 1954 with the support of PTTK.",
+      "zh": "现存石砌山屋是谷中第五座山屋，由 PTTK 推动兴建，于 1954 年完工。",
+      "pl": "Obecne, piąte schronisko w dolinie ukończono w 1954 r. staraniem PTTK.",
+      "ru": "Нынешний каменный приют, пятый в долине, построен в 1954 году при поддержке PTTK.",
+      "de": "Die heutige Steinhütte, die fünfte im Tal, wurde 1954 mit Unterstützung des PTTK fertiggestellt."
+    }
+  },
+  {
+    "slug": "siklawa",
+    "name": "Wielka Siklawa",
+    "entry": "Dolina Roztoki",
+    "wiki": "https://pl.wikipedia.org/wiki/Siklawa",
+    "area": "Morskie Oko · Dolina Roztoki",
+    "credit": "https://commons.wikimedia.org/wiki/File:Siklawa_a2.jpg",
+    "copy": {
+      "en": "Water descends over a broad rock slope. Use the marked path to frame the full cascade.",
+      "zh": "瀑布沿岩坡跌落，在公开步道上观察整段落差。",
+      "pl": "Woda spływa po szerokim progu skalnym. Obejrzyj całą kaskadę z oznakowanego szlaku.",
+      "ru": "Вода падает по широкой скальной ступени. Рассмотрите каскад целиком с размеченной тропы.",
+      "de": "Das Wasser fällt über eine breite Felsstufe. Vom markierten Weg siehst du die ganze Kaskade."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "rusinowa-polana",
+    "name": "Rusinowa Polana",
+    "entry": "Wierch Poroniec",
+    "wiki": "https://pl.wikipedia.org/wiki/Rusinowa_Polana",
+    "area": "Rusinowa Polana · Waksmund",
+    "credit": "https://commons.wikimedia.org/wiki/File:Rusinowa_Polana_a1.jpg",
+    "copy": {
+      "en": "The meadow opens toward the High Tatras. Use the pasture edge as foreground for the skyline.",
+      "zh": "草甸东侧打开高塔特拉群峰的视野，可把牧场边缘留在前景。",
+      "pl": "Polana otwiera widok na Tatry Wysokie. Skraj pastwiska może być pierwszym planem zdjęcia.",
+      "ru": "С поляны открывается вид на Высокие Татры. Край пастбища подходит для переднего плана.",
+      "de": "Die Wiese öffnet den Blick auf die Hohe Tatra. Der Weiderand eignet sich als Vordergrund."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "gesia-szyja",
+    "name": "Gęsia Szyja",
+    "entry": "Rusinowa Polana",
+    "wiki": "https://pl.wikipedia.org/wiki/G%C4%99sia_Szyja",
+    "area": "Rusinowa Polana · Waksmund",
+    "credit": "https://commons.wikimedia.org/wiki/File:G%C4%99sia_szyja_T51.jpg",
+    "copy": {
+      "en": "The rocky rise above the meadow offers a higher angle over the forest and distant peaks.",
+      "zh": "登至林间岩石突起后，能把下方草甸和远山置于同一视野。",
+      "pl": "Ze skalistego wzniesienia ponad polaną widać las i dalsze szczyty.",
+      "ru": "Со скального выступа над поляной видны лес и дальние вершины.",
+      "de": "Vom felsigen Rücken oberhalb der Lichtung blickst du über den Wald zu den Gipfeln."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "waksmundzka-rownien",
+    "name": "Rówień Waksmundzka",
+    "entry": "Gęsia Szyja",
+    "wiki": "https://pl.wikipedia.org/wiki/R%C3%B3wie%C5%84_Waksmundzka",
+    "area": "Rusinowa Polana · Waksmund",
+    "credit": "https://commons.wikimedia.org/wiki/File:R%C3%B3wie%C5%84_Waksmundzka_a1.jpg",
+    "copy": {
+      "en": "The clearing is an open pause on a forest route, with a view of the treeline below the ridge.",
+      "zh": "草甸是森林路线的开阔节点，观察山脊下的林线与地形。",
+      "pl": "Na otwartej polanie zobaczysz granicę lasu pod grzbietem.",
+      "ru": "С открытой поляны видна граница леса под хребтом.",
+      "de": "Auf der offenen Lichtung siehst du den Waldrand unterhalb des Kamms."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "polana-pod-woloszynem",
+    "name": "Polana pod Wołoszynem",
+    "entry": "Wodogrzmoty Mickiewicza",
+    "wiki": "https://pl.wikipedia.org/wiki/Polana_pod_Wo%C5%82oszynem",
+    "area": "Rusinowa Polana · Waksmund",
+    "credit": "https://commons.wikimedia.org/wiki/File:Polana_pod_Wo%C5%82oszynem_a1.jpg",
+    "copy": {
+      "en": "The former clearing lies near a trail junction. Use the signs to distinguish the waterfall and Waksmundzka routes.",
+      "zh": "林中草地位于路线交会处，适合辨认前往瀑布和 Waksmundzka 方向的路标。",
+      "pl": "Dawna polana leży przy rozstaju. Sprawdź drogowskazy w stronę Wodogrzmotów i Waksmundzkiej.",
+      "ru": "Бывшая поляна расположена у развилки. Сверьте указатели на водопады и Ваксмундскую поляну.",
+      "de": "Die ehemalige Lichtung liegt an einer Weggabelung. Achte auf die Schilder zu Wasserfällen und Waksmundzka."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "szpiglasowa-przelecz",
+    "name": "Szpiglasowa Przełęcz",
+    "entry": "Morskie Oko",
+    "wiki": "https://pl.wikipedia.org/wiki/Szpiglasowa_Prze%C5%82%C4%99cz",
+    "area": "Morskie Oko · Dolina Roztoki",
+    "credit": "https://commons.wikimedia.org/wiki/File:Szpiglasiprzelecz.jpg",
+    "copy": {
+      "en": "The saddle divides two lake basins. The marked trail provides views in both directions.",
+      "zh": "山口将湖盆分隔开，在标记路线内可对比两侧的山谷。",
+      "pl": "Siodło rozdziela dwie doliny jeziorne. Obie strony obejrzysz z wyznaczonego szlaku.",
+      "ru": "Седловина разделяет две озёрные долины. Обе стороны видны с размеченной тропы.",
+      "de": "Der Sattel trennt zwei Seentäler. Beide Seiten sind vom markierten Weg zu sehen."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "rysy",
+    "name": "Rysy",
+    "entry": "Czarny Staw pod Rysami",
+    "wiki": "https://pl.wikipedia.org/wiki/Rysy",
+    "area": "Morskie Oko · Dolina Roztoki",
+    "credit": "https://commons.wikimedia.org/wiki/File:Zimowe_Rysy.jpg",
+    "copy": {
+      "en": "This is a high-mountain ascent with steep relief above the lakes. Plan it around conditions and your experience.",
+      "zh": "这是高山登顶行程，岩石脊与湖盆之间落差大；请按季节及自身能力决定是否继续。",
+      "pl": "To wysokogórskie podejście ponad jeziorami. Przed wyjściem sprawdź warunki i dopasuj plan do doświadczenia.",
+      "ru": "Это высокогорный подъём над озёрами. Сверьте условия и соотнесите маршрут со своим опытом.",
+      "de": "Der Hochgebirgsaufstieg führt steil über die Seen. Prüfe die Bedingungen und wähle die Tour nach deiner Erfahrung."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "kuznice",
+    "name": "Kuźnice",
+    "entry": "Zakopane",
+    "wiki": "https://pl.wikipedia.org/wiki/Ku%C5%BAnice_%28Zakopane%29",
+    "area": "Kuźnice · Tatry Wysokie",
+    "credit": "https://commons.wikimedia.org/wiki/File:Zakopane_Kuznice.jpg",
+    "copy": {
+      "en": "A former industrial settlement now serves as a trailhead. Look for the historic buildings before choosing a trail.",
+      "zh": "老工业聚落如今是多条步道的起点，可结合历史建筑与登山入口参观。",
+      "pl": "Dawna osada przemysłowa jest dziś węzłem szlaków. Obejrzyj zabytkowe budynki przed wyjściem w góry.",
+      "ru": "Бывший промышленный посёлок стал узлом троп. Осмотрите старые здания перед выходом в горы.",
+      "de": "Die ehemalige Industriesiedlung ist heute ein Ausgangspunkt für Wanderungen. Achte auf die historischen Gebäude."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "kalatowki",
+    "name": "Polana Kalatówki",
+    "entry": "Kuźnice",
+    "wiki": "https://pl.wikipedia.org/wiki/Polana_Kalat%C3%B3wki",
+    "area": "Kuźnice · Tatry Wysokie",
+    "credit": "https://commons.wikimedia.org/wiki/File:Polana_Kalat%C3%B3wki_Dolina_Goryczkowa.jpg",
+    "copy": {
+      "en": "The meadow and hillside hotel sit together in the valley. View the building’s setting from the trail.",
+      "zh": "开阔草甸与山坡旅馆相邻，从步道观察建筑在坡地上的位置。",
+      "pl": "Polana sąsiaduje z hotelem na zboczu. Ze szlaku dobrze widać położenie budynku w dolinie.",
+      "ru": "Поляна соседствует с гостиницей на склоне. С тропы видно, как здание вписано в долину.",
+      "de": "Die Wiese grenzt an ein Hotel am Hang. Vom Weg erkennst du seine Lage im Tal."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "kondratowa",
+    "name": "Hala Kondratowa",
+    "entry": "Kuźnice",
+    "wiki": "https://pl.wikipedia.org/wiki/Hala_Kondratowa",
+    "area": "Kuźnice · Tatry Wysokie",
+    "credit": "https://commons.wikimedia.org/wiki/File:Hala_kondratowa.jpg",
+    "copy": {
+      "en": "The path through Kalatówki leads into a deeper valley, with grassy slopes below the higher ridge.",
+      "zh": "路线经 Kalatówki 进入更深处的谷地，可观察草坡与山脊的层次。",
+      "pl": "Za Kalatówkami szlak wchodzi głębiej w dolinę pod trawiaste zbocza i wyższą grań.",
+      "ru": "За Калатувками тропа уходит в долину под травянистые склоны и высокий гребень.",
+      "de": "Hinter Kalatówki führt der Weg tiefer ins Tal unter grasige Hänge und den höheren Grat."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "giewont",
+    "name": "Giewont",
+    "entry": "Hala Kondratowa",
+    "wiki": "https://pl.wikipedia.org/wiki/Giewont",
+    "area": "Kuźnice · Tatry Wysokie",
+    "credit": "https://commons.wikimedia.org/wiki/File:Giewont_T58.jpg",
+    "copy": {
+      "en": "The summit cross is a landmark from below. The summit ascent is a different undertaking from a valley walk.",
+      "zh": "山顶十字架是远观地标；登顶段与山脚游览是不同强度的行程。",
+      "pl": "Krzyż na szczycie widać z doliny. Wejście na wierzchołek wymaga osobnego planu.",
+      "ru": "Крест на вершине виден из долины. Подъём на вершину требует отдельного плана.",
+      "de": "Das Gipfelkreuz ist vom Tal aus sichtbar. Der Gipfelaufstieg braucht eine eigene Tourenplanung."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "kasprowy-wierch",
+    "name": "Kasprowy Wierch",
+    "entry": "Kuźnice",
+    "wiki": "https://pl.wikipedia.org/wiki/Kasprowy_Wierch",
+    "area": "Kuźnice · Tatry Wysokie",
+    "credit": "https://commons.wikimedia.org/wiki/File:Kasprowy_Wierch.jpg",
+    "copy": {
+      "en": "The cable-car station and observation facilities sit near the ridge, with contrasting terrain on either side.",
+      "zh": "山顶缆车站和高山观测设施位于近山脊处，可观察两侧地形。",
+      "pl": "Stacja kolejki i obiekty obserwacyjne stoją blisko grani. Rozejrzyj się po obu stronach grzbietu.",
+      "ru": "Станция канатной дороги и наблюдательные сооружения стоят у гребня. Сравните виды по обе стороны.",
+      "de": "Seilbahnstation und Beobachtungsanlagen liegen am Grat. Vergleiche die Aussicht auf beiden Seiten."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "hala-gasienicowa",
+    "name": "Hala Gąsienicowa",
+    "entry": "Kuźnice",
+    "wiki": "https://pl.wikipedia.org/wiki/Hala_G%C4%85sienicowa",
+    "area": "Kuźnice · Tatry Wysokie",
+    "credit": "https://commons.wikimedia.org/wiki/File:Hala_G%C4%85sienicowa_at_nightfall.jpg",
+    "copy": {
+      "en": "Timber structures are visible in the open meadow, with rocky peaks marking the basin’s edge.",
+      "zh": "高山草地上可见传统木构，远处岩峰构成盆地边界。",
+      "pl": "Na otwartej hali widać drewniane budynki, a skalne szczyty zamykają panoramę.",
+      "ru": "На открытом лугу видны деревянные постройки, за которыми поднимаются скальные вершины.",
+      "de": "Auf der offenen Alm stehen Holzbauten vor der Kulisse felsiger Gipfel."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "murowaniec",
+    "name": "Schronisko PTTK Murowaniec",
+    "entry": "Hala Gąsienicowa",
+    "wiki": "https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Hali_G%C4%85sienicowej",
+    "area": "Kuźnice · Tatry Wysokie",
+    "credit": "https://commons.wikimedia.org/wiki/File:Murowaniec.jpg",
+    "copy": {
+      "en": "The stone lodge is a landmark at the meadow’s trail junction. Look at how its masonry sits against the mountain backdrop.",
+      "zh": "石造山屋是草地步道网络的辨认点，近看可留意外墙与山地景观的关系。",
+      "pl": "Kamienne schronisko jest punktem orientacyjnym przy rozstaju. Zwróć uwagę na jego mur na tle gór.",
+      "ru": "Каменный приют служит ориентиром у развилки. Рассмотрите кладку на фоне склонов.",
+      "de": "Die Steinhütte markiert eine Wegkreuzung. Achte auf das Mauerwerk vor der Bergkulisse."
+    },
+    "historySource": "https://www.zakopane.pl/pl/strefa-turystyczna/turystyka/schroniska-gorskie/schronisko-na-hali-gasienicowej",
+    "history": {
+      "en": "Murowaniec was built between 1921 and 1925 with support from the Warsaw branch of the Polish Tatra Society.",
+      "zh": "Murowaniec 山屋建于 1921 至 1925 年，兴建工作得到波兰塔特拉协会华沙分会推动。",
+      "pl": "Murowaniec powstał w latach 1921–1925 dzięki staraniom warszawskiego oddziału Polskiego Towarzystwa Tatrzańskiego.",
+      "ru": "Мураванец строился с 1921 по 1925 год при содействии варшавского отделения Польского Татранского общества.",
+      "de": "Murowaniec entstand zwischen 1921 und 1925 mit Unterstützung der Warschauer Sektion des Polnischen Tatra-Vereins."
+    }
+  },
+  {
+    "slug": "czarny-staw-gasienicowy",
+    "name": "Czarny Staw Gąsienicowy",
+    "entry": "Hala Gąsienicowa",
+    "wiki": "https://pl.wikipedia.org/wiki/Czarny_Staw_G%C4%85sienicowy",
+    "area": "Kuźnice · Tatry Wysokie",
+    "credit": "https://commons.wikimedia.org/wiki/File:Czarny_Staw_G%C4%85sienicowy.jpg",
+    "copy": {
+      "en": "This Black Lake lies in the Gąsienicowa basin, a separate valley from the Black Lake above Morskie Oko.",
+      "zh": "这是 Gąsienicowa 谷的黑湖，湖面上方的岩壁与海洋之眼上方黑湖属于不同谷地。",
+      "pl": "To jezioro leży w Dolinie Gąsienicowej, w innej dolinie niż Czarny Staw pod Rysami.",
+      "ru": "Озеро лежит в долине Гонсеницовой, отдельно от Чёрного озера под Рысями.",
+      "de": "Dieser See liegt im Gąsienicowa-Tal, getrennt vom Schwarzen See oberhalb des Morskie Oko."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "nosal",
+    "name": "Nosal",
+    "entry": "Kuźnice",
+    "wiki": "https://pl.wikipedia.org/wiki/Nosal_%28Tatry%29",
+    "area": "Kuźnice · Tatry Wysokie",
+    "credit": "https://commons.wikimedia.org/wiki/File:Niosal_T.7.jpg",
+    "copy": {
+      "en": "Rocky viewpoints above the forest open toward the valley entrance and Zakopane.",
+      "zh": "林线上方的岩石观景点可俯看谷口与扎科帕内方向。",
+      "pl": "Skalne punkty widokowe ponad lasem otwierają panoramę doliny i Zakopanego.",
+      "ru": "Со скальных площадок над лесом видны вход в долину и Закопане.",
+      "de": "Felsige Aussichtspunkte über dem Wald öffnen den Blick zum Taleingang und nach Zakopane."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "bialego-valley",
+    "name": "Dolina Białego",
+    "entry": "Droga pod Reglami",
+    "wiki": "https://pl.wikipedia.org/wiki/Dolina_Bia%C5%82ego",
+    "area": "Zakopane · Regle",
+    "credit": "https://commons.wikimedia.org/wiki/File:Dolina_Bia%C5%82ego.jpg",
+    "copy": {
+      "en": "The stream cuts a narrow valley. Trail bridges give a view of the channel against the rock walls.",
+      "zh": "溪流切入狭窄谷地，可在步道桥上看水流与岩壁。",
+      "pl": "Z mostków na szlaku widać potok wcięty między ściany wąskiej doliny.",
+      "ru": "С мостиков тропы видно, как ручей прорезал узкую долину между скалами.",
+      "de": "Von den Wegbrücken siehst du, wie der Bach sich zwischen die Felswände eingeschnitten hat."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "strazyska-valley",
+    "name": "Dolina Strążyska",
+    "entry": "Zakopane, ul. Strążyska",
+    "wiki": "https://pl.wikipedia.org/wiki/Dolina_Str%C4%85%C5%BCyska",
+    "area": "Zakopane · Regle",
+    "credit": "https://commons.wikimedia.org/wiki/File:Dolina_Str%C4%85%C5%BCyska_a3.jpg",
+    "copy": {
+      "en": "The forest walk opens into a clearing beneath the north side of Giewont.",
+      "zh": "从林间谷道进入开阔地，向高处观察 Giewont 的北侧山体。",
+      "pl": "Leśna droga wychodzi na polanę pod północną ścianą Giewontu.",
+      "ru": "Лесная дорога выходит на поляну под северной стеной Гевонта.",
+      "de": "Der Waldweg öffnet sich auf einer Lichtung unter der Nordseite des Giewont."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "siklawica",
+    "name": "Siklawica",
+    "entry": "Polana Strążyska",
+    "wiki": "https://pl.wikipedia.org/wiki/Siklawica",
+    "area": "Zakopane · Regle",
+    "credit": "https://commons.wikimedia.org/wiki/File:Siklawica_TPN.jpg",
+    "copy": {
+      "en": "Take the short branch from the clearing to see the water pass over two rock steps.",
+      "zh": "从草甸接短支线前往瀑布，留意两级岩壁之间的水流。",
+      "pl": "Z polany odejdź krótkim odgałęzieniem pod wodospad o dwóch stopniach skalnych.",
+      "ru": "От поляны короткое ответвление ведёт к водопаду с двумя скальными ступенями.",
+      "de": "Ein kurzer Abzweig von der Lichtung führt zum Wasserfall über zwei Felsstufen."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "sarnia-skala",
+    "name": "Sarnia Skała",
+    "entry": "Czerwona Przełęcz",
+    "wiki": "https://pl.wikipedia.org/wiki/Sarnia_Ska%C5%82a",
+    "area": "Zakopane · Regle",
+    "credit": "https://commons.wikimedia.org/wiki/File:Sarnia_Ska%C5%82a_2.JPG",
+    "copy": {
+      "en": "Limestone outcrops make a foreground for Giewont and offer a view toward Zakopane.",
+      "zh": "石灰岩露头可作为远望 Giewont 的前景，并能俯瞰扎科帕内一侧。",
+      "pl": "Wapienne skały tworzą pierwszy plan dla widoku na Giewont i Zakopane.",
+      "ru": "Известняковые скалы образуют передний план для вида на Гевонт и Закопане.",
+      "de": "Kalksteinfelsen bilden den Vordergrund für den Blick auf Giewont und Zakopane."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "koscieliska-valley",
+    "name": "Dolina Kościeliska",
+    "entry": "Kiry",
+    "wiki": "https://pl.wikipedia.org/wiki/Dolina_Ko%C5%9Bcieliska",
+    "area": "Dolina Kościeliska",
+    "credit": "https://commons.wikimedia.org/wiki/File:Tatry_Dolina_Koscieliska_dron_%281%29.jpg",
+    "copy": {
+      "en": "The valley path passes rock gates and stream banks, alternating broad meadows with narrow passages.",
+      "zh": "谷道多次经过岩门和溪岸，可对比开阔草甸与收窄的峡段。",
+      "pl": "Droga przy potoku prowadzi przez skalne bramy i otwarte polany.",
+      "ru": "Тропа вдоль ручья проходит через скальные ворота и открытые луга.",
+      "de": "Der Bachweg führt durch Felstore und über offene Wiesen."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "mrozna-cave",
+    "name": "Jaskinia Mroźna",
+    "entry": "Dolina Kościeliska",
+    "wiki": "https://pl.wikipedia.org/wiki/Jaskinia_Mro%C5%BAna",
+    "area": "Dolina Kościeliska",
+    "credit": "https://commons.wikimedia.org/wiki/File:Jaskinia_Mro%C5%BAna.JPG",
+    "copy": {
+      "en": "The cave passage is a separate visit from the valley walk. Check its opening season, ticket rules and entry route.",
+      "zh": "洞内通道与谷底步道是不同游程，先查开放季节、票务和入口走法。",
+      "pl": "Zwiedzanie jaskini wymaga sprawdzenia sezonu, biletu oraz dojścia z dna doliny.",
+      "ru": "Для посещения пещеры проверьте сезон, билет и подход со дна долины.",
+      "de": "Für den Höhlenbesuch prüfst du Saison, Eintritt und Zustieg vom Talboden."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "krakow-gorge",
+    "name": "Wąwóz Kraków",
+    "entry": "Dolina Kościeliska",
+    "wiki": "https://pl.wikipedia.org/wiki/W%C4%85w%C3%B3z_Krak%C3%B3w",
+    "area": "Dolina Kościeliska",
+    "credit": "https://commons.wikimedia.org/wiki/File:W%C4%85w%C3%B3z_Krak%C3%B3w_T69.1.jpg",
+    "copy": {
+      "en": "The narrow gorge contrasts with the valley floor. Check signs and access restrictions before continuing uphill.",
+      "zh": "峡谷的窄壁与谷底的开阔景观反差明显，继续上行前核对标记和通行限制。",
+      "pl": "Wąskie ściany wąwozu kontrastują z otwartym dnem doliny. Przed podejściem sprawdź oznaczenia.",
+      "ru": "Узкие стены ущелья контрастируют с открытым дном долины. Перед подъёмом проверьте указатели.",
+      "de": "Die engen Schluchtwände bilden einen Kontrast zum offenen Talboden. Prüfe die Wegschilder."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "smreczynski-pond",
+    "name": "Smreczyński Staw",
+    "entry": "Polana Smytnia / Hala Ornak",
+    "wiki": "https://pl.wikipedia.org/wiki/Smreczy%C5%84ski_Staw",
+    "area": "Dolina Kościeliska",
+    "credit": "https://commons.wikimedia.org/wiki/File:Smreczy%C5%84ski_Staw.jpg",
+    "copy": {
+      "en": "Observe reflections from the designated lakeside viewing area. Forest surrounds this pond.",
+      "zh": "林间湖泊适合在观景边界内观察倒影，与裸岩环抱的高山湖景不同。",
+      "pl": "Leśny staw można oglądać z wyznaczonego miejsca przy brzegu, z którego widać odbicia drzew.",
+      "ru": "Лесной пруд виден с обозначенной площадки у берега, где заметны отражения деревьев.",
+      "de": "Vom ausgewiesenen Uferplatz siehst du die Spiegelung des Waldes im Teich."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "ornak-shelter",
+    "name": "Schronisko PTTK na Hali Ornak",
+    "entry": "Dolina Kościeliska",
+    "wiki": "https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Hali_Ornak",
+    "area": "Dolina Kościeliska",
+    "credit": "https://commons.wikimedia.org/wiki/File:Schronisko_PTTK_na_Hali_Ornak.JPG",
+    "copy": {
+      "en": "The lodge faces an open lawn. Look for the masonry base and the timber structure above it.",
+      "zh": "山屋临开阔草坪，外观可观察石基与木构上部。",
+      "pl": "Schronisko stoi przy otwartej hali. Zwróć uwagę na kamienną podstawę i drewnianą górę budynku.",
+      "ru": "Приют стоит у поляны. Рассмотрите каменное основание и деревянную верхнюю часть.",
+      "de": "Die Hütte steht an der offenen Alm. Achte auf den steinernen Sockel und den Holzaufbau."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "chocholowska-valley",
+    "name": "Dolina Chochołowska",
+    "entry": "Siwa Polana",
+    "wiki": "https://pl.wikipedia.org/wiki/Dolina_Chocho%C5%82owska",
+    "area": "Dolina Chochołowska",
+    "credit": "https://commons.wikimedia.org/wiki/File:Tatry_Dolina_Chocholowska_dron_%281%29.jpg",
+    "copy": {
+      "en": "The broad valley connects forest and pasture. Notice how the access road follows the working landscape.",
+      "zh": "宽谷串联林地和牧场，适合观察谷中交通路与传统放牧地的关系。",
+      "pl": "Szeroka dolina łączy las i pastwiska. Droga pokazuje układ dawnego krajobrazu pasterskiego.",
+      "ru": "Широкая долина соединяет лес и пастбища. Дорога позволяет увидеть устройство пастушьего ландшафта.",
+      "de": "Das breite Tal verbindet Wald und Weiden. Der Weg zeigt die Struktur der Weidelandschaft."
+    },
+    "historySource": "",
+    "history": null
+  },
+  {
+    "slug": "chocholowska-meadow",
+    "name": "Polana Chochołowska",
+    "entry": "Dolina Chochołowska",
+    "wiki": "https://pl.wikipedia.org/wiki/Polana_Chocho%C5%82owska",
+    "area": "Dolina Chochołowska",
+    "credit": "https://commons.wikimedia.org/wiki/File:Polana_Chocho%C5%82owska_drogowskazy.jpg",
+    "copy": {
+      "en": "Timber huts and meadow slopes make distinctive photo subjects. Stay on the trail during flowering season.",
+      "zh": "牧场木屋和草坡是拍摄重点，花季也应保留步道边界。",
+      "pl": "Drewniane szałasy i skraj polany nadają się na pierwszy plan zdjęcia. W sezonie kwitnienia pozostań na ścieżce.",
+      "ru": "Деревянные хижины и край поляны подходят для переднего плана. В период цветения оставайтесь на тропе.",
+      "de": "Holzhütten und Wiesenrand eignen sich als Vordergrund. Bleib zur Blütezeit auf dem Weg."
+    },
+    "historySource": "https://schroniska.pttk.pl/portal/pl/szlaki/info/3,dolina_chocholowska.html",
+    "history": {
+      "en": "Karol Wojtyła visited this meadow repeatedly. Its huts are part of the valley’s pastoral landscape.",
+      "zh": "卡罗尔·沃伊蒂瓦曾多次到访这片草甸。草甸木屋是谷地传统放牧景观的一部分。",
+      "pl": "Karol Wojtyła wielokrotnie odwiedzał tę polanę. Szałasy należą do krajobrazu pasterskiego doliny.",
+      "ru": "Кароль Войтыла неоднократно бывал на этой поляне. Хижины напоминают о пастушеском прошлом долины.",
+      "de": "Karol Wojtyła besuchte die Alm wiederholt. Die Hütten gehören zur Weidelandschaft des Tals."
+    }
+  }
+]
