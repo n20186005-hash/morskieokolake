@@ -47,7 +47,7 @@ export default async function HomeStructuredData() {
     aggregateRating: {
       '@type': 'AggregateRating',
       ratingValue: '4.8',
-      reviewCount: '6996',
+      reviewCount: '7300',
       bestRating: '5',
       worstRating: '1',
     },
