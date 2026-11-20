@@ -23,7 +23,8 @@ const facilitySources: Record<string, { name: string; url: string }> = {
 export const getFacility = (slug: string) => facilitySources[slug];
 
 export function attractionMap(place: Attraction) {
-  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place.name + ', Tatry, Polska')}`;
+  const region = place.area.split(' · ')[0];
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${place.name}, ${region}, Tatry, Polska`)}`;
 }
 
 export function relatedAttractions(place: Attraction) {
@@ -36,7 +37,7 @@ export const exploreLabels = {
     park: 'Tatra National Park (Tatrzański Park Narodowy) oversees park trails and protected areas here.',
     facility: 'Local facility, service or land manager', basic: 'Basic information', area: 'Area', name: 'Polish name', approach: 'Approach waypoint',
     highlights: 'What to look for', walking: 'Access and walking route', arrival: 'Start by locating this approach waypoint on the park map:',
-    route: 'Follow the marked route for your destination and confirm the return route before leaving the waypoint.',
+    route: 'Walking route at a glance', qRoute: 'Which waypoints should I check before leaving?',
     visit: 'Visiting and photography', photoTip: 'Use the marked trail or visitor area for your photo. Leave room for others to pass.',
     faq: 'Frequently asked questions', qAccess: 'Where can I verify access before setting out?',
     aAccess: 'Check the park bulletin for current trail access. For a building, service or separately ticketed area, also check the operator listed above.',
@@ -49,7 +50,7 @@ export const exploreLabels = {
     park: '塔特拉国家公园（Tatrzański Park Narodowy）负责此区域保护地及园内步道的管理。',
     facility: '设施、服务或土地管理方', basic: '基本信息', area: '所在区域', name: '波兰语名称', approach: '路线衔接点',
     highlights: '景观与观察重点', walking: '交通与步行路线', arrival: '先在国家公园步道图上定位此衔接点：',
-    route: '从衔接点按目的地方向的标记行进，出发前也要核对返程路线。',
+    route: '步行路线节点', qRoute: '出发前要核对哪些路线节点？',
     visit: '游览及拍摄建议', photoTip: '在标记步道或访客区域拍摄，并为其他游客留出通行空间。',
     faq: '常见问题', qAccess: '出发前在哪里核对开放情况？',
     aAccess: '查看国家公园的步道公告。涉及建筑、交通服务或单独售票区域时，也请核对上方运营方的公告。',
@@ -62,7 +63,7 @@ export const exploreLabels = {
     park: 'Tatrzański Park Narodowy odpowiada za ochronę przyrody i zasady korzystania ze szlaków na tym obszarze.',
     facility: 'Zarządca obiektu, usługi lub terenu', basic: 'Informacje podstawowe', area: 'Rejon', name: 'Nazwa polska', approach: 'Punkt na trasie',
     highlights: 'Na co zwrócić uwagę', walking: 'Dojazd i dojście piesze', arrival: 'Na mapie TPN znajdź punkt orientacyjny na trasie:',
-    route: 'Wybierz oznakowany szlak do celu i przed wyruszeniem zaplanuj powrót.',
+    route: 'Najważniejsze punkty trasy', qRoute: 'Jakie punkty sprawdzić przed wyjściem?',
     visit: 'Zwiedzanie i zdjęcia', photoTip: 'Rób zdjęcia w wyznaczonym miejscu lub ze szlaku, zostawiając przejście innym.',
     faq: 'Najczęstsze pytania', qAccess: 'Gdzie sprawdzić dostępność przed wyjściem?',
     aAccess: 'Sprawdź komunikat turystyczny TPN. Informacje o obiekcie, usłudze lub osobnym bilecie sprawdź u podanego zarządcy.',
@@ -75,7 +76,7 @@ export const exploreLabels = {
     park: 'Татранский национальный парк (TPN) отвечает за охраняемую территорию и правила посещения троп.',
     facility: 'Управляющий объектом, услугой или территорией', basic: 'Основные сведения', area: 'Район', name: 'Польское название', approach: 'Ориентир на маршруте',
     highlights: 'На что обратить внимание', walking: 'Как добраться и пройти пешком', arrival: 'Найдите ориентир на карте троп парка:',
-    route: 'Выберите размеченную тропу к цели и проверьте обратный путь до начала прогулки.',
+    route: 'Основные точки маршрута', qRoute: 'Какие точки маршрута проверить заранее?',
     visit: 'Посещение и съёмка', photoTip: 'Снимайте с тропы или площадки для посетителей и оставляйте проход свободным.',
     faq: 'Частые вопросы', qAccess: 'Где проверить, открыт ли маршрут?',
     aAccess: 'Посмотрите сообщения парка. Указанный выше оператор публикует сведения об объекте, услуге и отдельных билетах.',
@@ -88,7 +89,7 @@ export const exploreLabels = {
     park: 'Der Tatra-Nationalpark (TPN) betreut hier die Schutzgebiete und regelt die Nutzung der Parkwege.',
     facility: 'Verwaltung der Anlage, des Dienstes oder Geländes', basic: 'Grundinformationen', area: 'Gebiet', name: 'Polnischer Name', approach: 'Orientierungspunkt am Weg',
     highlights: 'Sehenswertes', walking: 'Anreise und Fußweg', arrival: 'Suche auf der Nationalparkkarte nach diesem Orientierungspunkt:',
-    route: 'Wähle den markierten Weg zum Ziel und prüfe auch den Rückweg, bevor du losgehst.',
+    route: 'Wegpunkte im Überblick', qRoute: 'Welche Wegpunkte sollte ich vorab prüfen?',
     visit: 'Besuch und Fotografie', photoTip: 'Fotografiere vom markierten Weg oder Besucherbereich und halte den Durchgang frei.',
     faq: 'Häufige Fragen', qAccess: 'Wo kann ich den Zugang vorab prüfen?',
     aAccess: 'Lies den Wegehinweis des Nationalparks. Informationen zu Anlagen, Diensten und gesonderten Tickets findest du beim genannten Betreiber.',

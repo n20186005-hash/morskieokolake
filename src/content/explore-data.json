@@ -14,7 +14,19 @@
       "de": "Steige vom Morskie Oko zum oberen See auf. Am Ufer blickst du auf die Karwände und den tiefer liegenden See."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Schronisko PTTK nad Morskim Okiem",
+      "Morskie Oko",
+      "Czarny Staw pod Rysami"
+    ],
+    "context": {
+      "en": "The upper lake occupies a glacial cirque. The shoreline junction is a natural turnaround before the longer Rysy ascent.",
+      "zh": "上湖位于冰斗内。湖岸岔口适合作为折返点，继续往前是更长的雷西峰登顶线。",
+      "pl": "Górne jezioro leży w kotle polodowcowym. Rozstaj przy brzegu to dobry punkt nawrotu przed podejściem na Rysy.",
+      "ru": "Верхнее озеро лежит в ледниковом цирке. У развилки на берегу можно развернуться перед подъёмом на Рысы.",
+      "de": "Der obere See liegt in einem Gletscherkar. Die Uferkreuzung ist ein geeigneter Umkehrpunkt vor dem Anstieg zum Rysy."
+    }
   },
   {
     "slug": "roztoka-valley",
@@ -31,7 +43,19 @@
       "de": "Verlasse die Seestraße am Wasserfall. Am Bach weicht der Wald allmählich dem offenen Hochgebirge."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Palenica Białczańska",
+      "Wodogrzmoty Mickiewicza",
+      "Dolina Roztoki"
+    ],
+    "context": {
+      "en": "The Roztoka drains the Five Lakes basin. This branch leaves the busy lake road and follows a separate valley upstream.",
+      "zh": "罗兹托卡溪承接五湖谷的水流。支线从游客较多的湖畔公路岔出，沿另一条谷地溯溪。",
+      "pl": "Roztoka odwadnia kotlinę Pięciu Stawów. Odgałęzienie opuszcza drogę do Morskiego Oka i biegnie osobną doliną.",
+      "ru": "Розтока отводит воду из долины Пяти озёр. Ответвление уходит с дороги к Морскому Оку вверх по другой долине.",
+      "de": "Die Roztoka entwässert das Fünfseental. Der Abzweig verlässt die Seestraße und führt in ein eigenes Tal."
+    }
   },
   {
     "slug": "roztoka-shelter",
@@ -54,6 +78,18 @@
       "pl": "Schronisko nosi imię Wincentego Pola. Zielony szlak od Wodogrzmotów schodzi do polany przy budynku.",
       "ru": "Приют носит имя Винценты Поля. От водопадов зелёная тропа спускается к поляне у здания.",
       "de": "Die Hütte ist nach Wincenty Pol benannt. Von den Wasserfällen führt der grün markierte Abzweig hinab zur Lichtung."
+    },
+    "route": [
+      "Palenica Białczańska",
+      "Wodogrzmoty Mickiewicza",
+      "Stara Roztoka"
+    ],
+    "context": {
+      "en": "The timber veranda marks the front of this lodge. The descent from the junction also means an uphill walk back to the main road.",
+      "zh": "木构门廊是山屋正面的辨认重点。从岔口下行看屋，回主路时需要重新爬坡。",
+      "pl": "Drewniana weranda wyróżnia fasadę schroniska. Powrót z polany do głównej drogi prowadzi pod górę.",
+      "ru": "Деревянная веранда выделяет фасад приюта. Обратно с поляны к основной дороге придётся подниматься.",
+      "de": "Die Holzveranda prägt die Vorderseite. Von der Lichtung geht es auf dem Rückweg bergauf zur Hauptstraße."
     }
   },
   {
@@ -71,7 +107,19 @@
       "de": "Mehrere Seen liegen im offenen Gletschertal. Vom Weg erkennst du ihre Lage zwischen den Talflanken."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Wodogrzmoty Mickiewicza",
+      "Dolina Roztoki",
+      "Dolina Pięciu Stawów Polskich"
+    ],
+    "context": {
+      "en": "The lake basins are staggered along the valley floor. From the lower end, foreground water and the upper rock bowls show that change in elevation.",
+      "zh": "湖盆沿谷底错落分布。从谷口一侧可把近处水面与高处岩盆纳入一张照片，表现谷底高差。",
+      "pl": "Misy jezior leżą na różnych wysokościach. Od dolnego końca doliny widać wodę na tle wyżej położonych kotłów.",
+      "ru": "Озёрные чаши лежат на разных уровнях. С нижнего края видны ближняя вода и высокие скальные чаши.",
+      "de": "Die Seebecken liegen gestaffelt. Vom unteren Talende sieht man vorderes Wasser und höhere Felskare zugleich."
+    }
   },
   {
     "slug": "five-lakes-shelter",
@@ -94,6 +142,18 @@
       "pl": "Obecne, piąte schronisko w dolinie ukończono w 1954 r. staraniem PTTK.",
       "ru": "Нынешний каменный приют, пятый в долине, построен в 1954 году при поддержке PTTK.",
       "de": "Die heutige Steinhütte, die fünfte im Tal, wurde 1954 mit Unterstützung des PTTK fertiggestellt."
+    },
+    "route": [
+      "Dolina Roztoki",
+      "Przedni Staw Polski",
+      "Schronisko PTTK"
+    ],
+    "context": {
+      "en": "The lodge stands beside Przedni Staw Polski. Look at the roofline against the bare slopes from the approach path.",
+      "zh": "山屋位于 Przedni Staw Polski 湖畔。从入屋步道可对照屋顶线条和背后的裸坡。",
+      "pl": "Schronisko stoi nad Przednim Stawem Polskim. Z dojścia porównaj linię dachu z nagimi zboczami.",
+      "ru": "Приют стоит у Переднего Польского озера. На подходе видна линия крыши на фоне открытых склонов.",
+      "de": "Die Hütte steht am Przedni Staw Polski. Vom Zustieg lässt sich die Dachlinie vor den kahlen Hängen betrachten."
     }
   },
   {
@@ -111,7 +171,19 @@
       "de": "Das Wasser fällt über eine breite Felsstufe. Vom markierten Weg siehst du die ganze Kaskade."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Wodogrzmoty Mickiewicza",
+      "Dolina Roztoki",
+      "Wielka Siklawa"
+    ],
+    "context": {
+      "en": "The cascade lies below the Five Lakes basin outlet. Look uphill from the trail to see the slope that controls the waterfall’s broad shape.",
+      "zh": "瀑布在五湖谷出水口下方。沿标记步道向上看，可以辨认决定瀑面宽度的岩坡。",
+      "pl": "Kaskada leży poniżej odpływu z kotliny Pięciu Stawów. Ze szlaku widać szeroki próg skalny wodospadu.",
+      "ru": "Каскад находится ниже стока из долины Пяти озёр. С тропы видна широкая скальная ступень.",
+      "de": "Der Wasserfall liegt unterhalb des Abflusses des Fünfseentals. Vom Weg sieht man die breite Felsstufe."
+    }
   },
   {
     "slug": "rusinowa-polana",
@@ -128,7 +200,18 @@
       "de": "Die Wiese öffnet den Blick auf die Hohe Tatra. Der Weiderand eignet sich als Vordergrund."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Wierch Poroniec",
+      "Rusinowa Polana"
+    ],
+    "context": {
+      "en": "This pasture has a broad High Tatras panorama. The meadow itself is a useful destination before deciding whether to add the Gęsia Szyja climb.",
+      "zh": "草甸本身就能远望高塔特拉群峰。可先在这里停留，再决定是否加走 Gęsia Szyja 上坡段。",
+      "pl": "Pastwisko otwiera szeroką panoramę Tatr Wysokich. Z polany można wrócić lub wydłużyć spacer o Gęsią Szyję.",
+      "ru": "С пастбища открывается панорама Высоких Татр. На поляне можно развернуться или продолжить подъём на Гусиную Шею.",
+      "de": "Die Weide öffnet ein Panorama der Hohen Tatra. Hier kannst du umkehren oder den Anstieg zur Gęsia Szyja anhängen."
+    }
   },
   {
     "slug": "gesia-szyja",
@@ -145,7 +228,19 @@
       "de": "Vom felsigen Rücken oberhalb der Lichtung blickst du über den Wald zu den Gipfeln."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Wierch Poroniec",
+      "Rusinowa Polana",
+      "Gęsia Szyja"
+    ],
+    "context": {
+      "en": "The rocky summit rise changes the view from meadow level to above the forest. Use the signed route back to Rusinowa Polana.",
+      "zh": "岩质高点把草甸上的平视变成林梢上方的远眺。返回草甸时沿有标识的路线下行。",
+      "pl": "Skalisty wierzchołek podnosi punkt widzenia ponad las. Wróć oznakowanym szlakiem na Rusinową Polanę.",
+      "ru": "Скалистая вершина поднимает точку обзора над лесом. Возвращайтесь на Русинову поляну по разметке.",
+      "de": "Der felsige Gipfel öffnet den Blick über den Wald. Folge für den Rückweg der Markierung zur Rusinowa Polana."
+    }
   },
   {
     "slug": "waksmundzka-rownien",
@@ -162,7 +257,19 @@
       "de": "Auf der offenen Lichtung siehst du den Waldrand unterhalb des Kamms."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Rusinowa Polana",
+      "Gęsia Szyja",
+      "Rówień Waksmundzka"
+    ],
+    "context": {
+      "en": "Treat the clearing as a trail junction and check the onward branch before leaving the forest edge.",
+      "zh": "草甸可作为岔路识别点。在离开林缘前，先核对下一段步道方向。",
+      "pl": "Potraktuj polanę jako rozstaj i sprawdź dalszy kierunek przy skraju lasu.",
+      "ru": "Поляна служит развилкой. Сверьте дальнейшее направление у опушки.",
+      "de": "Die Lichtung dient als Wegknoten. Prüfe am Waldrand, welcher Abzweig weiterführt."
+    }
   },
   {
     "slug": "polana-pod-woloszynem",
@@ -179,7 +286,18 @@
       "de": "Die ehemalige Lichtung liegt an einer Weggabelung. Achte auf die Schilder zu Wasserfällen und Waksmundzka."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Wodogrzmoty Mickiewicza",
+      "Polana pod Wołoszynem"
+    ],
+    "context": {
+      "en": "The former pasture is now read in the forest opening and trail signs. Check the park bulletin for this connecting path.",
+      "zh": "旧牧场可从林中空地和路标辨认。走这段联络道前请核对国家公园公告。",
+      "pl": "Ślad dawnej polany widać w prześwicie lasu i przy drogowskazach. Sprawdź komunikat TPN dla odcinka łącznikowego.",
+      "ru": "Бывшее пастбище узнаётся по просвету в лесу и указателям. Проверьте сообщения парка об этом соединительном участке.",
+      "de": "Die ehemalige Weide erkennt man an der Waldöffnung und den Wegweisern. Prüfe den Parkhinweis zur Verbindung."
+    }
   },
   {
     "slug": "szpiglasowa-przelecz",
@@ -196,7 +314,18 @@
       "de": "Der Sattel trennt zwei Seentäler. Beide Seiten sind vom markierten Weg zu sehen."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Morskie Oko",
+      "Szpiglasowa Przełęcz"
+    ],
+    "context": {
+      "en": "From the saddle, the approach and the descent into the other basin are distinct legs. Plan an out-and-back unless you have checked both sides.",
+      "zh": "山口两侧是不同谷地，接另一侧下山前要核对两段路线。只走一侧时可按原路往返。",
+      "pl": "Podejście i zejście po drugiej stronie prowadzą do różnych dolin. Zaplanuj powrót tą samą stroną, jeśli nie sprawdzono drugiej.",
+      "ru": "Подход и спуск по другой стороне ведут в разные долины. Если второй склон не проверен, планируйте возврат тем же путём.",
+      "de": "Aufstieg und Abstieg auf der Gegenseite führen in verschiedene Täler. Ohne Prüfung beider Seiten ist der Hin- und Rückweg auf derselben Seite sinnvoll."
+    }
   },
   {
     "slug": "rysy",
@@ -213,7 +342,19 @@
       "de": "Der Hochgebirgsaufstieg führt steil über die Seen. Prüfe die Bedingungen und wähle die Tour nach deiner Erfahrung."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Morskie Oko",
+      "Czarny Staw pod Rysami",
+      "Rysy"
+    ],
+    "context": {
+      "en": "Czarny Staw is the last lake on the Polish approach. Use it as a separate turnaround option and assess the upper route before going above the basin.",
+      "zh": "上行至 Czarny Staw 已到波兰侧路线最后一个湖泊。可在湖边折返，离开湖盆前需另行评估登顶段。",
+      "pl": "Czarny Staw to ostatnie jezioro na polskim podejściu. Może być punktem nawrotu przed górnym odcinkiem.",
+      "ru": "Чёрное озеро — последнее озеро на польском подходе. Здесь можно развернуться перед верхним участком.",
+      "de": "Der Schwarze See ist der letzte See am polnischen Zustieg. Er bietet einen Umkehrpunkt vor dem oberen Abschnitt."
+    }
   },
   {
     "slug": "kuznice",
@@ -230,7 +371,18 @@
       "de": "Die ehemalige Industriesiedlung ist heute ein Ausgangspunkt für Wanderungen. Achte auf die historischen Gebäude."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Zakopane",
+      "Kuźnice"
+    ],
+    "context": {
+      "en": "Kuźnice developed around ironworking. The historic settlement and today’s trail junction occupy the same valley entrance.",
+      "zh": "Kuźnice 因铁工业兴起。旧工业聚落与今天的步道交会处都坐落在同一谷口。",
+      "pl": "Kuźnice rozwinęły się wokół hutnictwa. Dawna osada i obecny węzeł szlaków zajmują to samo wejście w dolinę.",
+      "ru": "Кузнице выросли вокруг металлургии. Исторический посёлок и узел троп находятся у одного входа в долину.",
+      "de": "Kuźnice entstand rund um die Eisenverarbeitung. Die historische Siedlung und der Wanderknoten liegen am selben Taleingang."
+    }
   },
   {
     "slug": "kalatowki",
@@ -247,7 +399,18 @@
       "de": "Die Wiese grenzt an ein Hotel am Hang. Vom Weg erkennst du seine Lage im Tal."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Kuźnice",
+      "Polana Kalatówki"
+    ],
+    "context": {
+      "en": "The hillside hotel offers a contrast with the broad meadow. See the building and its approach together from the edge of the clearing.",
+      "zh": "山坡旅馆与开阔草甸形成对比。从草甸边缘可同时观察建筑和上坡进路。",
+      "pl": "Hotel na zboczu kontrastuje z rozległą polaną. Ze skraju widać budynek razem z dojściem.",
+      "ru": "Гостиница на склоне контрастирует с открытой поляной. С её края видны здание и подход к нему.",
+      "de": "Das Hotel am Hang steht im Kontrast zur weiten Wiese. Vom Rand sieht man Gebäude und Zugang zusammen."
+    }
   },
   {
     "slug": "kondratowa",
@@ -264,7 +427,19 @@
       "de": "Hinter Kalatówki führt der Weg tiefer ins Tal unter grasige Hänge und den höheren Grat."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Kuźnice",
+      "Kalatówki",
+      "Hala Kondratowa"
+    ],
+    "context": {
+      "en": "The meadow lies deeper in the valley than Kalatówki. Check lodge access separately, especially if relying on it for a break.",
+      "zh": "这一草甸比 Kalatówki 更深入谷地。如计划在山屋休息，出发前应另外核对其开放情况。",
+      "pl": "Hala leży głębiej w dolinie niż Kalatówki. Sprawdź osobno dostępność schroniska, jeśli planujesz w nim postój.",
+      "ru": "Поляна находится глубже в долине, чем Калатувки. Если планируете отдых в приюте, заранее проверьте его доступность.",
+      "de": "Die Alm liegt tiefer im Tal als Kalatówki. Prüfe die Hüttenöffnung separat, wenn du dort rasten möchtest."
+    }
   },
   {
     "slug": "giewont",
@@ -281,7 +456,20 @@
       "de": "Das Gipfelkreuz ist vom Tal aus sichtbar. Der Gipfelaufstieg braucht eine eigene Tourenplanung."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Kuźnice",
+      "Kalatówki",
+      "Hala Kondratowa",
+      "Giewont"
+    ],
+    "context": {
+      "en": "The summit cross is visible from lower trails. A valley visit gives a clear look at the mountain without committing to the final ascent.",
+      "zh": "较低的步道也能看到山顶十字架。只游览山谷，同样可以观察山体形态。",
+      "pl": "Krzyż widać z niższych szlaków. Spacer w dolinie pozwala obejrzeć górę bez podejścia na wierzchołek.",
+      "ru": "Крест виден с нижних троп. Осмотреть гору можно и из долины, без подъёма на вершину.",
+      "de": "Das Kreuz ist von tieferen Wegen aus sichtbar. Auch eine Talwanderung bietet einen guten Blick auf den Berg."
+    }
   },
   {
     "slug": "kasprowy-wierch",
@@ -298,7 +486,19 @@
       "de": "Seilbahnstation und Beobachtungsanlagen liegen am Grat. Vergleiche die Aussicht auf beiden Seiten."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Zakopane",
+      "Kuźnice",
+      "Kasprowy Wierch"
+    ],
+    "context": {
+      "en": "The cable-car station and mountaintop facilities are distinct features. Confirm the return ride separately before adding a ridge walk.",
+      "zh": "缆车站和山顶设施是不同的观察点。计划加走山脊前，先确认返程缆车安排。",
+      "pl": "Stacja kolejki i obiekty na szczycie to osobne punkty. Przed spacerem granią sprawdź kurs powrotny.",
+      "ru": "Станция канатной дороги и объекты на вершине — разные ориентиры. Перед прогулкой по гребню уточните обратный рейс.",
+      "de": "Seilbahnstation und Gipfelanlagen sind eigene Orientierungspunkte. Prüfe vor einem Gratspaziergang die Rückfahrt."
+    }
   },
   {
     "slug": "hala-gasienicowa",
@@ -315,7 +515,18 @@
       "de": "Auf der offenen Alm stehen Holzbauten vor der Kulisse felsiger Gipfel."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Kuźnice",
+      "Hala Gąsienicowa"
+    ],
+    "context": {
+      "en": "The open meadow preserves traces of pastoral use. Compare the scale of the timber buildings with the rocky peaks behind them.",
+      "zh": "草甸保留放牧利用的痕迹。可以对照木屋的尺度与身后岩峰的高度。",
+      "pl": "Otwarta hala zachowała ślady pasterstwa. Porównaj skalę drewnianych budynków ze skalistymi szczytami w tle.",
+      "ru": "На открытом лугу сохранились следы пастушеского хозяйства. Сравните деревянные постройки со скальными вершинами позади.",
+      "de": "Die offene Alm bewahrt Spuren der Weidenutzung. Vergleiche die Holzbauten mit den felsigen Gipfeln im Hintergrund."
+    }
   },
   {
     "slug": "murowaniec",
@@ -338,6 +549,18 @@
       "pl": "Murowaniec powstał w latach 1921–1925 dzięki staraniom warszawskiego oddziału Polskiego Towarzystwa Tatrzańskiego.",
       "ru": "Мураванец строился с 1921 по 1925 год при содействии варшавского отделения Польского Татранского общества.",
       "de": "Murowaniec entstand zwischen 1921 und 1925 mit Unterstützung der Warschauer Sektion des Polnischen Tatra-Vereins."
+    },
+    "route": [
+      "Kuźnice",
+      "Hala Gąsienicowa",
+      "Murowaniec"
+    ],
+    "context": {
+      "en": "Murowaniec is a trail junction as well as a lodge. Check the signs immediately outside before taking the branch toward the Black Lake.",
+      "zh": "Murowaniec 既是山屋，也是分路点。前往黑湖前，先核对山屋外的路牌。",
+      "pl": "Murowaniec jest schroniskiem i rozstajem szlaków. Przed odejściem w stronę Czarnego Stawu sprawdź drogowskazy przy budynku.",
+      "ru": "Мураванец — приют и развилка. Перед выходом к Чёрному озеру проверьте указатели у здания.",
+      "de": "Murowaniec ist Hütte und Wegknoten. Prüfe am Gebäude die Beschilderung zum Schwarzen See."
     }
   },
   {
@@ -355,7 +578,19 @@
       "de": "Dieser See liegt im Gąsienicowa-Tal, getrennt vom Schwarzen See oberhalb des Morskie Oko."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Kuźnice",
+      "Hala Gąsienicowa",
+      "Czarny Staw Gąsienicowy"
+    ],
+    "context": {
+      "en": "Use the first lakeshore viewpoint to see the basin and the rising rock wall together. The shoreline can be the end of the walk.",
+      "zh": "从最先到达的湖岸观景处可以同时看到湖盆与陡起的岩壁，湖岸可作为这趟步行的终点。",
+      "pl": "Z pierwszego punktu nad brzegiem widać misę jeziora i ścianę skalną. Brzeg może być końcem spaceru.",
+      "ru": "С первой точки у берега видны озёрная чаша и скальная стена. Здесь можно закончить прогулку.",
+      "de": "Am ersten Uferpunkt sieht man Seebecken und Felswand zugleich. Das Ufer kann das Ziel der Wanderung sein."
+    }
   },
   {
     "slug": "nosal",
@@ -372,7 +607,18 @@
       "de": "Felsige Aussichtspunkte über dem Wald öffnen den Blick zum Taleingang und nach Zakopane."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Kuźnice",
+      "Nosal"
+    ],
+    "context": {
+      "en": "The summit rocks sit above the forest. Take the lower viewpoints and the summit as separate options when choosing a turnaround.",
+      "zh": "山顶岩石高出林线。可根据行程把低处观景点和山顶作为不同折返选项。",
+      "pl": "Skały na wierzchołku wystają nad las. Rozważ osobno niższe punkty widokowe i wejście na szczyt.",
+      "ru": "Скалы вершины поднимаются над лесом. Нижние обзорные точки и вершина — разные варианты разворота.",
+      "de": "Die Gipfelfelsen ragen über den Wald. Tiefere Aussichtspunkte und Gipfel sind unterschiedliche Umkehrmöglichkeiten."
+    }
   },
   {
     "slug": "bialego-valley",
@@ -389,7 +635,18 @@
       "de": "Von den Wegbrücken siehst du, wie der Bach sich zwischen die Felswände eingeschnitten hat."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Droga pod Reglami",
+      "Dolina Białego"
+    ],
+    "context": {
+      "en": "The stream and rock walls define the lower gorge. Photograph from a footbridge or a wider trail section where passing walkers have room.",
+      "zh": "溪流与岩壁构成下段峡谷。建议在步桥或较宽的步道段取景，给来往游客留出空间。",
+      "pl": "Potok i ściany skalne tworzą dolną część wąwozu. Fotografuj z mostku lub z szerszego fragmentu szlaku.",
+      "ru": "Ручей и скальные стены формируют нижнее ущелье. Снимайте с мостика или широкого участка тропы.",
+      "de": "Bach und Felswände prägen die untere Schlucht. Fotografiere von einer Brücke oder einem breiteren Wegstück."
+    }
   },
   {
     "slug": "strazyska-valley",
@@ -406,7 +663,19 @@
       "de": "Der Waldweg öffnet sich auf einer Lichtung unter der Nordseite des Giewont."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "ul. Strążyska",
+      "Dolina Strążyska",
+      "Polana Strążyska"
+    ],
+    "context": {
+      "en": "The clearing is the best place on this walk to compare the open valley floor with Giewont’s north face. The waterfall lies on a separate branch.",
+      "zh": "谷底进入草甸后，适合对照开阔谷底与 Giewont 北坡。前往瀑布还需接另一段支线。",
+      "pl": "Na polanie dobrze widać otwarte dno doliny i północną ścianę Giewontu. Do wodospadu prowadzi odgałęzienie.",
+      "ru": "С поляны видны открытое дно долины и северный склон Гевонта. К водопаду ведёт ответвление.",
+      "de": "Auf der Lichtung erkennt man Talboden und Giewont-Nordseite. Der Wasserfall liegt an einem Abzweig."
+    }
   },
   {
     "slug": "siklawica",
@@ -423,7 +692,19 @@
       "de": "Ein kurzer Abzweig von der Lichtung führt zum Wasserfall über zwei Felsstufen."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "ul. Strążyska",
+      "Polana Strążyska",
+      "Siklawica"
+    ],
+    "context": {
+      "en": "This is the waterfall off Strążyska, while Wielka Siklawa lies in the Roztoka valley. Include both rock steps in the frame if visible from the path.",
+      "zh": "这里是 Strążyska 谷支线上的 Siklawica，与罗兹托卡谷的 Wielka Siklawa 是两个地点。可从步道上尝试把上下两级岩壁纳入画面。",
+      "pl": "Siklawica leży przy Dolinie Strążyskiej, a Wielka Siklawa w Roztoce. Jeśli widać oba progi, obejmij je w kadrze ze szlaku.",
+      "ru": "Сиклавица находится у долины Стронжиской, а Великая Сиклава — в Розтоке. С тропы попробуйте снять обе ступени.",
+      "de": "Siklawica liegt am Strążyska-Tal, Wielka Siklawa im Roztoka-Tal. Sind beide Felsstufen sichtbar, nimm sie vom Weg aus ins Bild."
+    }
   },
   {
     "slug": "sarnia-skala",
@@ -440,7 +721,19 @@
       "de": "Kalksteinfelsen bilden den Vordergrund für den Blick auf Giewont und Zakopane."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Droga pod Reglami",
+      "Czerwona Przełęcz",
+      "Sarnia Skała"
+    ],
+    "context": {
+      "en": "The rocky viewpoint is reached by a branch from the saddle. Compare the view toward Giewont with the lower town-facing side.",
+      "zh": "从山口沿支线前往岩石观景点，可对比面向 Giewont 山体和面向市区的两个视角。",
+      "pl": "Do skał prowadzi odnoga z przełęczy. Porównaj widok na Giewont z widokiem w stronę miasta.",
+      "ru": "К скальной площадке ведёт ответвление с перевала. Сравните вид на Гевонт и на город.",
+      "de": "Ein Abzweig vom Sattel führt zum Felsaussichtspunkt. Vergleiche den Blick auf Giewont mit der Stadtseite."
+    }
   },
   {
     "slug": "koscieliska-valley",
@@ -457,7 +750,19 @@
       "de": "Der Bachweg führt durch Felstore und über offene Wiesen."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Kiry",
+      "Dolina Kościeliska",
+      "Hala Ornak"
+    ],
+    "context": {
+      "en": "Rock gates alternate with open sections along the stream. Keep the valley walk as the main plan and add individual cave or gorge branches only after checking access.",
+      "zh": "溪谷沿途岩门和开阔地交替出现。可先安排谷底主线，再根据通行情况决定是否加走洞穴或峡谷支线。",
+      "pl": "Wzdłuż potoku skalne bramy przeplatają się z otwartymi odcinkami. Odnogi do jaskiń i wąwozu dodaj po sprawdzeniu dostępności.",
+      "ru": "Вдоль ручья скальные ворота сменяются открытыми участками. Ответвления к пещере и ущелью добавляйте после проверки доступа.",
+      "de": "Am Bach wechseln Felstore und offene Abschnitte. Höhlen- und Schluchtabzweige erst nach Prüfung des Zugangs einplanen."
+    }
   },
   {
     "slug": "mrozna-cave",
@@ -474,7 +779,19 @@
       "de": "Für den Höhlenbesuch prüfst du Saison, Eintritt und Zustieg vom Talboden."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Kiry",
+      "Dolina Kościeliska",
+      "Jaskinia Mroźna"
+    ],
+    "context": {
+      "en": "The cave visit has its own entry arrangements. Check the park’s cave notices before climbing from the valley path to the entrance.",
+      "zh": "洞穴使用独立的入洞安排。从谷底步道爬往洞口前，先查看公园的洞穴开放公告。",
+      "pl": "Jaskinia ma osobne zasady wejścia. Sprawdź komunikat przed podejściem z dna doliny.",
+      "ru": "Для пещеры действуют отдельные правила входа. Проверьте сообщение парка перед подъёмом со дна долины.",
+      "de": "Für die Höhle gelten eigene Zugangsregeln. Prüfe den Parkhinweis vor dem Aufstieg vom Talweg."
+    }
   },
   {
     "slug": "krakow-gorge",
@@ -491,7 +808,19 @@
       "de": "Die engen Schluchtwände bilden einen Kontrast zum offenen Talboden. Prüfe die Wegschilder."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Kiry",
+      "Dolina Kościeliska",
+      "Wąwóz Kraków"
+    ],
+    "context": {
+      "en": "The steep, enclosed corridor has a different character from the main valley path. Check each marked branch at the entrance before continuing.",
+      "zh": "峡谷内陡而狭窄，与谷底主路地形不同。进入前逐一核对入口处各支线的标识。",
+      "pl": "Stromy, zamknięty korytarz różni się od drogi dolinnej. Przy wejściu sprawdź oznaczenia wszystkich odnóg.",
+      "ru": "Крутой узкий коридор отличается от основной тропы долины. У входа проверьте указатели ответвлений.",
+      "de": "Der steile, enge Korridor unterscheidet sich vom Talweg. Prüfe am Eingang die Markierung der Abzweige."
+    }
   },
   {
     "slug": "smreczynski-pond",
@@ -508,7 +837,20 @@
       "de": "Vom ausgewiesenen Uferplatz siehst du die Spiegelung des Waldes im Teich."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Kiry",
+      "Dolina Kościeliska",
+      "Hala Ornak",
+      "Smreczyński Staw"
+    ],
+    "context": {
+      "en": "Forested shores give this pond a different shape in photographs from the exposed High Tatras lakes. Look for reflections from the designated viewing edge.",
+      "zh": "森林环岸让这处水面有别于高塔特拉裸岩湖景。可从指定观景边缘捕捉林木倒影。",
+      "pl": "Zalesiony brzeg odróżnia staw od otwartych jezior Tatr Wysokich. Odbicia najlepiej obserwować z wyznaczonego miejsca.",
+      "ru": "Лесистый берег отличает пруд от открытых озёр Высоких Татр. Наблюдайте отражения с обозначенной площадки.",
+      "de": "Das bewaldete Ufer unterscheidet den Teich von den offenen Hochgebirgsseen. Achte vom ausgewiesenen Platz aus auf Spiegelungen."
+    }
   },
   {
     "slug": "ornak-shelter",
@@ -525,7 +867,19 @@
       "de": "Die Hütte steht an der offenen Alm. Achte auf den steinernen Sockel und den Holzaufbau."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Kiry",
+      "Dolina Kościeliska",
+      "Hala Ornak"
+    ],
+    "context": {
+      "en": "The lodge stands near several marked branches. Its front lawn gives a view of the stone base and timber roof before deciding whether to add the pond walk.",
+      "zh": "山屋靠近多条标记步道。可先从前方草地观察石基与木顶，再决定是否加走林间湖支线。",
+      "pl": "Przy schronisku rozchodzą się szlaki. Z polany widać kamienną podstawę i drewniany dach przed ewentualnym spacerem do stawu.",
+      "ru": "У приюта расходятся тропы. С поляны видны каменное основание и деревянная крыша, прежде чем решать, идти ли к пруду.",
+      "de": "An der Hütte verzweigen sich Wege. Von der Lichtung siehst du Steinsockel und Holzdach, bevor du den Teichabstecher einplanst."
+    }
   },
   {
     "slug": "chocholowska-valley",
@@ -542,7 +896,19 @@
       "de": "Das breite Tal verbindet Wald und Weiden. Der Weg zeigt die Struktur der Weidelandschaft."
     },
     "historySource": "",
-    "history": null
+    "history": null,
+    "route": [
+      "Siwa Polana",
+      "Dolina Chochołowska",
+      "Polana Chochołowska"
+    ],
+    "context": {
+      "en": "The valley corridor links successive pastures. Check admission through the forest community and distinguish the entrance meadow from the upper clearing.",
+      "zh": "谷道串联多处牧场。入谷前核对林地共同体的票务，并区分入口 Siwa Polana 与上游的 Chochołowska 草甸。",
+      "pl": "Dolina łączy kolejne pastwiska. Sprawdź zasady wstępu u wspólnoty leśnej i odróżnij Siwą Polanę od górnej polany.",
+      "ru": "Долина соединяет несколько пастбищ. Проверьте вход у лесного сообщества и различайте Сиву поляну и верхнюю поляну.",
+      "de": "Das Tal verbindet mehrere Weiden. Prüfe den Eintritt bei der Waldgemeinschaft und unterscheide die Eingangswiese von der oberen Lichtung."
+    }
   },
   {
     "slug": "chocholowska-meadow",
@@ -565,6 +931,18 @@
       "pl": "Karol Wojtyła wielokrotnie odwiedzał tę polanę. Szałasy należą do krajobrazu pasterskiego doliny.",
       "ru": "Кароль Войтыла неоднократно бывал на этой поляне. Хижины напоминают о пастушеском прошлом долины.",
       "de": "Karol Wojtyła besuchte die Alm wiederholt. Die Hütten gehören zur Weidelandschaft des Tals."
+    },
+    "route": [
+      "Siwa Polana",
+      "Dolina Chochołowska",
+      "Polana Chochołowska"
+    ],
+    "context": {
+      "en": "Look at the timber huts from the path across the meadow. The spacing of the buildings helps show how the pasture was used.",
+      "zh": "沿穿越草甸的步道看木屋。木屋之间的距离有助于理解牧场原来的空间布局。",
+      "pl": "Oglądaj szałasy ze ścieżki przez polanę. Rozstaw budynków pokazuje układ dawnego pastwiska.",
+      "ru": "Осматривайте деревянные хижины с тропы через поляну. Расположение построек показывает устройство пастбища.",
+      "de": "Betrachte die Holzhütten vom Weg über die Lichtung. Ihre Anordnung zeigt die Struktur der früheren Weide."
     }
   }
 ]

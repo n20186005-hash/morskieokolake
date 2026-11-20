@@ -45,6 +45,7 @@ export default async function ExplorePage({ params }: Params) {
   const facility = getFacility(slug);
   const hub = accessHub(place);
   const related = relatedAttractions(place);
+  const route = place.route.join(" → ");
 
   return (
     <>
@@ -69,6 +70,8 @@ export default async function ExplorePage({ params }: Params) {
             <h2 id="about-place" className="font-display mb-2 text-2xl font-semibold">{t.about}</h2>
             <p>{t.park} <a className="underline" href={park}>Tatrzański Park Narodowy</a></p>
             {facility && <p className="mt-2">{t.facility} · <a href={facility.url} className="underline">{facility.name}</a></p>}
+            <p className="mt-2 max-w-3xl">{place.history?.[locale] ?? place.context[locale]}</p>
+            <a className="mt-2 inline-block underline" href={place.historySource || place.wiki}>{t.placeReference}</a>
           </section>
           <section>
             <h2 className="font-display mb-2 text-2xl font-semibold">{t.basic}</h2>
@@ -81,8 +84,7 @@ export default async function ExplorePage({ params }: Params) {
           <section>
             <h2 className="font-display mb-2 text-2xl font-semibold">{t.highlights}</h2>
             <p className="max-w-3xl">{place.copy[locale]}</p>
-            {place.history?.[locale] && <p className="mt-3 max-w-3xl">{place.history[locale]}</p>}
-            <a className="mt-2 inline-block underline" href={place.historySource || place.wiki}>{t.placeReference}</a>
+            {place.history && <p className="mt-3 max-w-3xl">{place.context[locale]}</p>}
           </section>
           <section>
             <h2 className="font-display mb-2 text-2xl font-semibold">{t.walking}</h2>
@@ -92,7 +94,7 @@ export default async function ExplorePage({ params }: Params) {
                 <a href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(hub.map)}`} className="underline">{hub.name}</a>
                 {hub.name !== place.entry && <> → <a href={parkMap} className="underline">{place.entry}</a></>}
               </li>
-              <li>{t.route}</li>
+              <li><strong>{t.route}</strong><p>{route}</p></li>
               <li>{returnPlan(place, locale)}</li>
               {/* The visitor's destination has its own map link, independent of the trailhead. */}
               <li><a className="underline" href={attractionMap(place)}>{t.map} · {place.name}</a></li>
@@ -109,6 +111,7 @@ export default async function ExplorePage({ params }: Params) {
           <section>
             <h2 className="font-display mb-2 text-2xl font-semibold">{t.faq}</h2>
             <details className="mb-3"><summary>{t.qAccess}</summary><p className="mt-2">{t.aAccess} <a className="underline" href={trailUpdates}>{t.updates}</a></p></details>
+            <details className="mb-3"><summary>{t.qRoute}</summary><p className="mt-2">{route} · <a href={parkMap} className="underline">{t.parkMap}</a></p></details>
             <details><summary>{t.qTickets}</summary><p className="mt-2">{t.aTickets} <a className="underline" href={place.area === 'Dolina Chochołowska' && facility ? facility.url : parkAdmission}>{place.area === 'Dolina Chochołowska' && facility ? facility.name : t.admission}</a></p></details>
           </section>
           <section>
