@@ -15,7 +15,6 @@ const park = 'https://tpn.gov.pl/';
 const lakeMap = 'https://maps.app.goo.gl/EkjxMAqKNf9H8NCb6';
 type Params = { params: Promise<{ locale: Locale; topic: Topic }> };
 
-export const dynamicParams = false;
 export function generateStaticParams() {
   return topics.map((topic) => ({ topic }));
 }

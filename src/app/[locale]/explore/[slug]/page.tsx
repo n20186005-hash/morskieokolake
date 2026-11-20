@@ -10,7 +10,6 @@ import { routing, type Locale } from '@/i18n/routing';
 const site = 'https://morskieokolake.com';
 type Params = { params: Promise<{ locale: Locale; slug: string }> };
 
-export const dynamicParams = false;
 
 export function generateStaticParams() {
   return attractions.map(({ slug }) => ({ slug }));
