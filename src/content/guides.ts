@@ -1,6 +1,8 @@
+import { nearbyCopy, nearbyTopics, type NearbyTopic } from './nearby';
 import type { Locale } from '@/i18n/routing';
 
-export const topics = ['parking', 'tickets', 'from-zakopane'] as const;
+export const planningTopics = ['parking', 'tickets', 'from-zakopane'] as const;
+export const topics = [...planningTopics, ...nearbyTopics] as const;
 export type Topic = (typeof topics)[number];
 type Guide = { title: string; summary: string; sections: [string, string][] };
 
@@ -17,13 +19,19 @@ const tickets = 'https://tpn.gov.pl/wstep-do-parku';
 const station = 'https://www.zakopane.pl/zawartosc/informator-turystyczny/nowe-rozklady-jazdy/';
 const operator = 'https://morskieokorozkladjazdy.pl/';
 const electric = 'https://tpn.gov.pl/e-busy-do-morskiego-oka';
+const park = 'https://tpn.gov.pl/';
+const trail = 'https://tpn.gov.pl/uploads/files/67c426acbfa5a272466864.pdf';
 const conditions = 'https://tpn.gov.pl/komunikat-turystyczny';
 export const sources: Record<Topic, string[]> = {
   parking: [parking, conditions],
+  'mickiewicz-waterfalls': [conditions, trail, tickets],
+  wlosienica: [conditions, trail, electric, tickets],
   tickets: [tickets, parking, conditions],
   'from-zakopane': [station, operator, electric, conditions, parking],
 };
 export const sourceLabels: Record<string, string> = {
+  [trail]: 'TPN · Szlaki turystyczne',
+  [park]: 'Tatrzański Park Narodowy',
   [parking]: 'TPN · Parkingi Morskie Oko',
   [tickets]: 'TPN · Bilety',
   [conditions]: 'TPN · Komunikat turystyczny',
@@ -32,7 +40,7 @@ export const sourceLabels: Record<string, string> = {
   [electric]: 'TPN · E-busy do Morskiego Oka',
 };
 
-export const guides = {
+const planning = {
   en: {
     parking: {
       title: 'Morskie Oko parking at Palenica Białczańska and Łysa Polana',
@@ -183,4 +191,13 @@ export const guides = {
       ],
     },
   },
-} satisfies Record<Locale, Record<Topic, Guide>>;
+} satisfies Record<Locale, Record<(typeof planningTopics)[number], Guide>>;
+
+export function getGuide(locale: Locale, topic: Topic): Guide {
+  if (isNearby(topic)) return nearbyCopy[locale][topic];
+  return planning[locale][topic];
+}
+
+export function isNearby(topic: Topic): topic is NearbyTopic {
+  return (nearbyTopics as readonly Topic[]).includes(topic);
+}

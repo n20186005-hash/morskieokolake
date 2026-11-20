@@ -70,6 +70,7 @@ export default async function HomePage({
         <TransportSection />
         <RouteSection />
         <GuideLinks locale={locale as Locale} />
+        <GuideLinks locale={locale as Locale} nearby />
         <WeatherSection />
         <Gallery />
         <Reviews />
